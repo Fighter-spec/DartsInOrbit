@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/jordanandrews/Desktop/OrbitalDarts/DartsInOrbit/Content/Characters/Input/IMC_DartsGame.uasset",
+				"/Users/jordanandrews/Desktop/OrbitalDarts/DartsInOrbit/Content/Characters/Input/PlayerBP.uasset",
+				"/Users/jordanandrews/Desktop/OrbitalDarts/DartsInOrbit/Content/Characters/Input/IA_Rise.uasset",
+				"/Users/jordanandrews/Desktop/OrbitalDarts/DartsInOrbit/Content/Characters/Input/MyGameGamemode.uasset",
+				"/Users/jordanandrews/Desktop/OrbitalDarts/DartsInOrbit/Content/Menu.umap",
+				"/Users/jordanandrews/Desktop/OrbitalDarts/DartsInOrbit/Content/Characters/Input/IA_Move2.uasset"
+			]
+		}
+	]
+}
