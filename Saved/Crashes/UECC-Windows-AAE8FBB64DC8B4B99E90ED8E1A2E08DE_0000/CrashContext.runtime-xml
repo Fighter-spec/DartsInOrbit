@@ -68,7 +68,7 @@ Fatal world leaks detected. Logging first error, check logs for additional infor
 		<DeploymentName />
 		<EngineVersion>5.6.1-44394996+++UE5+Release-5.6</EngineVersion>
 		<EngineCompatibleVersion>5.6.1-44394996+++UE5+Release-5.6</EngineCompatibleVersion>
-		<CommandLine>C:/Users/Realf/OneDrive/Documents/GitHub/DartsInOrbit/DartsInOrbit.uproject</CommandLine>
+		<CommandLine>CommandLineRemoved</CommandLine>
 		<LanguageLCID>9</LanguageLCID>
 		<AppDefaultLocale>en-US</AppDefaultLocale>
 		<BuildVersion>++UE5+Release-5.6-CL-44394996</BuildVersion>
