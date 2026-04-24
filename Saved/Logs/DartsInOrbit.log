@@ -35325,3 +35325,60 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.04.24-02.49.43:074][359]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Sounds/powerUp_Cue_Auto5
 [2026.04.24-02.49.43:074][359]LogSavePackage: Moving '../../../../../../Users/Realf/OneDrive/Documents/GitHub/DartsInOrbit/Saved/powerUp_Cue_Auto50042CEE44132CCACC995C996311B4AE9.tmp' to '../../../../../../Users/Realf/OneDrive/Documents/GitHub/DartsInOrbit/Saved/Autosaves/Game/Sounds/powerUp_Cue_Auto5.uasset'
 [2026.04.24-02.49.43:074][359]LogFileHelpers: Auto-saving content packages took 0.406
+[2026.04.24-02.51.19:788][650]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10226.265625
+[2026.04.24-02.51.20:788][653]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.24-02.51.20:788][653]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10226.932617, Update Interval: 336.863922
+[2026.04.24-02.53.25:974][145]LogStreaming: Display: FlushAsyncLoading(30930): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.24-02.53.26:040][145]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Realf/OneDrive/Documents/aliencubes.fbx]
+[2026.04.24-02.53.56:210][145]LogSlate: Window 'Import Content' being destroyed
+[2026.04.24-02.53.56:232][145]LogInterchangeEngine: [Pending] Importing
+[2026.04.24-02.53.56:323][146]LogInterchangeEngine: [Pending] Importing - Operation was canceled by user.
+[2026.04.24-02.53.56:323][146]LogInterchangeEngine: [Success] Import Canceled
+[2026.04.24-02.54.06:519][344]LogStreaming: Display: FlushAsyncLoading(30934): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.24-02.54.06:584][344]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Realf/OneDrive/Documents/aliencubes.fbx]
+[2026.04.24-02.54.14:674][344]LogSlate: Window 'Import Content' being destroyed
+[2026.04.24-02.54.14:702][344]LogInterchangeEngine: [Pending] Importing
+[2026.04.24-02.54.14:784][345]LogInterchangeEngine: [Pending] Importing - Operation was canceled by user.
+[2026.04.24-02.54.14:784][345]LogInterchangeEngine: [Success] Import Canceled
+[2026.04.24-02.54.42:952][155]LogContentBrowser: Deferred new asset file creation: Cube2
+[2026.04.24-02.54.43:010][155]LogContentBrowser: Creating deferred item: Cube2
+[2026.04.24-02.54.43:037][156]LogContentBrowser: Renaming the item being created (Deferred Item: Cube2).
+[2026.04.24-02.54.46:653][432]LogContentBrowser: Attempting asset rename: Cube2 -> skelcube
+[2026.04.24-02.54.46:657][432]LogContentBrowser: End creating deferred item Cube2
+[2026.04.24-02.54.56:598][ 80]LogSlate: Window 'Static Mesh Conversion Options' being destroyed
+[2026.04.24-02.54.56:624][ 80]LogSkeletalMesh: Section 0: Material=0, 48 triangles
+[2026.04.24-02.54.56:624][ 80]LogSkeletalMesh: Building Skeletal Mesh SKM_skelcube...
+[2026.04.24-02.54.56:627][ 80]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Engine/BasicShapes/SKM_skelcube.SKM_skelcube
+[2026.04.24-02.54.56:790][ 81]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_119
+[2026.04.24-02.54.56:826][ 82]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_120
+[2026.04.24-02.57.49:944][333]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10616.223633
+[2026.04.24-02.57.50:037][341]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.24-02.57.50:037][341]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10616.303711, Update Interval: 352.466797
+[2026.04.24-02.59.43:256][282]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2026.04.24-02.59.43:269][282]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level2' took 0.044
+[2026.04.24-02.59.43:269][282]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Engine/BasicShapes/skelcube] ([1] browsable assets)...
+[2026.04.24-02.59.43:299][282]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Engine/BasicShapes/skelcube.skelcube]
+[2026.04.24-02.59.43:299][282]OBJ SavePackage: Finished generating thumbnails for package [/Engine/BasicShapes/skelcube]
+[2026.04.24-02.59.43:307][282]LogSavePackage: Moving output files for package: /Temp/Autosaves/Engine/BasicShapes/skelcube_Auto6
+[2026.04.24-02.59.43:307][282]LogSavePackage: Moving '../../../../../../Users/Realf/OneDrive/Documents/GitHub/DartsInOrbit/Saved/skelcube_Auto698ADE68144824314D428369BE410A21E.tmp' to '../../../../../../Users/Realf/OneDrive/Documents/GitHub/DartsInOrbit/Saved/Autosaves/Engine/BasicShapes/skelcube_Auto6.uasset'
+[2026.04.24-02.59.43:308][282]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Engine/BasicShapes/SK_skelcube] ([1] browsable assets)...
+[2026.04.24-02.59.43:318][282]OBJ SavePackage:     Rendered thumbnail for [Skeleton /Engine/BasicShapes/SK_skelcube.SK_skelcube]
+[2026.04.24-02.59.43:318][282]OBJ SavePackage: Finished generating thumbnails for package [/Engine/BasicShapes/SK_skelcube]
+[2026.04.24-02.59.43:323][282]LogSavePackage: Moving output files for package: /Temp/Autosaves/Engine/BasicShapes/SK_skelcube_Auto6
+[2026.04.24-02.59.43:323][282]LogSavePackage: Moving '../../../../../../Users/Realf/OneDrive/Documents/GitHub/DartsInOrbit/Saved/SK_skelcube_Auto69E46F2AB4A1AC7AB86F5FE91EB2D2D8D.tmp' to '../../../../../../Users/Realf/OneDrive/Documents/GitHub/DartsInOrbit/Saved/Autosaves/Engine/BasicShapes/SK_skelcube_Auto6.uasset'
+[2026.04.24-02.59.43:324][282]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Engine/BasicShapes/SKM_skelcube] ([1] browsable assets)...
+[2026.04.24-02.59.43:329][282]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Engine/BasicShapes/SKM_skelcube.SKM_skelcube]
+[2026.04.24-02.59.43:329][282]OBJ SavePackage: Finished generating thumbnails for package [/Engine/BasicShapes/SKM_skelcube]
+[2026.04.24-02.59.43:336][282]LogSavePackage: Moving output files for package: /Temp/Autosaves/Engine/BasicShapes/SKM_skelcube_Auto6
+[2026.04.24-02.59.43:336][282]LogSavePackage: Moving '../../../../../../Users/Realf/OneDrive/Documents/GitHub/DartsInOrbit/Saved/SKM_skelcube_Auto682E35BCE49129CED133E48BE1234EB6D.tmp' to '../../../../../../Users/Realf/OneDrive/Documents/GitHub/DartsInOrbit/Saved/Autosaves/Engine/BasicShapes/SKM_skelcube_Auto6.uasset'
+[2026.04.24-02.59.43:336][282]LogFileHelpers: Auto-saving content packages took 0.068
+[2026.04.24-03.00.37:847][ 65]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.24-03.00.37:934][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2026.04.24-03.00.37:959][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2026.04.24-03.00.37:983][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2026.04.24-03.00.38:001][ 65]LogFileHelpers: InternalPromptForCheckoutAndSave took 153.321 ms (total: 2.79 sec)
+[2026.04.24-03.00.41:800][357]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.24-03.00.41:895][357]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2026.04.24-03.00.41:920][357]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2026.04.24-03.00.41:946][357]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2026.04.24-03.00.41:962][357]LogFileHelpers: InternalPromptForCheckoutAndSave took 162.864 ms (total: 2.96 sec)
