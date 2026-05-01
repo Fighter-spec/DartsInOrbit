@@ -15707,3 +15707,276 @@ Sampler Limit: 32
 [2026.05.01-22.15.14:803][528]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10076.473633
 [2026.05.01-22.15.15:801][531]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.05.01-22.15.15:801][531]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10077.139648, Update Interval: 332.472900
+[2026.05.01-22.15.53:053][785]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.01-22.15.53:150][785]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2026.05.01-22.15.53:178][785]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2026.05.01-22.15.53:202][785]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2026.05.01-22.15.53:215][785]LogFileHelpers: InternalPromptForCheckoutAndSave took 162.698 ms (total: 8.41 sec)
+[2026.05.01-22.15.58:748][944]LogSlate: Window 'Message' being destroyed
+[2026.05.01-22.15.58:768][944]Message dialog closed, result: Yes, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/Materials/M_star.M_star
+(Selecting 'No' will cause all changes to be lost!)
+[2026.05.01-22.15.58:814][944]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [dome]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.01-22.15.58:814][944]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [dome]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.01-22.15.58:815][944]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [dome]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.01-22.15.58:815][944]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [dome]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.01-22.15.58:878][944]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [dome]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.01-22.15.58:878][944]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [dome]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.01-22.15.58:878][944]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [dome]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.01-22.15.58:878][944]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [dome]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.01-22.15.58:878][944]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [dome]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.01-22.15.58:878][944]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [dome]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.01-22.15.58:878][944]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [dome]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.01-22.15.58:878][944]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [dome]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.01-22.15.58:878][944]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [dome]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.01-22.15.58:885][944]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [dome]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.01-22.15.58:885][944]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [dome]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.01-22.15.58:885][944]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [dome]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.01-22.15.58:885][944]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [dome]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.01-22.15.58:885][944]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [dome]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.01-22.15.58:885][944]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [dome]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.01-22.15.58:885][944]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [dome]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.01-22.15.58:885][944]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [dome]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.01-22.15.58:885][944]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [dome]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.01-22.15.58:920][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2026.05.01-22.15.59:125][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2026.05.01-22.16.02:616][944]LogSlate: Window 'Message' being destroyed
+[2026.05.01-22.16.02:636][944]Message dialog closed, result: Yes, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/Materials/M_Bounds8.M_Bounds8
+(Selecting 'No' will cause all changes to be lost!)
+[2026.05.01-22.16.02:676][944]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [dome]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.01-22.16.02:676][944]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [dome]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.01-22.16.02:677][944]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [dome]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.01-22.16.02:677][944]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [dome]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.01-22.16.02:708][944]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [dome]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.01-22.16.02:708][944]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [dome]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.01-22.16.02:708][944]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [dome]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.01-22.16.02:708][944]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [dome]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.01-22.16.02:708][944]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [dome]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.01-22.16.02:708][944]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [dome]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.01-22.16.02:708][944]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [dome]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.01-22.16.02:708][944]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [dome]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.01-22.16.02:708][944]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [dome]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.01-22.16.02:714][944]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [dome]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.01-22.16.02:714][944]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [dome]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.01-22.16.02:714][944]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [dome]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.01-22.16.02:714][944]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [dome]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.01-22.16.02:714][944]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [dome]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.01-22.16.02:714][944]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [dome]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.01-22.16.02:714][944]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [dome]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.01-22.16.02:714][944]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [dome]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.01-22.16.02:714][944]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [dome]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.01-22.16.02:749][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2026.05.01-22.16.02:960][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2026.05.01-22.16.03:003][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2026.05.01-22.16.04:618][944]LogSlate: Window 'Save Content' being destroyed
+[2026.05.01-22.16.04:641][944]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.01-22.16.04:715][944]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sounds/348249__newagesoup__power-down-01] ([1] browsable assets)...
+[2026.05.01-22.16.04:715][944]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sounds/348249__newagesoup__power-down-01]
+[2026.05.01-22.16.04:724][944]LogSavePackage: Moving output files for package: /Game/Sounds/348249__newagesoup__power-down-01
+[2026.05.01-22.16.04:724][944]LogSavePackage: Moving '../../../../../../Users/Realf/OneDrive/Documents/GitHub/DartsInOrbit/Saved/348249__newagesoup__power-down-06A2BFA124DAD56CE2354D5B0E829E5D7.tmp' to '../../../../../../Users/Realf/OneDrive/Documents/GitHub/DartsInOrbit/Content/Sounds/348249__newagesoup__power-down-01.uasset'
+[2026.05.01-22.16.04:727][944]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_BiggerTarget] ([2] browsable assets)...
+[2026.05.01-22.16.04:741][944]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_BiggerTarget.BP_BiggerTarget]
+[2026.05.01-22.16.04:741][944]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_BiggerTarget]
+[2026.05.01-22.16.04:741][944]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_BiggerTarget" FILE="../../../../../../Users/Realf/OneDrive/Documents/GitHub/DartsInOrbit/Content/Blueprints/BP_BiggerTarget.uasset" SILENT=true
+[2026.05.01-22.16.04:757][944]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_BiggerTarget
+[2026.05.01-22.16.04:757][944]LogSavePackage: Moving '../../../../../../Users/Realf/OneDrive/Documents/GitHub/DartsInOrbit/Saved/BP_BiggerTarget5C58CAA24066AD381260E29A905DDC4A.tmp' to '../../../../../../Users/Realf/OneDrive/Documents/GitHub/DartsInOrbit/Content/Blueprints/BP_BiggerTarget.uasset'
+[2026.05.01-22.16.04:759][944]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_SpeedUp] ([2] browsable assets)...
+[2026.05.01-22.16.04:765][944]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_SpeedUp.BP_SpeedUp]
+[2026.05.01-22.16.04:765][944]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_SpeedUp]
+[2026.05.01-22.16.04:765][944]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_SpeedUp" FILE="../../../../../../Users/Realf/OneDrive/Documents/GitHub/DartsInOrbit/Content/Blueprints/BP_SpeedUp.uasset" SILENT=true
+[2026.05.01-22.16.04:797][944]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_SpeedUp
+[2026.05.01-22.16.04:797][944]LogSavePackage: Moving '../../../../../../Users/Realf/OneDrive/Documents/GitHub/DartsInOrbit/Saved/BP_SpeedUp1EC948484F9CCC95BECC2FA8D48C4272.tmp' to '../../../../../../Users/Realf/OneDrive/Documents/GitHub/DartsInOrbit/Content/Blueprints/BP_SpeedUp.uasset'
+[2026.05.01-22.16.04:799][944]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/M_Bounds8] ([1] browsable assets)...
+[2026.05.01-22.16.04:806][944]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Materials/M_Bounds8.M_Bounds8]
+[2026.05.01-22.16.04:806][944]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/M_Bounds8]
+[2026.05.01-22.16.04:806][944]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Bounds8" FILE="../../../../../../Users/Realf/OneDrive/Documents/GitHub/DartsInOrbit/Content/Materials/M_Bounds8.uasset" SILENT=true
+[2026.05.01-22.16.04:811][944]LogSavePackage: Moving output files for package: /Game/Materials/M_Bounds8
+[2026.05.01-22.16.04:811][944]LogSavePackage: Moving '../../../../../../Users/Realf/OneDrive/Documents/GitHub/DartsInOrbit/Saved/M_Bounds8F5A6D5904AF7800EE11046BCFF61CAD9.tmp' to '../../../../../../Users/Realf/OneDrive/Documents/GitHub/DartsInOrbit/Content/Materials/M_Bounds8.uasset'
+[2026.05.01-22.16.04:814][944]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Materials/M_Glow3] ([1] browsable assets)...
+[2026.05.01-22.16.04:814][944]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/M_Glow3]
+[2026.05.01-22.16.04:814][944]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Glow3" FILE="../../../../../../Users/Realf/OneDrive/Documents/GitHub/DartsInOrbit/Content/Materials/M_Glow3.uasset" SILENT=true
+[2026.05.01-22.16.04:819][944]LogSavePackage: Moving output files for package: /Game/Materials/M_Glow3
+[2026.05.01-22.16.04:819][944]LogSavePackage: Moving '../../../../../../Users/Realf/OneDrive/Documents/GitHub/DartsInOrbit/Saved/M_Glow3BCCB901E458347745D8F3FABD0369101.tmp' to '../../../../../../Users/Realf/OneDrive/Documents/GitHub/DartsInOrbit/Content/Materials/M_Glow3.uasset'
+[2026.05.01-22.16.04:820][944]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/M_star] ([1] browsable assets)...
+[2026.05.01-22.16.04:826][944]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Materials/M_star.M_star]
+[2026.05.01-22.16.04:826][944]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/M_star]
+[2026.05.01-22.16.04:826][944]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_star" FILE="../../../../../../Users/Realf/OneDrive/Documents/GitHub/DartsInOrbit/Content/Materials/M_star.uasset" SILENT=true
+[2026.05.01-22.16.04:832][944]LogSavePackage: Moving output files for package: /Game/Materials/M_star
+[2026.05.01-22.16.04:832][944]LogSavePackage: Moving '../../../../../../Users/Realf/OneDrive/Documents/GitHub/DartsInOrbit/Saved/M_star6DF6A39349662CF4EEC72F84AD70CB4B.tmp' to '../../../../../../Users/Realf/OneDrive/Documents/GitHub/DartsInOrbit/Content/Materials/M_star.uasset'
+[2026.05.01-22.16.04:833][944]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Characters/Input/PlayerBP] ([2] browsable assets)...
+[2026.05.01-22.16.04:844][944]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Characters/Input/PlayerBP.PlayerBP]
+[2026.05.01-22.16.04:844][944]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Input/PlayerBP]
+[2026.05.01-22.16.04:844][944]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Input/PlayerBP" FILE="../../../../../../Users/Realf/OneDrive/Documents/GitHub/DartsInOrbit/Content/Characters/Input/PlayerBP.uasset" SILENT=true
+[2026.05.01-22.16.04:900][944]LogSavePackage: Moving output files for package: /Game/Characters/Input/PlayerBP
+[2026.05.01-22.16.04:900][944]LogSavePackage: Moving '../../../../../../Users/Realf/OneDrive/Documents/GitHub/DartsInOrbit/Saved/PlayerBPC3F5DE5C40E4976D8EDCA28C067CDB68.tmp' to '../../../../../../Users/Realf/OneDrive/Documents/GitHub/DartsInOrbit/Content/Characters/Input/PlayerBP.uasset'
+[2026.05.01-22.16.04:901][944]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SPINNER] ([1] browsable assets)...
+[2026.05.01-22.16.04:901][944]OBJ SavePackage: Finished generating thumbnails for package [/Game/SPINNER]
+[2026.05.01-22.16.04:901][944]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SPINNER" FILE="../../../../../../Users/Realf/OneDrive/Documents/GitHub/DartsInOrbit/Content/SPINNER.uasset" SILENT=true
+[2026.05.01-22.16.04:908][944]LogSavePackage: Moving output files for package: /Game/SPINNER
+[2026.05.01-22.16.04:908][944]LogSavePackage: Moving '../../../../../../Users/Realf/OneDrive/Documents/GitHub/DartsInOrbit/Saved/SPINNERB3A9792A405C92320C8F6D96413699DC.tmp' to '../../../../../../Users/Realf/OneDrive/Documents/GitHub/DartsInOrbit/Content/SPINNER.uasset'
+[2026.05.01-22.16.04:909][944]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Spinner2] ([2] browsable assets)...
+[2026.05.01-22.16.04:909][944]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Spinner2]
+[2026.05.01-22.16.04:909][944]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Spinner2" FILE="../../../../../../Users/Realf/OneDrive/Documents/GitHub/DartsInOrbit/Content/Blueprints/Spinner2.uasset" SILENT=true
+[2026.05.01-22.16.04:916][944]LogSavePackage: Moving output files for package: /Game/Blueprints/Spinner2
+[2026.05.01-22.16.04:917][944]LogSavePackage: Moving '../../../../../../Users/Realf/OneDrive/Documents/GitHub/DartsInOrbit/Saved/Spinner2F1CCE1864B345B76121058B28314B010.tmp' to '../../../../../../Users/Realf/OneDrive/Documents/GitHub/DartsInOrbit/Content/Blueprints/Spinner2.uasset'
+[2026.05.01-22.16.04:928][944]LogFileHelpers: InternalPromptForCheckoutAndSave took 286.516 ms (total: 8.69 sec)
+[2026.05.01-22.16.04:978][944]LogStall: Shutdown...
+[2026.05.01-22.16.04:978][944]LogStall: Shutdown complete.
+[2026.05.01-22.16.05:034][944]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2026.05.01-22.16.05:034][944]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.01-22.16.05:145][944]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2026.05.01-22.16.05:146][944]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.01-22.16.05:214][944]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2026.05.01-22.16.05:214][944]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.01-22.16.05:298][944]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2026.05.01-22.16.05:298][944]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.01-22.16.05:387][944]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2026.05.01-22.16.05:387][944]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.01-22.16.05:425][944]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2026.05.01-22.16.05:425][944]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.01-22.16.05:467][944]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.05.01-22.16.05:467][944]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2026.05.01-22.16.05:467][944]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.01-22.16.05:520][944]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.05.01-22.16.05:520][944]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2026.05.01-22.16.05:520][944]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.01-22.16.05:564][944]LogSlate: Window 'Spinner2' being destroyed
+[2026.05.01-22.16.05:572][944]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.05.01-22.16.05:572][944]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2026.05.01-22.16.05:572][944]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.01-22.16.05:618][944]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.05.01-22.16.05:618][944]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2026.05.01-22.16.05:618][944]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.01-22.16.05:709][944]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.05.01-22.16.05:709][944]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2026.05.01-22.16.05:709][944]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.01-22.16.05:763][944]LogSlate: Window 'Content Browser' being destroyed
+[2026.05.01-22.16.05:776][944]LogSlate: Window 'DartsInOrbit - Unreal Editor' being destroyed
+[2026.05.01-22.16.05:973][944]LogContentValidation: Display: Starting to validate 9 assets
+[2026.05.01-22.16.05:973][944]LogContentValidation: Enabled validators:
+[2026.05.01-22.16.05:973][944]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.01-22.16.05:973][944]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.01-22.16.05:973][944]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.01-22.16.05:973][944]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.01-22.16.05:973][944]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.01-22.16.05:973][944]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.01-22.16.05:973][944]AssetCheck: /Game/Sounds/348249__newagesoup__power-down-01 Validating asset
+[2026.05.01-22.16.05:973][944]AssetCheck: /Game/Blueprints/BP_BiggerTarget Validating asset
+[2026.05.01-22.16.05:973][944]AssetCheck: /Game/Blueprints/BP_SpeedUp Validating asset
+[2026.05.01-22.16.05:973][944]AssetCheck: /Game/Materials/M_Bounds8 Validating asset
+[2026.05.01-22.16.05:973][944]AssetCheck: /Game/Materials/M_Glow3 Validating asset
+[2026.05.01-22.16.05:973][944]AssetCheck: /Game/Materials/M_star Validating asset
+[2026.05.01-22.16.05:973][944]AssetCheck: /Game/Characters/Input/PlayerBP Validating asset
+[2026.05.01-22.16.05:973][944]AssetCheck: /Game/SPINNER Validating asset
+[2026.05.01-22.16.05:973][944]AssetCheck: /Game/Blueprints/Spinner2 Validating asset
+[2026.05.01-22.16.06:035][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2026.05.01-22.16.06:109][944]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [dome]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.01-22.16.06:111][944]Cmd: QUIT_EDITOR
+[2026.05.01-22.16.06:111][944]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2026.05.01-22.16.06:113][944]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/Realf/OneDrive/Documents/GitHub/DartsInOrbit/Saved/SourceControl/UncontrolledChangelists.json
+[2026.05.01-22.16.06:119][945]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2026.05.01-22.16.06:120][945]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2026.05.01-22.16.06:120][945]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2026.05.01-22.16.06:131][945]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2026.05.01-22.16.06:131][945]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.01-22.16.06:131][945]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Level2.Level2
+[2026.05.01-22.16.06:140][945]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2026.05.01-22.16.06:140][945]LogStylusInput: Shutting down StylusInput subsystem.
+[2026.05.01-22.16.06:140][945]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2026.05.01-22.16.06:149][945]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2026.05.01-22.16.06:149][945]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.01-22.16.06:153][945]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2026.05.01-22.16.06:153][945]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.01-22.16.06:156][945]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2026.05.01-22.16.06:156][945]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.01-22.16.06:157][945]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2026.05.01-22.16.06:157][945]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.01-22.16.06:159][945]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2026.05.01-22.16.06:159][945]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.01-22.16.06:160][945]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2026.05.01-22.16.06:160][945]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.01-22.16.06:161][945]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2026.05.01-22.16.06:161][945]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.01-22.16.06:163][945]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2026.05.01-22.16.06:163][945]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.01-22.16.06:164][945]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2026.05.01-22.16.06:164][945]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.01-22.16.06:164][945]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2026.05.01-22.16.06:164][945]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.01-22.16.06:167][945]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2026.05.01-22.16.06:167][945]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.01-22.16.06:168][945]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2026.05.01-22.16.06:168][945]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.01-22.16.06:170][945]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2026.05.01-22.16.06:170][945]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.01-22.16.06:171][945]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2026.05.01-22.16.06:171][945]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.01-22.16.06:173][945]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2026.05.01-22.16.06:173][945]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.01-22.16.06:174][945]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2026.05.01-22.16.06:174][945]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.01-22.16.06:176][945]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2026.05.01-22.16.06:176][945]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.01-22.16.06:177][945]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2026.05.01-22.16.06:177][945]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.01-22.16.06:179][945]LogRuntimeTelemetry: Recording EnginePreExit events
+[2026.05.01-22.16.06:179][945]LogStudioTelemetry: Ended StudioTelemetry Session
+[2026.05.01-22.16.06:186][945]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2026.05.01-22.16.06:214][945]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2026.05.01-22.16.06:214][945]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2026.05.01-22.16.06:214][945]LogAudio: Display: Audio Device unregistered from world 'Level2'.
+[2026.05.01-22.16.06:214][945]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2026.05.01-22.16.06:214][945]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=4
+[2026.05.01-22.16.06:217][945]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=2
+[2026.05.01-22.16.06:223][945]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2026.05.01-22.16.06:223][945]LogAudio: Display: Audio Device Manager Shutdown
+[2026.05.01-22.16.06:224][945]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2026.05.01-22.16.06:226][945]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2026.05.01-22.16.06:227][945]LogExit: Preparing to exit.
+[2026.05.01-22.16.06:273][945]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2026.05.01-22.16.06:283][945]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.01-22.16.06:283][945]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.01-22.16.06:283][945]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.01-22.16.06:283][945]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.01-22.16.06:283][945]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.01-22.16.06:283][945]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.01-22.16.06:283][945]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.01-22.16.06:283][945]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.01-22.16.06:283][945]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.01-22.16.06:283][945]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.01-22.16.06:283][945]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.01-22.16.06:283][945]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.01-22.16.06:283][945]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.01-22.16.06:283][945]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.01-22.16.06:283][945]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.01-22.16.06:283][945]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.01-22.16.06:283][945]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.01-22.16.06:283][945]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.01-22.16.06:283][945]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.01-22.16.06:283][945]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.01-22.16.06:283][945]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.01-22.16.06:994][945]LogEditorDataStorage: Deinitializing
+[2026.05.01-22.16.07:077][945]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2026.05.01-22.16.07:134][945]LogExit: Editor shut down
+[2026.05.01-22.16.07:137][945]LogExit: Transaction tracking system shut down
+[2026.05.01-22.16.07:444][945]LogExit: Object subsystem successfully closed.
+[2026.05.01-22.16.07:521][945]LogShaderCompilers: Display: Shaders left to compile 0
+[2026.05.01-22.16.07:596][945]LogMemoryProfiler: Shutdown
+[2026.05.01-22.16.07:596][945]LogNetworkingProfiler: Shutdown
+[2026.05.01-22.16.07:596][945]LoadingProfiler: Shutdown
+[2026.05.01-22.16.07:596][945]LogTimingProfiler: Shutdown
+[2026.05.01-22.16.07:596][945]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2026.05.01-22.16.07:596][945]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2026.05.01-22.16.07:863][945]LogChaosDD: Chaos Debug Draw Shutdown
+[2026.05.01-22.16.07:893][945]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2026.05.01-22.16.07:893][945]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B8819F065-4070-8ACA-5532-72A516380CF4%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=f43454e6e517421ca242b5f0c54ad3d3%7Ca16dea01fecb41eebe695b9ea9efa2c8%7C7ef0b7cc-5783-4f85-92a6-f8d919fd1df9&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2026.05.01-22.16.08:422][945]LogEOSShared: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2026.05.01-22.16.08:427][945]LogNFORDenoise: NFORDenoise function shutting down
+[2026.05.01-22.16.08:427][945]RenderDocPlugin: plugin has been unloaded.
+[2026.05.01-22.16.08:429][945]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2026.05.01-22.16.08:429][945]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2026.05.01-22.16.08:429][945]LogPakFile: Destroying PakPlatformFile
+[2026.05.01-22.16.08:818][945]LogD3D12RHI: ~FD3D12DynamicRHI
+[2026.05.01-22.16.08:841][945]LogExit: Exiting.
+[2026.05.01-22.16.08:862][945]Log file closed, 05/01/26 17:16:08
