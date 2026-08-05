@@ -1,0 +1,8 @@
+{
+	"BuildId": "43139311",
+	"Modules": 
+	{
+		"AnimatedGif": "UnrealEditor-AnimatedGif.dll",
+		"AnimatedGifEditor": "UnrealEditor-AnimatedGifEditor.dll"
+	}
+}

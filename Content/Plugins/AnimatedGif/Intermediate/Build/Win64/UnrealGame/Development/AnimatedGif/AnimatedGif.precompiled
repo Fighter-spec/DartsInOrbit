@@ -1,0 +1,15 @@
+{
+	"OutputFiles": [
+		"..\\..\\..\\x64\\UnrealGame\\Development\\AnimatedGif\\Module.AnimatedGif.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\AnimatedGif\\AnimatedGifFunctionLibrary.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\AnimatedGif\\AnimatedGifImage.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\AnimatedGif\\AnimatedGifModule.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\AnimatedGif\\AsyncAction_LoadAnimatedGif.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\AnimatedGif\\GifAsset.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\AnimatedGif\\GifDecoder.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\AnimatedGif\\GifPlaybackSubsystem.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\AnimatedGif\\GifPlayer.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\AnimatedGif\\SAnimatedGifImage.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\AnimatedGif\\StbImageImpl.cpp.obj"
+	]
+}
