@@ -13494,3 +13494,1100 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.08.06-03.40.24:497][738]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=78, StreamState=2
 [2026.08.06-03.40.24:504][738]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
 [2026.08.06-03.40.24:540][740]LogPlayLevel: Display: Destroying online subsystem :Context_103
+[2026.08.06-03.40.56:422][294]LogSlate: Window '1kSineTonePing' being destroyed
+[2026.08.06-03.40.56:429][294]LogSlate: Window '1kSineTonePing' being destroyed
+[2026.08.06-03.42.15:248][299]LogSlate: Window 'Color Picker' being destroyed
+[2026.08.06-03.42.51:689][508]LogSlate: Window 'Color Picker' being destroyed
+[2026.08.06-03.42.56:075][989]LogSlate: Window 'Color Picker' being destroyed
+[2026.08.06-03.43.00:486][464]LogSlate: Window 'Color Picker' being destroyed
+[2026.08.06-03.43.02:119][652]LogEditorTransaction: Undo Edit Color and Opacity
+[2026.08.06-03.43.02:378][659]LogEditorTransaction: Undo Edit Specified Color
+[2026.08.06-03.43.07:910][251]LogSlate: Window 'Color Picker' being destroyed
+[2026.08.06-03.43.25:402][221]LogSlate: Window 'Color Picker' being destroyed
+[2026.08.06-03.43.31:702][947]LogSlate: Window 'Color Picker' being destroyed
+[2026.08.06-03.43.37:715][647]LogSlate: Window 'Color Picker' being destroyed
+[2026.08.06-03.43.53:323][417]LogEditorTransaction: Undo Drag and Drop Widget
+[2026.08.06-03.44.16:105][994]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9654.204102
+[2026.08.06-03.44.16:214][  7]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.08.06-03.44.16:214][  7]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9654.305664, Update Interval: 329.270294
+[2026.08.06-03.44.24:886][ 27]LogSlate: Window 'Color Picker' being destroyed
+[2026.08.06-03.44.30:777][712]LogSlate: Window 'Color Picker' being destroyed
+[2026.08.06-03.45.05:003][732]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+2d, getting last resort font data /Users/jordanandrews/Downloads/corptic-font/CorpticdemoRegular-Yqrp4.otf
+[2026.08.06-03.45.05:003][732]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+34, getting last resort font data /Users/jordanandrews/Downloads/corptic-font/CorpticdemoRegular-Yqrp4.otf
+[2026.08.06-03.45.05:003][732]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+5f, getting last resort font data /Users/jordanandrews/Downloads/corptic-font/CorpticdemoRegular-Yqrp4.otf
+[2026.08.06-03.46.35:913][130]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_114
+[2026.08.06-03.46.35:918][130]LogStreaming: Display: FlushAsyncLoading(14286): 1 QueuedPackages, 0 AsyncPackages
+[2026.08.06-03.46.45:618][979]LogStreaming: Display: FlushAsyncLoading(14287): 1 QueuedPackages, 0 AsyncPackages
+[2026.08.06-03.47.13:763][309]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.08.06-03.47.13:763][309]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.08.06-03.47.13:767][309]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.08.06-03.47.13:839][310]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.08.06-03.47.13:926][311]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.08.06-03.47.13:928][311]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.08.06-03.47.13:999][312]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.08.06-03.47.14:011][312]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.08.06-03.47.14:091][313]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.08.06-03.47.14:092][313]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.08.06-03.47.14:165][314]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.08.06-03.47.14:175][314]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.08.06-03.47.14:255][315]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.08.06-03.47.14:259][315]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.08.06-03.47.14:328][316]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.08.06-03.47.14:416][317]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.08.06-03.47.14:421][317]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.08.06-03.47.14:492][318]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.08.06-03.47.14:502][318]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.08.06-03.47.14:583][319]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.08.06-03.47.14:656][320]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.08.06-03.47.14:666][320]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.08.06-03.47.14:749][321]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.08.06-03.47.14:903][323]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.08.06-03.47.29:039][936]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.08.06-03.47.29:040][936]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.08.06-03.47.29:118][937]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.08.06-03.47.29:128][937]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.08.06-03.47.29:210][938]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.08.06-03.47.29:213][938]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.08.06-03.47.29:285][939]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.08.06-03.47.29:378][940]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.08.06-03.47.29:381][940]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.08.06-03.47.29:453][941]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.08.06-03.47.29:462][941]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.08.06-03.47.29:545][942]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.08.06-03.47.29:618][943]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.08.06-03.47.29:629][943]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.08.06-03.47.29:709][944]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.08.06-03.47.29:713][944]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.08.06-03.47.29:783][945]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.08.06-03.47.29:874][946]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.08.06-03.47.29:876][946]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.08.06-03.47.29:948][947]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.08.06-03.47.29:949][947]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.08.06-03.47.29:959][947]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.08.06-03.47.30:040][948]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.08.06-03.47.30:041][948]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.08.06-03.47.44:858][628]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.08.06-03.47.44:859][628]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.08.06-03.47.44:935][629]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.08.06-03.47.44:945][629]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.08.06-03.47.45:026][630]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.08.06-03.47.45:029][630]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.08.06-03.47.45:101][631]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.08.06-03.47.45:192][632]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.08.06-03.47.45:195][632]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.08.06-03.47.45:266][633]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.08.06-03.47.45:276][633]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.08.06-03.47.45:358][634]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.08.06-03.47.45:433][635]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.08.06-03.47.45:443][635]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.08.06-03.47.45:524][636]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.08.06-03.47.45:526][636]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.08.06-03.47.45:596][637]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.08.06-03.47.45:688][638]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.08.06-03.47.45:692][638]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.08.06-03.47.45:763][639]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.08.06-03.47.45:773][639]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.08.06-03.47.45:864][641]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.08.06-03.47.45:933][642]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.08.06-03.47.45:935][642]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.08.06-03.47.45:945][642]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.08.06-03.47.46:025][643]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.08.06-03.47.46:098][644]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.08.06-03.47.46:108][644]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.08.06-03.47.46:188][645]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.08.06-03.47.46:192][645]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.08.06-03.47.46:267][646]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.08.06-03.47.46:356][647]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.08.06-03.47.46:360][647]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.08.06-03.47.46:430][648]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.08.06-03.47.46:431][648]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.08.06-03.47.46:441][648]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.08.06-03.47.46:525][649]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.08.06-03.47.46:604][650]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.08.06-03.47.46:614][650]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.08.06-03.47.46:695][651]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.08.06-03.47.46:699][651]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.08.06-03.47.46:770][652]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.08.06-03.47.46:859][653]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.08.06-03.47.46:863][653]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.08.06-03.47.46:934][654]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.08.06-03.47.46:944][654]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.08.06-03.47.47:025][655]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.08.06-03.47.47:101][656]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.08.06-03.47.47:103][656]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.08.06-03.47.47:113][656]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.08.06-03.47.47:193][657]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.08.06-03.47.47:198][657]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.08.06-03.47.47:271][658]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.08.06-03.47.47:272][658]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.08.06-03.47.47:360][659]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.08.06-03.47.47:362][659]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.08.06-03.47.47:365][659]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.08.06-03.47.47:437][660]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.08.06-03.47.47:447][660]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.08.06-03.47.47:528][661]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.08.06-03.47.47:605][662]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.08.06-03.47.47:615][662]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.08.06-03.47.47:695][663]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.08.06-03.47.47:697][663]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.08.06-03.47.47:699][663]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.08.06-03.47.47:770][664]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.08.06-03.47.47:859][665]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.08.06-03.47.47:863][665]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.08.06-03.47.47:934][666]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.08.06-03.47.47:944][666]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.08.06-03.47.48:025][667]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.08.06-03.47.48:026][667]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.08.06-03.48.34:687][ 44]LogShaderCompilers: Display: ================================================
+[2026.08.06-03.48.34:687][ 44]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.08.06-03.48.34:687][ 44]LogShaderCompilers: Display: Total job queries 845, among them cache hits 216 (25.56%), DDC hits 385 (45.56%), Duplicates 82 (9.70%)
+[2026.08.06-03.48.34:687][ 44]LogShaderCompilers: Display: Tracking 547 distinct input hashes that result in 418 distinct outputs (76.42%)
+[2026.08.06-03.48.34:687][ 44]LogShaderCompilers: Display: RAM used: 3.71 MiB of 1.60 GiB budget. Usage: 0.23%
+[2026.08.06-03.48.34:687][ 44]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.08.06-03.48.34:687][ 44]LogShaderCompilers: Display: Shaders Compiled: 162
+[2026.08.06-03.48.34:687][ 44]LogShaderCompilers: Display: Jobs assigned 162, completed 162 (100%)
+[2026.08.06-03.48.34:687][ 44]LogShaderCompilers: Display: Average time worker was idle: 301.20 s
+[2026.08.06-03.48.34:687][ 44]LogShaderCompilers: Display: Time job spent in pending queue: average 3.57 s, longest 10.47 s
+[2026.08.06-03.48.34:687][ 44]LogShaderCompilers: Display: Job execution time: average 0.81 s, max 4.07 s
+[2026.08.06-03.48.34:687][ 44]LogShaderCompilers: Display: Job life time (pending + execution): average 4.38 s, max 11.69
+[2026.08.06-03.48.34:687][ 44]LogShaderCompilers: Display: Shader code size: total 1.57 MiB, numShaders 166, average 9.69 KiB, min 1.857 KiB, max 23.594 KiB
+[2026.08.06-03.48.34:687][ 44]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 29.11 s
+[2026.08.06-03.48.34:687][ 44]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.02%
+[2026.08.06-03.48.34:687][ 44]LogShaderCompilers: Display: Jobs were issued in 159 batches (only local compilation was used), average 1.02 jobs/batch
+[2026.08.06-03.48.34:687][ 44]LogShaderCompilers: Display: Average processing rate: 5.56 jobs/sec
+[2026.08.06-03.48.34:687][ 44]LogShaderCompilers: Display: Total thread time: 105.85 s
+[2026.08.06-03.48.34:687][ 44]LogShaderCompilers: Display: Total thread preprocess time: 9.387 s
+[2026.08.06-03.48.34:687][ 44]LogShaderCompilers: Display: Percentage time preprocessing: 8.87%
+[2026.08.06-03.48.34:687][ 44]LogShaderCompilers: Display: Effective parallelization: 3.64 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.454494
+[2026.08.06-03.48.34:687][ 44]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.08.06-03.48.34:687][ 44]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    9 times, average 2.10 sec, max 3.12 sec, min 1.52 sec)
+[2026.08.06-03.48.34:687][ 44]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    7 times, average 1.74 sec, max 2.98 sec, min 1.16 sec)
+[2026.08.06-03.48.34:687][ 44]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS (compiled    2 times, average 1.18 sec, max 1.22 sec, min 1.13 sec)
+[2026.08.06-03.48.34:687][ 44]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled   12 times, average 1.08 sec, max 1.31 sec, min 0.78 sec)
+[2026.08.06-03.48.34:687][ 44]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    2 times, average 1.00 sec, max 1.05 sec, min 0.96 sec)
+[2026.08.06-03.48.34:687][ 44]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.08.06-03.48.34:687][ 44]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 18.90% of total time (compiled   20 times, average 1.00 sec, max 2.10 sec, min 0.51 sec)
+[2026.08.06-03.48.34:687][ 44]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy - 17.84% of total time (compiled    9 times, average 2.10 sec, max 3.12 sec, min 1.52 sec)
+[2026.08.06-03.48.34:687][ 44]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 12.23% of total time (compiled   12 times, average 1.08 sec, max 1.31 sec, min 0.78 sec)
+[2026.08.06-03.48.34:687][ 44]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 11.66% of total time (compiled   33 times, average 0.37 sec, max 0.54 sec, min 0.20 sec)
+[2026.08.06-03.48.34:687][ 44]LogShaderCompilers: Display:                                                 FLumenCardCS - 11.50% of total time (compiled    7 times, average 1.74 sec, max 2.98 sec, min 1.16 sec)
+[2026.08.06-03.48.34:687][ 44]LogShaderCompilers: Display: === Material stats ===
+[2026.08.06-03.48.34:687][ 44]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.08.06-03.48.34:687][ 44]LogShaderCompilers: Display: Materials Translated:    196
+[2026.08.06-03.48.34:687][ 44]LogShaderCompilers: Display: Material Total Translate Time: 0.07 s
+[2026.08.06-03.48.34:687][ 44]LogShaderCompilers: Display: Material Translation Only: 0.03 s (44%)
+[2026.08.06-03.48.34:687][ 44]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
+[2026.08.06-03.48.34:687][ 44]LogShaderCompilers: Display: Material Cache Hits: 28 (14%)
+[2026.08.06-03.48.34:687][ 44]LogShaderCompilers: Display: ================================================
+[2026.08.06-03.48.36:568][262]LogSlate: Window 'Color Picker' being destroyed
+[2026.08.06-03.48.55:412][359]LogSlate: Window 'Color Picker' being destroyed
+[2026.08.06-03.49.06:463][642]LogSlate: Window 'Color Picker' being destroyed
+[2026.08.06-03.49.27:226][985]LogSlate: Window 'Color Picker' being destroyed
+[2026.08.06-03.49.51:182][605]LogSlate: Window 'Color Picker' being destroyed
+[2026.08.06-03.50.06:389][277]LogSlate: Window 'Color Picker' being destroyed
+[2026.08.06-03.50.35:911][660]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10033.936523
+[2026.08.06-03.50.36:076][677]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.08.06-03.50.36:076][677]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10034.089844, Update Interval: 312.517487
+[2026.08.06-03.50.55:214][564]LogSlate: Window 'Color Picker' being destroyed
+[2026.08.06-03.51.01:639][266]LogSlate: Window 'Color Picker' being destroyed
+[2026.08.06-03.51.07:512][909]LogSlate: Window 'Color Picker' being destroyed
+[2026.08.06-03.51.17:390][ 20]LogSlate: Window 'Color Picker' being destroyed
+[2026.08.06-03.51.29:620][315]LogSlate: Window 'Color Picker' being destroyed
+[2026.08.06-03.51.52:781][881]LogSlate: Window 'Color Picker' being destroyed
+[2026.08.06-03.52.13:332][191]LogSlate: Window 'Color Picker' being destroyed
+[2026.08.06-03.52.27:032][801]LogSlate: Window 'Color Picker' being destroyed
+[2026.08.06-03.52.41:456][360]LogSlate: Window 'Color Picker' being destroyed
+[2026.08.06-03.53.50:847][537]LogSlate: Window 'Color Picker' being destroyed
+[2026.08.06-03.54.30:397][901]LogEditorTransaction: Undo Drag and Drop Widget
+[2026.08.06-03.54.50:827][150]LogSlate: Window 'Color Picker' being destroyed
+[2026.08.06-03.55.21:695][666]LogSlate: Window 'Color Picker' being destroyed
+[2026.08.06-03.55.52:168][126]LogSlate: Window 'Color Picker' being destroyed
+[2026.08.06-03.56.37:879][899]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2026.08.06-03.56.37:883][899]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level' took 0.044
+[2026.08.06-03.56.37:883][899]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/HUD/Customization] ([2] browsable assets)...
+[2026.08.06-03.56.37:886][899]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/HUD/Customization.Customization]
+[2026.08.06-03.56.37:886][899]OBJ SavePackage: Finished generating thumbnails for package [/Game/HUD/Customization]
+[2026.08.06-03.56.37:898][899]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/HUD/Customization_Auto8
+[2026.08.06-03.56.37:898][899]LogSavePackage: Moving '../../../../../../Users/Realf/OneDrive/Documents/DartsFolder/DartsInOrbit/Saved/Customization_Auto89B5F165A405E081FE853959ED73DC779.tmp' to '../../../../../../Users/Realf/OneDrive/Documents/DartsFolder/DartsInOrbit/Saved/Autosaves/Game/HUD/Customization_Auto8.uasset'
+[2026.08.06-03.56.37:899][899]LogFileHelpers: Auto-saving content packages took 0.016
+[2026.08.06-03.56.39:488][904]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10397.433594
+[2026.08.06-03.56.40:488][907]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.08.06-03.56.40:488][907]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10398.101562, Update Interval: 350.342712
+[2026.08.06-04.00.27:869][105]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Edit Specified Color entirely.
+[2026.08.06-04.00.32:852][636]LogSlate: Window 'Color Picker' being destroyed
+[2026.08.06-04.00.40:631][496]LogSlate: Window 'Color Picker' being destroyed
+[2026.08.06-04.01.26:627][358]LogInterchangeEngine: [Pending] Importing
+[2026.08.06-04.01.26:636][358]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2026.08.06-04.01.26:643][358]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2026.08.06-04.01.26:643][358]LogInterchangeEngine: [Success] Import Done
+[2026.08.06-04.01.26:685][359]LogInterchangeEngine: [Pending] Importing
+[2026.08.06-04.01.26:688][359]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2026.08.06-04.01.26:691][359]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2026.08.06-04.01.26:691][359]LogInterchangeEngine: [Success] Import Done
+[2026.08.06-04.01.32:413][925]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Edit Specified Color entirely.
+[2026.08.06-04.01.32:903][970]LogSlate: Window 'Color Picker' being destroyed
+[2026.08.06-04.01.55:936][418]LogSlate: Window 'Color Picker' being destroyed
+[2026.08.06-04.02.25:824][715]LogSlate: Window 'Color Picker' being destroyed
+[2026.08.06-04.02.44:515][821]LogSlate: Window 'Color Picker' being destroyed
+[2026.08.06-04.03.07:009][342]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10784.958984
+[2026.08.06-04.03.07:102][353]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.08.06-04.03.07:102][353]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10785.044922, Update Interval: 302.039856
+[2026.08.06-04.03.07:423][391]LogSlate: Window 'Color Picker' being destroyed
+[2026.08.06-04.03.34:819][483]LogShaderCompilers: Display: ================================================
+[2026.08.06-04.03.34:819][483]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.08.06-04.03.34:819][483]LogShaderCompilers: Display: Total job queries 869, among them cache hits 231 (26.58%), DDC hits 392 (45.11%), Duplicates 82 (9.44%)
+[2026.08.06-04.03.34:819][483]LogShaderCompilers: Display: Tracking 556 distinct input hashes that result in 427 distinct outputs (76.80%)
+[2026.08.06-04.03.34:819][483]LogShaderCompilers: Display: RAM used: 3.76 MiB of 1.60 GiB budget. Usage: 0.23%
+[2026.08.06-04.03.34:819][483]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.08.06-04.03.34:819][483]LogShaderCompilers: Display: Shaders Compiled: 164
+[2026.08.06-04.03.34:819][483]LogShaderCompilers: Display: Jobs assigned 164, completed 164 (100%)
+[2026.08.06-04.03.34:819][483]LogShaderCompilers: Display: Average time worker was idle: 308.78 s
+[2026.08.06-04.03.34:819][483]LogShaderCompilers: Display: Time job spent in pending queue: average 3.53 s, longest 10.47 s
+[2026.08.06-04.03.34:819][483]LogShaderCompilers: Display: Job execution time: average 0.80 s, max 4.07 s
+[2026.08.06-04.03.34:819][483]LogShaderCompilers: Display: Job life time (pending + execution): average 4.33 s, max 11.69
+[2026.08.06-04.03.34:819][483]LogShaderCompilers: Display: Shader code size: total 1.589 MiB, numShaders 168, average 9.688 KiB, min 1.857 KiB, max 23.594 KiB
+[2026.08.06-04.03.34:819][483]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 29.79 s
+[2026.08.06-04.03.34:819][483]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.02%
+[2026.08.06-04.03.34:819][483]LogShaderCompilers: Display: Jobs were issued in 161 batches (only local compilation was used), average 1.02 jobs/batch
+[2026.08.06-04.03.34:819][483]LogShaderCompilers: Display: Average processing rate: 5.51 jobs/sec
+[2026.08.06-04.03.34:819][483]LogShaderCompilers: Display: Total thread time: 106.606 s
+[2026.08.06-04.03.34:819][483]LogShaderCompilers: Display: Total thread preprocess time: 9.58 s
+[2026.08.06-04.03.34:819][483]LogShaderCompilers: Display: Percentage time preprocessing: 8.99%
+[2026.08.06-04.03.34:819][483]LogShaderCompilers: Display: Effective parallelization: 3.58 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.447394
+[2026.08.06-04.03.34:819][483]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.08.06-04.03.34:819][483]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    9 times, average 2.10 sec, max 3.12 sec, min 1.52 sec)
+[2026.08.06-04.03.34:819][483]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    7 times, average 1.74 sec, max 2.98 sec, min 1.16 sec)
+[2026.08.06-04.03.34:819][483]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS (compiled    2 times, average 1.18 sec, max 1.22 sec, min 1.13 sec)
+[2026.08.06-04.03.34:819][483]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled   12 times, average 1.08 sec, max 1.31 sec, min 0.78 sec)
+[2026.08.06-04.03.34:820][483]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    2 times, average 1.00 sec, max 1.05 sec, min 0.96 sec)
+[2026.08.06-04.03.34:820][483]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.08.06-04.03.34:820][483]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 19.23% of total time (compiled   21 times, average 0.98 sec, max 2.10 sec, min 0.49 sec)
+[2026.08.06-04.03.34:820][483]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy - 17.72% of total time (compiled    9 times, average 2.10 sec, max 3.12 sec, min 1.52 sec)
+[2026.08.06-04.03.34:820][483]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 12.15% of total time (compiled   12 times, average 1.08 sec, max 1.31 sec, min 0.78 sec)
+[2026.08.06-04.03.34:820][483]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 11.82% of total time (compiled   34 times, average 0.37 sec, max 0.54 sec, min 0.20 sec)
+[2026.08.06-04.03.34:820][483]LogShaderCompilers: Display:                                                 FLumenCardCS - 11.42% of total time (compiled    7 times, average 1.74 sec, max 2.98 sec, min 1.16 sec)
+[2026.08.06-04.03.34:820][483]LogShaderCompilers: Display: === Material stats ===
+[2026.08.06-04.03.34:820][483]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.08.06-04.03.34:820][483]LogShaderCompilers: Display: Materials Translated:    196
+[2026.08.06-04.03.34:820][483]LogShaderCompilers: Display: Material Total Translate Time: 0.07 s
+[2026.08.06-04.03.34:820][483]LogShaderCompilers: Display: Material Translation Only: 0.03 s (44%)
+[2026.08.06-04.03.34:820][483]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
+[2026.08.06-04.03.34:820][483]LogShaderCompilers: Display: Material Cache Hits: 28 (14%)
+[2026.08.06-04.03.34:820][483]LogShaderCompilers: Display: ================================================
+[2026.08.06-04.05.19:774][484]LogDerivedDataCache: C:/Users/Realf/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.08.06-04.06.38:320][586]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2026.08.06-04.06.38:324][586]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level' took 0.030
+[2026.08.06-04.06.38:325][586]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/HUD/Customization] ([2] browsable assets)...
+[2026.08.06-04.06.38:327][586]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/HUD/Customization.Customization]
+[2026.08.06-04.06.38:327][586]OBJ SavePackage: Finished generating thumbnails for package [/Game/HUD/Customization]
+[2026.08.06-04.06.38:339][586]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/HUD/Customization_Auto9
+[2026.08.06-04.06.38:339][586]LogSavePackage: Moving '../../../../../../Users/Realf/OneDrive/Documents/DartsFolder/DartsInOrbit/Saved/Customization_Auto945DC17774A861133B0697A80927FBE66.tmp' to '../../../../../../Users/Realf/OneDrive/Documents/DartsFolder/DartsInOrbit/Saved/Autosaves/Game/HUD/Customization_Auto9.uasset'
+[2026.08.06-04.06.38:340][586]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaintAssets/Button_Rainbow] ([1] browsable assets)...
+[2026.08.06-04.06.38:341][586]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaintAssets/Button_Rainbow.Button_Rainbow]
+[2026.08.06-04.06.38:341][586]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaintAssets/Button_Rainbow]
+[2026.08.06-04.06.38:347][586]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaintAssets/Button_Rainbow_Auto9
+[2026.08.06-04.06.38:347][586]LogSavePackage: Moving '../../../../../../Users/Realf/OneDrive/Documents/DartsFolder/DartsInOrbit/Saved/Button_Rainbow_Auto9472998E44BA1DFBB7969FC9AB3E31BC2.tmp' to '../../../../../../Users/Realf/OneDrive/Documents/DartsFolder/DartsInOrbit/Saved/Autosaves/Game/PaintAssets/Button_Rainbow_Auto9.uasset'
+[2026.08.06-04.06.38:349][586]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaintAssets/Button_White] ([1] browsable assets)...
+[2026.08.06-04.06.38:350][586]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaintAssets/Button_White.Button_White]
+[2026.08.06-04.06.38:350][586]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaintAssets/Button_White]
+[2026.08.06-04.06.38:356][586]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaintAssets/Button_White_Auto9
+[2026.08.06-04.06.38:356][586]LogSavePackage: Moving '../../../../../../Users/Realf/OneDrive/Documents/DartsFolder/DartsInOrbit/Saved/Button_White_Auto9B56CDEBC4575EB45C58003A4DC1FC2E2.tmp' to '../../../../../../Users/Realf/OneDrive/Documents/DartsFolder/DartsInOrbit/Saved/Autosaves/Game/PaintAssets/Button_White_Auto9.uasset'
+[2026.08.06-04.06.38:356][586]LogFileHelpers: Auto-saving content packages took 0.033
+[2026.08.06-04.07.52:174][791]LogEOSSDK: Warning: LogHttp: 000002850A271E00: HTTP request timed out after 30.00 seconds URL=https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B8F8030A6-4A2B-F065-61CC-598043B0355A%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-41373641%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-41373641&UserID=&AppEnvironment=Production&UploadType=sdkevents
+[2026.08.06-04.07.52:174][791]LogEOSSDK: Warning: LogHttp: 000002850A271E00: request failed, libcurl error: 0 (No error)
+[2026.08.06-04.07.52:174][791]LogEOSSDK: Warning: LogHttp: 000002850A271E00: libcurl info message cache 0 (Found bundle for host: 0x283a9880090 [serially])
+[2026.08.06-04.07.52:174][792]LogEOSSDK: Warning: LogHttp: 000002850A271E00: libcurl info message cache 1 (Re-using existing connection with host api.epicgames.dev)
+[2026.08.06-04.07.52:174][792]LogEOSSDK: Warning: LogHttp: 000002850A271E00: libcurl info message cache 2 (We are completely uploaded and fine)
+[2026.08.06-04.07.52:174][792]LogEOSSDK: Warning: LogHttp: 000002850A271E00: libcurl info message cache 3 (Closing connection)
+[2026.08.06-04.07.52:174][792]LogEOSSDK: Warning: LogHttp: 000002850A271E00: libcurl info message cache 4 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2026.08.06-04.07.52:182][792]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B8F8030A6-4A2B-F065-61CC-598043B0355A%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-41373641%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-41373641&UserID=&AppEnvironment=Production&UploadType=sdkevents
+[2026.08.06-04.07.57:375][415]LogEOSSDK: Warning: LogHttp: 000002854DA53000: HTTP request timed out after 30.00 seconds URL=https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-41373641&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=A321249D467D49CE9763C99EB3AAD70A
+[2026.08.06-04.07.57:375][415]LogEOSSDK: Warning: LogHttp: 000002854DA53000: request failed, libcurl error: 0 (No error)
+[2026.08.06-04.07.57:375][415]LogEOSSDK: Warning: LogHttp: 000002854DA53000: libcurl info message cache 0 (Found bundle for host: 0x283a9880090 [serially])
+[2026.08.06-04.07.57:375][415]LogEOSSDK: Warning: LogHttp: 000002854DA53000: libcurl info message cache 1 (  Trying 104.18.125.108:443...)
+[2026.08.06-04.07.57:375][415]LogEOSSDK: Warning: LogHttp: 000002854DA53000: libcurl info message cache 2 (Connected to api.epicgames.dev (104.18.125.108) port 443)
+[2026.08.06-04.07.57:375][415]LogEOSSDK: Warning: LogHttp: 000002854DA53000: libcurl info message cache 3 (ALPN: curl offers http/1.1)
+[2026.08.06-04.07.57:375][415]LogEOSSDK: Warning: LogHttp: 000002854DA53000: libcurl info message cache 4 (SSL reusing session ID)
+[2026.08.06-04.07.57:375][415]LogEOSSDK: Warning: LogHttp: 000002854DA53000: libcurl info message cache 5 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2026.08.06-04.07.57:375][415]LogEOSSDK: Warning: LogHttp: 000002854DA53000: libcurl info message cache 6 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2026.08.06-04.07.57:375][415]LogEOSSDK: Warning: LogHttp: 000002854DA53000: libcurl info message cache 7 (TLSv1.3 (IN), TLS handshake, Encrypted Extensions (8):)
+[2026.08.06-04.07.57:375][415]LogEOSSDK: Warning: LogHttp: 000002854DA53000: libcurl info message cache 8 (TLSv1.3 (IN), TLS handshake, Finished (20):)
+[2026.08.06-04.07.57:375][415]LogEOSSDK: Warning: LogHttp: 000002854DA53000: libcurl info message cache 9 (TLSv1.3 (OUT), TLS change cipher, Change cipher spec (1):)
+[2026.08.06-04.07.57:375][415]LogEOSSDK: Warning: LogHttp: 000002854DA53000: libcurl info message cache 10 (TLSv1.3 (OUT), TLS handshake, Finished (20):)
+[2026.08.06-04.07.57:375][415]LogEOSSDK: Warning: LogHttp: 000002854DA53000: libcurl info message cache 11 (SSL connection using TLSv1.3 / TLS_AES_256_GCM_SHA384)
+[2026.08.06-04.07.57:375][415]LogEOSSDK: Warning: LogHttp: 000002854DA53000: libcurl info message cache 12 (ALPN: server accepted http/1.1)
+[2026.08.06-04.07.57:375][415]LogEOSSDK: Warning: LogHttp: 000002854DA53000: libcurl info message cache 13 (Server certificate:)
+[2026.08.06-04.07.57:375][415]LogEOSSDK: Warning: LogHttp: 000002854DA53000: libcurl info message cache 14 ( subject: CN=epicgames.dev)
+[2026.08.06-04.07.57:375][416]LogEOSSDK: Warning: LogHttp: 000002854DA53000: libcurl info message cache 15 ( start date: Jul 19 16:48:42 2026 GMT)
+[2026.08.06-04.07.57:375][416]LogEOSSDK: Warning: LogHttp: 000002854DA53000: libcurl info message cache 16 ( expire date: Oct 17 17:48:16 2026 GMT)
+[2026.08.06-04.07.57:375][416]LogEOSSDK: Warning: LogHttp: 000002854DA53000: libcurl info message cache 17 ( subjectAltName: host "api.epicgames.dev" matched cert's "*.epicgames.dev")
+[2026.08.06-04.07.57:375][416]LogEOSSDK: Warning: LogHttp: 000002854DA53000: libcurl info message cache 18 ( issuer: C=US; O=Google Trust Services; CN=WE1)
+[2026.08.06-04.07.57:375][416]LogEOSSDK: Warning: LogHttp: 000002854DA53000: libcurl info message cache 19 ( SSL certificate verify ok.)
+[2026.08.06-04.07.57:375][416]LogEOSSDK: Warning: LogHttp: 000002854DA53000: libcurl info message cache 20 (using HTTP/1.1)
+[2026.08.06-04.07.57:375][416]LogEOSSDK: Warning: LogHttp: 000002854DA53000: libcurl info message cache 21 (We are completely uploaded and fine)
+[2026.08.06-04.07.57:375][416]LogEOSSDK: Warning: LogHttp: 000002854DA53000: libcurl info message cache 22 (Closing connection)
+[2026.08.06-04.07.57:375][416]LogEOSSDK: Warning: LogHttp: 000002854DA53000: libcurl info message cache 23 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2026.08.06-04.07.57:375][416]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-41373641&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=A321249D467D49CE9763C99EB3AAD70A
+[2026.08.06-04.07.57:375][416]LogEOSSDK: Warning: LogEOS: Failed to connect to the backend. ServiceName=[Metrics], OperationName=[SendBackendEvent], Url=[<Redacted>]
+[2026.08.06-04.08.23:094][433]LogSlate: Window 'Color Picker' being destroyed
+[2026.08.06-04.08.44:342][884]LogSlate: Window 'Color Picker' being destroyed
+[2026.08.06-04.08.52:038][775]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11130.030273
+[2026.08.06-04.08.52:172][791]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.08.06-04.08.52:172][791]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11130.155273, Update Interval: 333.333527
+[2026.08.06-04.08.59:786][685]LogSlate: Window 'Color Picker' being destroyed
+[2026.08.06-04.09.05:976][392]LogEditorTransaction: Undo Edit Specified Color
+[2026.08.06-04.09.06:260][394]LogEditorTransaction: Undo Edit Specified Color
+[2026.08.06-04.09.06:550][396]LogEditorTransaction: Undo Edit Specified Color
+[2026.08.06-04.09.06:902][409]LogEditorTransaction: Undo Drag and Drop Widget
+[2026.08.06-04.09.32:125][134]LogSlate: Window 'Color Picker' being destroyed
+[2026.08.06-04.09.52:949][561]LogSlate: Window 'Color Picker' being destroyed
+[2026.08.06-04.10.21:917][942]LogSlate: Window 'Color Picker' being destroyed
+[2026.08.06-04.10.36:070][591]LogSlate: Window 'Color Picker' being destroyed
+[2026.08.06-04.10.43:545][445]LogSlate: Window 'Color Picker' being destroyed
+[2026.08.06-04.11.09:082][426]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Edit Specified Color entirely.
+[2026.08.06-04.11.14:147][941]LogSlate: Window 'Color Picker' being destroyed
+[2026.08.06-04.11.43:150][160]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Edit Specified Color entirely.
+[2026.08.06-04.11.50:667][922]LogSlate: Window 'Color Picker' being destroyed
+[2026.08.06-04.12.19:125][ 81]LogSlate: Window 'Color Picker' being destroyed
+[2026.08.06-04.12.59:612][842]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Edit Specified Color entirely.
+[2026.08.06-04.13.01:139][994]LogSlate: Window 'Color Picker' being destroyed
+[2026.08.06-04.13.16:143][582]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Edit Specified Color entirely.
+[2026.08.06-04.13.17:211][685]LogSlate: Window 'Color Picker' being destroyed
+[2026.08.06-04.14.13:132][171]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.08.06-04.14.13:160][171]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/HUD/Customization] ([2] browsable assets)...
+[2026.08.06-04.14.13:161][171]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/HUD/Customization.Customization]
+[2026.08.06-04.14.13:161][171]OBJ SavePackage: Finished generating thumbnails for package [/Game/HUD/Customization]
+[2026.08.06-04.14.13:161][171]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/Customization" FILE="../../../../../../Users/Realf/OneDrive/Documents/DartsFolder/DartsInOrbit/Content/HUD/Customization.uasset" SILENT=true
+[2026.08.06-04.14.13:174][171]LogSavePackage: Moving output files for package: /Game/HUD/Customization
+[2026.08.06-04.14.13:174][171]LogSavePackage: Moving '../../../../../../Users/Realf/OneDrive/Documents/DartsFolder/DartsInOrbit/Saved/CustomizationBF0087064063024AEEE6A9B1F49FF268.tmp' to '../../../../../../Users/Realf/OneDrive/Documents/DartsFolder/DartsInOrbit/Content/HUD/Customization.uasset'
+[2026.08.06-04.14.13:181][171]LogFileHelpers: InternalPromptForCheckoutAndSave took 49.341 ms (total: 5.15 sec)
+[2026.08.06-04.14.13:209][171]LogContentValidation: Display: Starting to validate 1 assets
+[2026.08.06-04.14.13:209][171]LogContentValidation: Enabled validators:
+[2026.08.06-04.14.13:209][171]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.08.06-04.14.13:209][171]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.08.06-04.14.13:209][171]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.08.06-04.14.13:209][171]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.08.06-04.14.13:209][171]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.08.06-04.14.13:209][171]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.08.06-04.14.13:210][171]AssetCheck: /Game/HUD/Customization Validating asset
+[2026.08.06-04.14.13:710][220]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2026.08.06-04.14.32:579][267]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Edit Specified Color entirely.
+[2026.08.06-04.14.32:969][308]LogSlate: Window 'Color Picker' being destroyed
+[2026.08.06-04.14.39:756][995]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Edit Specified Color entirely.
+[2026.08.06-04.14.41:416][174]LogSlate: Window 'Color Picker' being destroyed
+[2026.08.06-04.14.52:338][349]LogSlate: Window 'Color Picker' being destroyed
+[2026.08.06-04.14.55:574][733]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11493.565430
+[2026.08.06-04.14.55:691][747]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.08.06-04.14.55:691][748]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11493.672852, Update Interval: 308.168579
+[2026.08.06-04.15.30:947][ 65]LogEditorTransaction: Undo Drag and Drop Widget
+[2026.08.06-04.15.37:556][605]LogEditorTransaction: Undo Drag and Drop Widget
+[2026.08.06-04.16.01:348][787]LogEditorTransaction: Undo Drag and Drop Widget
+[2026.08.06-04.16.06:845][185]LogEditorTransaction: Undo Drag and Drop Widget
+[2026.08.06-04.16.07:132][187]LogEditorTransaction: Undo Edit X
+[2026.08.06-04.16.08:732][346]LogEditorTransaction: Undo Edit Y
+[2026.08.06-04.16.09:546][413]LogEditorTransaction: Undo Edit Y
+[2026.08.06-04.16.10:286][472]LogEditorTransaction: Undo Edit X
+[2026.08.06-04.17.00:921][337]LogSlate: Window 'Color Picker' being destroyed
+[2026.08.06-04.18.02:464][538]LogSlate: Window 'Color Picker' being destroyed
+[2026.08.06-04.18.10:685][454]LogSlate: Window 'Color Picker' being destroyed
+[2026.08.06-04.18.46:164][800]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2026.08.06-04.18.46:168][800]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level' took 0.032
+[2026.08.06-04.18.46:169][800]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/HUD/Customization] ([2] browsable assets)...
+[2026.08.06-04.18.46:171][800]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/HUD/Customization.Customization]
+[2026.08.06-04.18.46:171][800]OBJ SavePackage: Finished generating thumbnails for package [/Game/HUD/Customization]
+[2026.08.06-04.18.46:185][800]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/HUD/Customization_Auto0
+[2026.08.06-04.18.46:185][800]LogSavePackage: Moving '../../../../../../Users/Realf/OneDrive/Documents/DartsFolder/DartsInOrbit/Saved/Customization_Auto07F604226499FCA51C8EC4297CC2C4DCC.tmp' to '../../../../../../Users/Realf/OneDrive/Documents/DartsFolder/DartsInOrbit/Saved/Autosaves/Game/HUD/Customization_Auto0.uasset'
+[2026.08.06-04.18.46:186][800]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PaintAssets/Button_Rainbow] ([1] browsable assets)...
+[2026.08.06-04.18.46:186][800]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaintAssets/Button_Rainbow]
+[2026.08.06-04.18.46:194][800]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaintAssets/Button_Rainbow_Auto0
+[2026.08.06-04.18.46:194][800]LogSavePackage: Moving '../../../../../../Users/Realf/OneDrive/Documents/DartsFolder/DartsInOrbit/Saved/Button_Rainbow_Auto07C9976E041AEA9A3CEA709A167B324D9.tmp' to '../../../../../../Users/Realf/OneDrive/Documents/DartsFolder/DartsInOrbit/Saved/Autosaves/Game/PaintAssets/Button_Rainbow_Auto0.uasset'
+[2026.08.06-04.18.46:194][800]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PaintAssets/Button_White] ([1] browsable assets)...
+[2026.08.06-04.18.46:194][800]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaintAssets/Button_White]
+[2026.08.06-04.18.46:200][800]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaintAssets/Button_White_Auto0
+[2026.08.06-04.18.46:200][800]LogSavePackage: Moving '../../../../../../Users/Realf/OneDrive/Documents/DartsFolder/DartsInOrbit/Saved/Button_White_Auto0C1FBF0974833062604C18E8AB98D158D.tmp' to '../../../../../../Users/Realf/OneDrive/Documents/DartsFolder/DartsInOrbit/Saved/Autosaves/Game/PaintAssets/Button_White_Auto0.uasset'
+[2026.08.06-04.18.46:200][800]LogFileHelpers: Auto-saving content packages took 0.033
+[2026.08.06-04.20.59:135][199]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11857.077148
+[2026.08.06-04.21.00:135][202]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.08.06-04.21.00:135][202]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11857.744141, Update Interval: 357.864929
+[2026.08.06-04.21.03:854][600]LogInterchangeEngine: [Pending] Importing
+[2026.08.06-04.21.03:856][600]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2026.08.06-04.21.03:860][600]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2026.08.06-04.21.03:860][600]LogInterchangeEngine: [Success] Import Done
+[2026.08.06-04.21.36:776][ 92]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.08.06-04.21.36:797][ 92]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/HUD/Customization] ([2] browsable assets)...
+[2026.08.06-04.21.36:799][ 92]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/HUD/Customization.Customization]
+[2026.08.06-04.21.36:799][ 92]OBJ SavePackage: Finished generating thumbnails for package [/Game/HUD/Customization]
+[2026.08.06-04.21.36:799][ 92]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/Customization" FILE="../../../../../../Users/Realf/OneDrive/Documents/DartsFolder/DartsInOrbit/Content/HUD/Customization.uasset" SILENT=true
+[2026.08.06-04.21.36:813][ 92]LogSavePackage: Moving output files for package: /Game/HUD/Customization
+[2026.08.06-04.21.36:814][ 92]LogSavePackage: Moving '../../../../../../Users/Realf/OneDrive/Documents/DartsFolder/DartsInOrbit/Saved/Customization66DB27544B5F6E2789EFD8B2D2994E7F.tmp' to '../../../../../../Users/Realf/OneDrive/Documents/DartsFolder/DartsInOrbit/Content/HUD/Customization.uasset'
+[2026.08.06-04.21.36:821][ 92]LogFileHelpers: InternalPromptForCheckoutAndSave took 44.768 ms (total: 5.20 sec)
+[2026.08.06-04.21.36:846][ 92]LogContentValidation: Display: Starting to validate 1 assets
+[2026.08.06-04.21.36:846][ 92]LogContentValidation: Enabled validators:
+[2026.08.06-04.21.36:846][ 92]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.08.06-04.21.36:846][ 92]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.08.06-04.21.36:846][ 92]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.08.06-04.21.36:846][ 92]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.08.06-04.21.36:846][ 92]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.08.06-04.21.36:846][ 92]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.08.06-04.21.36:847][ 92]AssetCheck: /Game/HUD/Customization Validating asset
+[2026.08.06-04.21.39:472][342]LogInterchangeEngine: [Pending] Importing
+[2026.08.06-04.21.39:474][342]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2026.08.06-04.21.39:477][342]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2026.08.06-04.21.39:477][342]LogInterchangeEngine: [Success] Import Done
+[2026.08.06-04.21.42:486][627]AssetReimport: Reimported asset Button_Minty from C:/Users/Realf/OneDrive/Documents/DartsFolder/DartsInOrbit/Content/PaintAssets/Button_Minty.png.
+[2026.08.06-04.21.43:861][776]LogSlate: Window 'Color Picker' being destroyed
+[2026.08.06-04.24.04:441][818]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.08.06-04.24.04:471][818]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/HUD/Customization] ([2] browsable assets)...
+[2026.08.06-04.24.04:473][818]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/HUD/Customization.Customization]
+[2026.08.06-04.24.04:473][818]OBJ SavePackage: Finished generating thumbnails for package [/Game/HUD/Customization]
+[2026.08.06-04.24.04:473][818]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/Customization" FILE="../../../../../../Users/Realf/OneDrive/Documents/DartsFolder/DartsInOrbit/Content/HUD/Customization.uasset" SILENT=true
+[2026.08.06-04.24.04:487][818]LogSavePackage: Moving output files for package: /Game/HUD/Customization
+[2026.08.06-04.24.04:488][818]LogSavePackage: Moving '../../../../../../Users/Realf/OneDrive/Documents/DartsFolder/DartsInOrbit/Saved/CustomizationF28762DB40395B25E1E999A8D36215F9.tmp' to '../../../../../../Users/Realf/OneDrive/Documents/DartsFolder/DartsInOrbit/Content/HUD/Customization.uasset'
+[2026.08.06-04.24.04:495][818]LogFileHelpers: InternalPromptForCheckoutAndSave took 54.141 ms (total: 5.25 sec)
+[2026.08.06-04.24.04:523][818]LogContentValidation: Display: Starting to validate 1 assets
+[2026.08.06-04.24.04:523][818]LogContentValidation: Enabled validators:
+[2026.08.06-04.24.04:523][818]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.08.06-04.24.04:523][818]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.08.06-04.24.04:523][818]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.08.06-04.24.04:523][818]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.08.06-04.24.04:523][818]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.08.06-04.24.04:523][818]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.08.06-04.24.04:524][818]AssetCheck: /Game/HUD/Customization Validating asset
+[2026.08.06-04.24.06:771][ 36]LogInterchangeEngine: [Pending] Importing
+[2026.08.06-04.24.06:774][ 36]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2026.08.06-04.24.06:776][ 36]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2026.08.06-04.24.06:776][ 36]LogInterchangeEngine: [Success] Import Done
+[2026.08.06-04.24.09:777][338]AssetReimport: Reimported asset Button_Minty from C:/Users/Realf/OneDrive/Documents/DartsFolder/DartsInOrbit/Content/PaintAssets/Button_Minty.png.
+[2026.08.06-04.24.22:623][624]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.08.06-04.24.22:648][624]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/HUD/Customization] ([2] browsable assets)...
+[2026.08.06-04.24.22:648][624]OBJ SavePackage: Finished generating thumbnails for package [/Game/HUD/Customization]
+[2026.08.06-04.24.22:648][624]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/Customization" FILE="../../../../../../Users/Realf/OneDrive/Documents/DartsFolder/DartsInOrbit/Content/HUD/Customization.uasset" SILENT=true
+[2026.08.06-04.24.22:662][624]LogSavePackage: Moving output files for package: /Game/HUD/Customization
+[2026.08.06-04.24.22:663][624]LogSavePackage: Moving '../../../../../../Users/Realf/OneDrive/Documents/DartsFolder/DartsInOrbit/Saved/CustomizationA20506A545856A7C2D6581A83DF6779D.tmp' to '../../../../../../Users/Realf/OneDrive/Documents/DartsFolder/DartsInOrbit/Content/HUD/Customization.uasset'
+[2026.08.06-04.24.22:670][624]LogFileHelpers: InternalPromptForCheckoutAndSave took 46.859 ms (total: 5.30 sec)
+[2026.08.06-04.24.22:696][624]LogContentValidation: Display: Starting to validate 1 assets
+[2026.08.06-04.24.22:696][624]LogContentValidation: Enabled validators:
+[2026.08.06-04.24.22:697][624]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.08.06-04.24.22:697][624]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.08.06-04.24.22:697][624]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.08.06-04.24.22:697][624]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.08.06-04.24.22:697][624]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.08.06-04.24.22:697][624]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.08.06-04.24.22:697][624]AssetCheck: /Game/HUD/Customization Validating asset
+[2026.08.06-04.24.24:676][815]LogInterchangeEngine: [Pending] Importing
+[2026.08.06-04.24.24:678][815]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2026.08.06-04.24.24:681][815]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2026.08.06-04.24.24:681][815]LogInterchangeEngine: [Success] Import Done
+[2026.08.06-04.24.27:687][120]AssetReimport: Reimported asset Button_Minty from C:/Users/Realf/OneDrive/Documents/DartsFolder/DartsInOrbit/Content/PaintAssets/Button_Minty.png.
+[2026.08.06-04.27.42:636][944]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12260.532227
+[2026.08.06-04.27.43:636][947]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.08.06-04.27.43:636][947]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12261.199219, Update Interval: 354.083679
+[2026.08.06-04.28.46:692][136]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2026.08.06-04.28.46:696][136]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level' took 0.029
+[2026.08.06-04.28.46:696][136]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaintAssets/Button_Minty] ([1] browsable assets)...
+[2026.08.06-04.28.46:697][136]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaintAssets/Button_Minty.Button_Minty]
+[2026.08.06-04.28.46:697][136]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaintAssets/Button_Minty]
+[2026.08.06-04.28.46:705][136]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaintAssets/Button_Minty_Auto1
+[2026.08.06-04.28.46:706][136]LogSavePackage: Moving '../../../../../../Users/Realf/OneDrive/Documents/DartsFolder/DartsInOrbit/Saved/Button_Minty_Auto1A16204DE45C7D85EBA757F89D55E9A45.tmp' to '../../../../../../Users/Realf/OneDrive/Documents/DartsFolder/DartsInOrbit/Saved/Autosaves/Game/PaintAssets/Button_Minty_Auto1.uasset'
+[2026.08.06-04.28.46:706][136]LogFileHelpers: Auto-saving content packages took 0.010
+[2026.08.06-04.28.55:977][329]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.08.06-04.28.56:001][329]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/HUD/Customization] ([2] browsable assets)...
+[2026.08.06-04.28.56:001][329]OBJ SavePackage: Finished generating thumbnails for package [/Game/HUD/Customization]
+[2026.08.06-04.28.56:001][329]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/Customization" FILE="../../../../../../Users/Realf/OneDrive/Documents/DartsFolder/DartsInOrbit/Content/HUD/Customization.uasset" SILENT=true
+[2026.08.06-04.28.56:015][329]LogSavePackage: Moving output files for package: /Game/HUD/Customization
+[2026.08.06-04.28.56:016][329]LogSavePackage: Moving '../../../../../../Users/Realf/OneDrive/Documents/DartsFolder/DartsInOrbit/Saved/Customization7A8553184450BDFF2C0FD58CC6654E72.tmp' to '../../../../../../Users/Realf/OneDrive/Documents/DartsFolder/DartsInOrbit/Content/HUD/Customization.uasset'
+[2026.08.06-04.28.56:023][329]LogFileHelpers: InternalPromptForCheckoutAndSave took 46.553 ms (total: 5.34 sec)
+[2026.08.06-04.28.56:051][329]LogContentValidation: Display: Starting to validate 1 assets
+[2026.08.06-04.28.56:051][329]LogContentValidation: Enabled validators:
+[2026.08.06-04.28.56:051][329]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.08.06-04.28.56:051][329]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.08.06-04.28.56:051][329]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.08.06-04.28.56:051][329]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.08.06-04.28.56:051][329]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.08.06-04.28.56:051][329]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.08.06-04.28.56:052][329]AssetCheck: /Game/HUD/Customization Validating asset
+[2026.08.06-04.28.57:247][470]LogInterchangeEngine: [Pending] Importing
+[2026.08.06-04.28.57:248][470]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2026.08.06-04.28.57:254][470]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2026.08.06-04.28.57:254][470]LogInterchangeEngine: [Success] Import Done
+[2026.08.06-04.30.59:857][137]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.08.06-04.30.59:883][137]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/HUD/Customization] ([2] browsable assets)...
+[2026.08.06-04.30.59:885][137]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/HUD/Customization.Customization]
+[2026.08.06-04.30.59:885][137]OBJ SavePackage: Finished generating thumbnails for package [/Game/HUD/Customization]
+[2026.08.06-04.30.59:885][137]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/Customization" FILE="../../../../../../Users/Realf/OneDrive/Documents/DartsFolder/DartsInOrbit/Content/HUD/Customization.uasset" SILENT=true
+[2026.08.06-04.30.59:901][137]LogSavePackage: Moving output files for package: /Game/HUD/Customization
+[2026.08.06-04.30.59:902][137]LogSavePackage: Moving '../../../../../../Users/Realf/OneDrive/Documents/DartsFolder/DartsInOrbit/Saved/Customization9BE148A840802D318AAF6B863E8F8A9B.tmp' to '../../../../../../Users/Realf/OneDrive/Documents/DartsFolder/DartsInOrbit/Content/HUD/Customization.uasset'
+[2026.08.06-04.30.59:910][137]LogFileHelpers: InternalPromptForCheckoutAndSave took 52.816 ms (total: 5.40 sec)
+[2026.08.06-04.30.59:933][137]LogContentValidation: Display: Starting to validate 1 assets
+[2026.08.06-04.30.59:933][137]LogContentValidation: Enabled validators:
+[2026.08.06-04.30.59:933][137]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.08.06-04.30.59:933][137]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.08.06-04.30.59:933][137]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.08.06-04.30.59:933][137]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.08.06-04.30.59:933][137]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.08.06-04.30.59:933][137]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.08.06-04.30.59:934][137]AssetCheck: /Game/HUD/Customization Validating asset
+[2026.08.06-04.31.01:703][296]LogInterchangeEngine: [Pending] Importing
+[2026.08.06-04.31.01:705][296]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2026.08.06-04.31.01:708][296]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2026.08.06-04.31.01:708][296]LogInterchangeEngine: [Success] Import Done
+[2026.08.06-04.31.04:709][604]AssetReimport: Reimported asset Button_Minty from C:/Users/Realf/OneDrive/Documents/DartsFolder/DartsInOrbit/Content/PaintAssets/Button_Minty.png.
+[2026.08.06-04.34.28:704][275]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12666.566406
+[2026.08.06-04.34.29:704][278]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.08.06-04.34.29:704][278]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12667.233398, Update Interval: 359.525757
+[2026.08.06-04.37.16:360][206]LogInterchangeEngine: [Pending] Importing
+[2026.08.06-04.37.16:363][206]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2026.08.06-04.37.16:366][206]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2026.08.06-04.37.16:366][206]LogInterchangeEngine: [Success] Import Done
+[2026.08.06-04.37.38:146][ 44]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.08.06-04.37.38:172][ 44]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/HUD/Customization] ([2] browsable assets)...
+[2026.08.06-04.37.38:174][ 44]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/HUD/Customization.Customization]
+[2026.08.06-04.37.38:174][ 44]OBJ SavePackage: Finished generating thumbnails for package [/Game/HUD/Customization]
+[2026.08.06-04.37.38:174][ 44]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/Customization" FILE="../../../../../../Users/Realf/OneDrive/Documents/DartsFolder/DartsInOrbit/Content/HUD/Customization.uasset" SILENT=true
+[2026.08.06-04.37.38:188][ 44]LogSavePackage: Moving output files for package: /Game/HUD/Customization
+[2026.08.06-04.37.38:189][ 44]LogSavePackage: Moving '../../../../../../Users/Realf/OneDrive/Documents/DartsFolder/DartsInOrbit/Saved/CustomizationAA54D5E84EFEF8BE8AE0C692395D6265.tmp' to '../../../../../../Users/Realf/OneDrive/Documents/DartsFolder/DartsInOrbit/Content/HUD/Customization.uasset'
+[2026.08.06-04.37.38:196][ 44]LogFileHelpers: InternalPromptForCheckoutAndSave took 49.906 ms (total: 5.45 sec)
+[2026.08.06-04.37.38:225][ 44]LogContentValidation: Display: Starting to validate 1 assets
+[2026.08.06-04.37.38:226][ 44]LogContentValidation: Enabled validators:
+[2026.08.06-04.37.38:226][ 44]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.08.06-04.37.38:226][ 44]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.08.06-04.37.38:226][ 44]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.08.06-04.37.38:226][ 44]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.08.06-04.37.38:226][ 44]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.08.06-04.37.38:226][ 44]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.08.06-04.37.38:227][ 44]AssetCheck: /Game/HUD/Customization Validating asset
+[2026.08.06-04.37.41:098][384]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.08.06-04.37.41:123][384]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/HUD/Customization] ([2] browsable assets)...
+[2026.08.06-04.37.41:123][384]OBJ SavePackage: Finished generating thumbnails for package [/Game/HUD/Customization]
+[2026.08.06-04.37.41:123][384]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/Customization" FILE="../../../../../../Users/Realf/OneDrive/Documents/DartsFolder/DartsInOrbit/Content/HUD/Customization.uasset" SILENT=true
+[2026.08.06-04.37.41:137][384]LogSavePackage: Moving output files for package: /Game/HUD/Customization
+[2026.08.06-04.37.41:138][384]LogSavePackage: Moving '../../../../../../Users/Realf/OneDrive/Documents/DartsFolder/DartsInOrbit/Saved/Customization7FDC99A54DBC938349B6B68322063036.tmp' to '../../../../../../Users/Realf/OneDrive/Documents/DartsFolder/DartsInOrbit/Content/HUD/Customization.uasset'
+[2026.08.06-04.37.41:143][384]LogFileHelpers: InternalPromptForCheckoutAndSave took 46.546 ms (total: 5.49 sec)
+[2026.08.06-04.37.41:168][384]LogContentValidation: Display: Starting to validate 1 assets
+[2026.08.06-04.37.41:168][384]LogContentValidation: Enabled validators:
+[2026.08.06-04.37.41:168][384]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.08.06-04.37.41:168][384]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.08.06-04.37.41:168][384]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.08.06-04.37.41:168][384]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.08.06-04.37.41:168][384]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.08.06-04.37.41:168][384]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.08.06-04.37.41:169][384]AssetCheck: /Game/HUD/Customization Validating asset
+[2026.08.06-04.37.41:866][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2026.08.06-04.37.42:438][519]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.08.06-04.37.42:464][519]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/HUD/Customization] ([2] browsable assets)...
+[2026.08.06-04.37.42:466][519]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/HUD/Customization.Customization]
+[2026.08.06-04.37.42:466][519]OBJ SavePackage: Finished generating thumbnails for package [/Game/HUD/Customization]
+[2026.08.06-04.37.42:466][519]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/Customization" FILE="../../../../../../Users/Realf/OneDrive/Documents/DartsFolder/DartsInOrbit/Content/HUD/Customization.uasset" SILENT=true
+[2026.08.06-04.37.42:482][519]LogSavePackage: Moving output files for package: /Game/HUD/Customization
+[2026.08.06-04.37.42:482][519]LogSavePackage: Moving '../../../../../../Users/Realf/OneDrive/Documents/DartsFolder/DartsInOrbit/Saved/Customization5D58353F4941467AFD6F21A3230A1506.tmp' to '../../../../../../Users/Realf/OneDrive/Documents/DartsFolder/DartsInOrbit/Content/HUD/Customization.uasset'
+[2026.08.06-04.37.42:488][519]LogFileHelpers: InternalPromptForCheckoutAndSave took 50.293 ms (total: 5.54 sec)
+[2026.08.06-04.37.42:517][519]LogContentValidation: Display: Starting to validate 1 assets
+[2026.08.06-04.37.42:517][519]LogContentValidation: Enabled validators:
+[2026.08.06-04.37.42:517][519]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.08.06-04.37.42:517][519]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.08.06-04.37.42:517][519]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.08.06-04.37.42:517][519]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.08.06-04.37.42:517][519]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.08.06-04.37.42:517][519]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.08.06-04.37.42:518][519]AssetCheck: /Game/HUD/Customization Validating asset
+[2026.08.06-04.38.00:787][923]LogInterchangeEngine: [Pending] Importing
+[2026.08.06-04.38.00:789][923]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2026.08.06-04.38.00:792][923]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2026.08.06-04.38.00:792][923]LogInterchangeEngine: [Success] Import Done
+[2026.08.06-04.38.03:795][239]AssetReimport: Reimported asset Button_Slate from C:/Users/Realf/OneDrive/Documents/DartsFolder/DartsInOrbit/Content/PaintAssets/Button_Slate.png.
+[2026.08.06-04.38.06:411][553]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.08.06-04.38.06:438][553]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/HUD/Customization] ([2] browsable assets)...
+[2026.08.06-04.38.06:438][553]OBJ SavePackage: Finished generating thumbnails for package [/Game/HUD/Customization]
+[2026.08.06-04.38.06:438][553]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/Customization" FILE="../../../../../../Users/Realf/OneDrive/Documents/DartsFolder/DartsInOrbit/Content/HUD/Customization.uasset" SILENT=true
+[2026.08.06-04.38.06:454][553]LogSavePackage: Moving output files for package: /Game/HUD/Customization
+[2026.08.06-04.38.06:454][553]LogSavePackage: Moving '../../../../../../Users/Realf/OneDrive/Documents/DartsFolder/DartsInOrbit/Saved/CustomizationEAC44A3C449A72AE52AA24B0DE044B1C.tmp' to '../../../../../../Users/Realf/OneDrive/Documents/DartsFolder/DartsInOrbit/Content/HUD/Customization.uasset'
+[2026.08.06-04.38.06:460][553]LogFileHelpers: InternalPromptForCheckoutAndSave took 49.250 ms (total: 5.59 sec)
+[2026.08.06-04.38.06:488][553]LogContentValidation: Display: Starting to validate 1 assets
+[2026.08.06-04.38.06:488][553]LogContentValidation: Enabled validators:
+[2026.08.06-04.38.06:488][553]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.08.06-04.38.06:488][553]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.08.06-04.38.06:488][553]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.08.06-04.38.06:488][553]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.08.06-04.38.06:488][553]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.08.06-04.38.06:488][553]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.08.06-04.38.06:489][553]AssetCheck: /Game/HUD/Customization Validating asset
+[2026.08.06-04.41.00:107][151]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13057.955078
+[2026.08.06-04.41.00:225][165]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.08.06-04.41.00:225][165]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13058.063477, Update Interval: 314.196594
+[2026.08.06-04.44.19:664][687]LogEditorTransaction: Undo Drag and Drop Widget
+[2026.08.06-04.44.19:925][688]LogEditorTransaction: Undo Resize Widget
+[2026.08.06-04.45.02:059][485]LogEditorTransaction: Undo Drag and Drop Widget
+[2026.08.06-04.45.43:349][565]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2026.08.06-04.45.43:353][565]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level' took 0.030
+[2026.08.06-04.45.43:353][565]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/HUD/Customization] ([2] browsable assets)...
+[2026.08.06-04.45.43:356][565]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/HUD/Customization.Customization]
+[2026.08.06-04.45.43:356][565]OBJ SavePackage: Finished generating thumbnails for package [/Game/HUD/Customization]
+[2026.08.06-04.45.43:374][565]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/HUD/Customization_Auto2
+[2026.08.06-04.45.43:374][565]LogSavePackage: Moving '../../../../../../Users/Realf/OneDrive/Documents/DartsFolder/DartsInOrbit/Saved/Customization_Auto2CDB1937C437BC5409D7CE5A663BB7224.tmp' to '../../../../../../Users/Realf/OneDrive/Documents/DartsFolder/DartsInOrbit/Saved/Autosaves/Game/HUD/Customization_Auto2.uasset'
+[2026.08.06-04.45.43:375][565]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PaintAssets/Button_Rainbow] ([1] browsable assets)...
+[2026.08.06-04.45.43:375][565]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaintAssets/Button_Rainbow]
+[2026.08.06-04.45.43:381][565]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaintAssets/Button_Rainbow_Auto2
+[2026.08.06-04.45.43:381][565]LogSavePackage: Moving '../../../../../../Users/Realf/OneDrive/Documents/DartsFolder/DartsInOrbit/Saved/Button_Rainbow_Auto2F3EA32CB48B964D4E56FCC86A0604CFA.tmp' to '../../../../../../Users/Realf/OneDrive/Documents/DartsFolder/DartsInOrbit/Saved/Autosaves/Game/PaintAssets/Button_Rainbow_Auto2.uasset'
+[2026.08.06-04.45.43:382][565]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PaintAssets/Button_White] ([1] browsable assets)...
+[2026.08.06-04.45.43:382][565]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaintAssets/Button_White]
+[2026.08.06-04.45.43:388][565]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaintAssets/Button_White_Auto2
+[2026.08.06-04.45.43:388][565]LogSavePackage: Moving '../../../../../../Users/Realf/OneDrive/Documents/DartsFolder/DartsInOrbit/Saved/Button_White_Auto24450A80A4A85E5A444E65D8DBE7DEC5C.tmp' to '../../../../../../Users/Realf/OneDrive/Documents/DartsFolder/DartsInOrbit/Saved/Autosaves/Game/PaintAssets/Button_White_Auto2.uasset'
+[2026.08.06-04.45.43:390][565]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaintAssets/Button_Minty] ([1] browsable assets)...
+[2026.08.06-04.45.43:391][565]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaintAssets/Button_Minty.Button_Minty]
+[2026.08.06-04.45.43:391][565]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaintAssets/Button_Minty]
+[2026.08.06-04.45.43:398][565]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaintAssets/Button_Minty_Auto2
+[2026.08.06-04.45.43:398][565]LogSavePackage: Moving '../../../../../../Users/Realf/OneDrive/Documents/DartsFolder/DartsInOrbit/Saved/Button_Minty_Auto2064B1B2F42318E3DEBB446B9AD33F7D2.tmp' to '../../../../../../Users/Realf/OneDrive/Documents/DartsFolder/DartsInOrbit/Saved/Autosaves/Game/PaintAssets/Button_Minty_Auto2.uasset'
+[2026.08.06-04.45.43:399][565]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaintAssets/Button_Sunset] ([1] browsable assets)...
+[2026.08.06-04.45.43:400][565]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaintAssets/Button_Sunset.Button_Sunset]
+[2026.08.06-04.45.43:400][565]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaintAssets/Button_Sunset]
+[2026.08.06-04.45.43:406][565]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaintAssets/Button_Sunset_Auto2
+[2026.08.06-04.45.43:406][565]LogSavePackage: Moving '../../../../../../Users/Realf/OneDrive/Documents/DartsFolder/DartsInOrbit/Saved/Button_Sunset_Auto2420A41B4431B20DE5350388B57713DCA.tmp' to '../../../../../../Users/Realf/OneDrive/Documents/DartsFolder/DartsInOrbit/Saved/Autosaves/Game/PaintAssets/Button_Sunset_Auto2.uasset'
+[2026.08.06-04.45.43:407][565]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaintAssets/Button_Slate] ([1] browsable assets)...
+[2026.08.06-04.45.43:408][565]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaintAssets/Button_Slate.Button_Slate]
+[2026.08.06-04.45.43:408][565]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaintAssets/Button_Slate]
+[2026.08.06-04.45.43:416][565]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaintAssets/Button_Slate_Auto2
+[2026.08.06-04.45.43:416][565]LogSavePackage: Moving '../../../../../../Users/Realf/OneDrive/Documents/DartsFolder/DartsInOrbit/Saved/Button_Slate_Auto2ED5CB6D8422E9C1703BB7F84BE6D040A.tmp' to '../../../../../../Users/Realf/OneDrive/Documents/DartsFolder/DartsInOrbit/Saved/Autosaves/Game/PaintAssets/Button_Slate_Auto2.uasset'
+[2026.08.06-04.45.43:417][565]LogFileHelpers: Auto-saving content packages took 0.063
+[2026.08.06-04.46.20:099][256]LogSlate: Window 'Color Picker' being destroyed
+[2026.08.06-04.46.28:761][206]LogSlate: Window 'Color Picker' being destroyed
+[2026.08.06-04.46.35:025][901]LogSlate: Window 'Color Picker' being destroyed
+[2026.08.06-04.46.37:799][205]LogSlate: Window 'Color Picker' being destroyed
+[2026.08.06-04.46.57:730][625]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13415.762695
+[2026.08.06-04.46.58:735][628]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.08.06-04.46.58:735][628]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13416.429688, Update Interval: 326.441223
+[2026.08.06-04.47.27:922][534]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+2d, getting last resort font data /Users/jordanandrews/Downloads/corptic-font/CorpticdemoRegular-Yqrp4.otf
+[2026.08.06-04.47.27:922][534]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+34, getting last resort font data /Users/jordanandrews/Downloads/corptic-font/CorpticdemoRegular-Yqrp4.otf
+[2026.08.06-04.47.27:922][534]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+5f, getting last resort font data /Users/jordanandrews/Downloads/corptic-font/CorpticdemoRegular-Yqrp4.otf
+[2026.08.06-04.47.45:943][576]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+2d, getting last resort font data /Users/jordanandrews/Downloads/corptic-font/CorpticdemoRegular-Yqrp4.otf
+[2026.08.06-04.47.45:943][576]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+34, getting last resort font data /Users/jordanandrews/Downloads/corptic-font/CorpticdemoRegular-Yqrp4.otf
+[2026.08.06-04.47.45:943][576]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+5f, getting last resort font data /Users/jordanandrews/Downloads/corptic-font/CorpticdemoRegular-Yqrp4.otf
+[2026.08.06-04.50.28:235][442]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.08.06-04.50.28:264][442]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/HUD/Customization] ([2] browsable assets)...
+[2026.08.06-04.50.28:266][442]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/HUD/Customization.Customization]
+[2026.08.06-04.50.28:266][442]OBJ SavePackage: Finished generating thumbnails for package [/Game/HUD/Customization]
+[2026.08.06-04.50.28:266][442]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/Customization" FILE="../../../../../../Users/Realf/OneDrive/Documents/DartsFolder/DartsInOrbit/Content/HUD/Customization.uasset" SILENT=true
+[2026.08.06-04.50.28:282][442]LogSavePackage: Moving output files for package: /Game/HUD/Customization
+[2026.08.06-04.50.28:283][442]LogSavePackage: Moving '../../../../../../Users/Realf/OneDrive/Documents/DartsFolder/DartsInOrbit/Saved/Customization2403349E4D87F186017F02B2D58E5F70.tmp' to '../../../../../../Users/Realf/OneDrive/Documents/DartsFolder/DartsInOrbit/Content/HUD/Customization.uasset'
+[2026.08.06-04.50.28:292][442]LogFileHelpers: InternalPromptForCheckoutAndSave took 55.885 ms (total: 5.65 sec)
+[2026.08.06-04.50.28:322][442]LogContentValidation: Display: Starting to validate 1 assets
+[2026.08.06-04.50.28:322][442]LogContentValidation: Enabled validators:
+[2026.08.06-04.50.28:322][442]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.08.06-04.50.28:322][442]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.08.06-04.50.28:322][442]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.08.06-04.50.28:322][442]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.08.06-04.50.28:322][442]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.08.06-04.50.28:322][442]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.08.06-04.50.28:323][442]AssetCheck: /Game/HUD/Customization Validating asset
+[2026.08.06-04.50.29:900][618]LogInterchangeEngine: [Pending] Importing
+[2026.08.06-04.50.29:902][618]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2026.08.06-04.50.29:906][618]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2026.08.06-04.50.29:906][618]LogInterchangeEngine: [Success] Import Done
+[2026.08.06-04.51.09:981][109]LogSlate: Window 'Color Picker' being destroyed
+[2026.08.06-04.51.18:018][991]LogSlate: Window 'Color Picker' being destroyed
+[2026.08.06-04.51.21:163][348]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+2d, getting last resort font data /Users/jordanandrews/Downloads/corptic-font/CorpticdemoRegular-Yqrp4.otf
+[2026.08.06-04.51.21:163][348]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+34, getting last resort font data /Users/jordanandrews/Downloads/corptic-font/CorpticdemoRegular-Yqrp4.otf
+[2026.08.06-04.51.21:163][348]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+5f, getting last resort font data /Users/jordanandrews/Downloads/corptic-font/CorpticdemoRegular-Yqrp4.otf
+[2026.08.06-04.52.02:411][ 73]LogSlate: Window 'Color Picker' being destroyed
+[2026.08.06-04.52.06:853][555]LogSlate: Window 'Color Picker' being destroyed
+[2026.08.06-04.52.11:174][ 39]LogSlate: Window 'Color Picker' being destroyed
+[2026.08.06-04.52.50:057][483]LogSlate: Window 'Color Picker' being destroyed
+[2026.08.06-04.53.11:221][845]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13789.392578
+[2026.08.06-04.53.11:330][858]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.08.06-04.53.11:330][858]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13789.494141, Update Interval: 305.083160
+[2026.08.06-04.53.53:395][643]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2026.08.06-04.53.54:036][711]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.08.06-04.53.54:065][711]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/HUD/Customization] ([2] browsable assets)...
+[2026.08.06-04.53.54:068][711]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/HUD/Customization.Customization]
+[2026.08.06-04.53.54:068][711]OBJ SavePackage: Finished generating thumbnails for package [/Game/HUD/Customization]
+[2026.08.06-04.53.54:068][711]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/Customization" FILE="../../../../../../Users/Realf/OneDrive/Documents/DartsFolder/DartsInOrbit/Content/HUD/Customization.uasset" SILENT=true
+[2026.08.06-04.53.54:084][711]LogSavePackage: Moving output files for package: /Game/HUD/Customization
+[2026.08.06-04.53.54:084][711]LogSavePackage: Moving '../../../../../../Users/Realf/OneDrive/Documents/DartsFolder/DartsInOrbit/Saved/CustomizationCDF37FEA481B6E0BE05DD8A00212E65D.tmp' to '../../../../../../Users/Realf/OneDrive/Documents/DartsFolder/DartsInOrbit/Content/HUD/Customization.uasset'
+[2026.08.06-04.53.54:091][711]LogFileHelpers: InternalPromptForCheckoutAndSave took 54.904 ms (total: 5.70 sec)
+[2026.08.06-04.53.54:114][711]LogContentValidation: Display: Starting to validate 1 assets
+[2026.08.06-04.53.54:114][711]LogContentValidation: Enabled validators:
+[2026.08.06-04.53.54:114][711]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.08.06-04.53.54:114][711]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.08.06-04.53.54:114][711]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.08.06-04.53.54:114][711]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.08.06-04.53.54:114][711]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.08.06-04.53.54:114][711]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.08.06-04.53.54:115][711]AssetCheck: /Game/HUD/Customization Validating asset
+[2026.08.06-04.55.13:596][247]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.08.06-04.55.13:620][247]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/HUD/Customization] ([2] browsable assets)...
+[2026.08.06-04.55.13:620][247]OBJ SavePackage: Finished generating thumbnails for package [/Game/HUD/Customization]
+[2026.08.06-04.55.13:620][247]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/Customization" FILE="../../../../../../Users/Realf/OneDrive/Documents/DartsFolder/DartsInOrbit/Content/HUD/Customization.uasset" SILENT=true
+[2026.08.06-04.55.13:636][247]LogSavePackage: Moving output files for package: /Game/HUD/Customization
+[2026.08.06-04.55.13:636][247]LogSavePackage: Moving '../../../../../../Users/Realf/OneDrive/Documents/DartsFolder/DartsInOrbit/Saved/Customization2334F48448DEBFBE175E4A8FFC0C3C17.tmp' to '../../../../../../Users/Realf/OneDrive/Documents/DartsFolder/DartsInOrbit/Content/HUD/Customization.uasset'
+[2026.08.06-04.55.13:643][247]LogFileHelpers: InternalPromptForCheckoutAndSave took 47.932 ms (total: 5.75 sec)
+[2026.08.06-04.55.13:672][247]LogContentValidation: Display: Starting to validate 1 assets
+[2026.08.06-04.55.13:672][247]LogContentValidation: Enabled validators:
+[2026.08.06-04.55.13:672][247]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.08.06-04.55.13:672][247]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.08.06-04.55.13:672][247]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.08.06-04.55.13:672][247]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.08.06-04.55.13:672][247]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.08.06-04.55.13:672][247]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.08.06-04.55.13:673][247]AssetCheck: /Game/HUD/Customization Validating asset
+[2026.08.06-04.55.50:215][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2026.08.06-04.55.50:220][ 30]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level' took 0.028
+[2026.08.06-04.55.50:220][ 30]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaintAssets/Hourglass] ([1] browsable assets)...
+[2026.08.06-04.55.50:221][ 30]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaintAssets/Hourglass.Hourglass]
+[2026.08.06-04.55.50:221][ 30]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaintAssets/Hourglass]
+[2026.08.06-04.55.50:230][ 30]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaintAssets/Hourglass_Auto3
+[2026.08.06-04.55.50:230][ 30]LogSavePackage: Moving '../../../../../../Users/Realf/OneDrive/Documents/DartsFolder/DartsInOrbit/Saved/Hourglass_Auto3AB3141FF4D684E5872A241B0306B3859.tmp' to '../../../../../../Users/Realf/OneDrive/Documents/DartsFolder/DartsInOrbit/Saved/Autosaves/Game/PaintAssets/Hourglass_Auto3.uasset'
+[2026.08.06-04.55.50:231][ 30]LogFileHelpers: Auto-saving content packages took 0.011
+[2026.08.06-04.57.22:747][393]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.08.06-04.57.22:771][393]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/HUD/Customization] ([2] browsable assets)...
+[2026.08.06-04.57.22:771][393]OBJ SavePackage: Finished generating thumbnails for package [/Game/HUD/Customization]
+[2026.08.06-04.57.22:771][393]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/Customization" FILE="../../../../../../Users/Realf/OneDrive/Documents/DartsFolder/DartsInOrbit/Content/HUD/Customization.uasset" SILENT=true
+[2026.08.06-04.57.22:789][393]LogSavePackage: Moving output files for package: /Game/HUD/Customization
+[2026.08.06-04.57.22:789][393]LogSavePackage: Moving '../../../../../../Users/Realf/OneDrive/Documents/DartsFolder/DartsInOrbit/Saved/Customization0C3AE94947DEF3AE14EFC0957ECF4C43.tmp' to '../../../../../../Users/Realf/OneDrive/Documents/DartsFolder/DartsInOrbit/Content/HUD/Customization.uasset'
+[2026.08.06-04.57.22:796][393]LogFileHelpers: InternalPromptForCheckoutAndSave took 49.229 ms (total: 5.80 sec)
+[2026.08.06-04.57.22:826][393]LogContentValidation: Display: Starting to validate 1 assets
+[2026.08.06-04.57.22:826][393]LogContentValidation: Enabled validators:
+[2026.08.06-04.57.22:826][393]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.08.06-04.57.22:826][393]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.08.06-04.57.22:826][393]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.08.06-04.57.22:826][393]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.08.06-04.57.22:826][393]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.08.06-04.57.22:826][393]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.08.06-04.57.22:828][393]AssetCheck: /Game/HUD/Customization Validating asset
+[2026.08.06-04.58.51:675][501]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14129.962891
+[2026.08.06-04.58.51:767][512]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.08.06-04.58.51:767][512]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14130.046875, Update Interval: 338.112732
+[2026.08.06-04.59.58:977][240]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.08.06-04.59.58:999][240]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/HUD/Customization] ([2] browsable assets)...
+[2026.08.06-04.59.59:002][240]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/HUD/Customization.Customization]
+[2026.08.06-04.59.59:002][240]OBJ SavePackage: Finished generating thumbnails for package [/Game/HUD/Customization]
+[2026.08.06-04.59.59:002][240]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/Customization" FILE="../../../../../../Users/Realf/OneDrive/Documents/DartsFolder/DartsInOrbit/Content/HUD/Customization.uasset" SILENT=true
+[2026.08.06-04.59.59:019][240]LogSavePackage: Moving output files for package: /Game/HUD/Customization
+[2026.08.06-04.59.59:020][240]LogSavePackage: Moving '../../../../../../Users/Realf/OneDrive/Documents/DartsFolder/DartsInOrbit/Saved/CustomizationFF44AD3A485C25237EAD638EF6D1177D.tmp' to '../../../../../../Users/Realf/OneDrive/Documents/DartsFolder/DartsInOrbit/Content/HUD/Customization.uasset'
+[2026.08.06-04.59.59:027][240]LogFileHelpers: InternalPromptForCheckoutAndSave took 50.958 ms (total: 5.85 sec)
+[2026.08.06-04.59.59:057][240]LogContentValidation: Display: Starting to validate 1 assets
+[2026.08.06-04.59.59:057][240]LogContentValidation: Enabled validators:
+[2026.08.06-04.59.59:057][240]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.08.06-04.59.59:057][240]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.08.06-04.59.59:057][240]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.08.06-04.59.59:057][240]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.08.06-04.59.59:057][240]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.08.06-04.59.59:057][240]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.08.06-04.59.59:059][240]AssetCheck: /Game/HUD/Customization Validating asset
+[2026.08.06-05.01.28:362][947]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2026.08.06-05.02.36:332][590]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.08.06-05.02.36:338][590]LogContentBundle: [Level(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.08.06-05.02.36:339][590]LogWorldPartition: Display: GenerateStreaming for 'Level' started...
+[2026.08.06-05.02.36:339][590]LogWorldPartition: Display: GenerateStreaming for 'Level' took 1.141 ms (total: 838.261 ms)
+[2026.08.06-05.02.36:339][590]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.08.06-05.02.36:340][590]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level
+[2026.08.06-05.02.36:353][590]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.08.06-05.02.36:356][590]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 3.548 ms (total: 277.023 ms)
+[2026.08.06-05.02.36:356][590]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016913s)
+[2026.08.06-05.02.36:356][590]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level.Level to /Game/UEDPIE_0_Level.Level (0.016947s)
+[2026.08.06-05.02.36:379][590]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2026.08.06-05.02.36:384][590]LogChaosDD: Creating Chaos Debug Draw Scene for world Level
+[2026.08.06-05.02.36:386][590]LogWorldPartition: ULevel::OnLevelLoaded(Level)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.08.06-05.02.36:386][590]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.08.06-05.02.36:386][590]LogWorldPartition: UWorldPartition::Initialize : World = /Game/UEDPIE_0_Level.Level, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.08.06-05.02.36:386][590]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.08.06-05.02.36:391][590]LogWorldPartition: Display: WorldPartition initialize took 4.778 ms (total: 2.69 sec)
+[2026.08.06-05.02.36:391][590]LogPlayLevel: PIE: World Init took: (0.006454s)
+[2026.08.06-05.02.36:392][590]LogAudio: Display: Creating Audio Device:                 Id: 79, Scope: Unique, Realtime: True
+[2026.08.06-05.02.36:392][590]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.08.06-05.02.36:392][590]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.08.06-05.02.36:392][590]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.08.06-05.02.36:392][590]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.08.06-05.02.36:392][590]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.08.06-05.02.36:392][590]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.08.06-05.02.36:392][590]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.08.06-05.02.36:392][590]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.08.06-05.02.36:392][590]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.08.06-05.02.36:392][590]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.08.06-05.02.36:392][590]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.08.06-05.02.36:394][590]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.08.06-05.02.36:416][590]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Razer Kraken Ultimate)
+[2026.08.06-05.02.36:416][590]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.08.06-05.02.36:416][590]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.08.06-05.02.36:416][590]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.08.06-05.02.36:416][590]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=79
+[2026.08.06-05.02.36:416][590]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=79
+[2026.08.06-05.02.36:419][590]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=79
+[2026.08.06-05.02.36:419][590]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=79
+[2026.08.06-05.02.36:419][590]LogInit: FAudioDevice initialized with ID 79.
+[2026.08.06-05.02.36:419][590]LogAudio: Display: Audio Device (ID: 79) registered with world 'Level'.
+[2026.08.06-05.02.36:419][590]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 79
+[2026.08.06-05.02.36:424][590]LogLoad: Game class is 'GameModeBase'
+[2026.08.06-05.02.36:425][590]LogWorld: Bringing World /Game/UEDPIE_0_Level.Level up for play (max tick rate 0) at 2026.08.06-00.02.36
+[2026.08.06-05.02.36:426][590]LogWorld: Bringing up level for play took: 0.001578
+[2026.08.06-05.02.36:428][590]LogOnline: OSS: Created online subsystem instance for: :Context_105
+[2026.08.06-05.02.36:429][590]LogStreaming: Display: FlushAsyncLoading(14324,14312,14313,14314,14315,14316,14317,14318,14319,14320,14321,14322,14323,14304,14305,14306,14307,14308,14309,14310,14311): 21 QueuedPackages, 0 AsyncPackages
+[2026.08.06-05.02.36:440][590]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [dome]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.08.06-05.02.36:441][590]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [dome]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.08.06-05.02.36:441][590]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [dome]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.08.06-05.02.36:441][590]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [dome]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.08.06-05.02.36:441][590]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [dome]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.08.06-05.02.36:441][590]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [dome]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.08.06-05.02.36:441][590]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [dome]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.08.06-05.02.36:441][590]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [dome]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.08.06-05.02.36:441][590]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [dome]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.08.06-05.02.36:441][590]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [dome]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.08.06-05.02.36:441][590]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [dome]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.08.06-05.02.36:441][590]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [dome]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.08.06-05.02.36:444][590]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.08.06-05.02.36:444][590]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2026.08.06-05.02.36:446][590]PIE: Server logged in
+[2026.08.06-05.02.36:447][590]PIE: Play in editor total start time 0.109 seconds.
+[2026.08.06-05.02.36:449][590]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [dome]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.08.06-05.02.36:449][590]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [dome]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.08.06-05.02.36:449][590]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [dome]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.08.06-05.02.36:449][590]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [dome]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.08.06-05.02.36:449][590]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [dome]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.08.06-05.02.36:449][590]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [dome]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.08.06-05.02.36:449][590]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [dome]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.08.06-05.02.36:449][590]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [dome]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.08.06-05.02.36:449][590]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [dome]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.08.06-05.02.36:450][590]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [dome]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.08.06-05.02.36:450][590]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [dome]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.08.06-05.02.36:485][591]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.08.06-05.05.12:274][813]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14510.567383
+[2026.08.06-05.05.13:274][816]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.08.06-05.05.13:274][816]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14511.234375, Update Interval: 352.395386
+[2026.08.06-05.05.19:774][836]LogDerivedDataCache: C:/Users/Realf/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.08.06-05.07.30:868][329]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.08.06-05.07.30:868][329]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Level
+[2026.08.06-05.07.30:869][329]LogWorld: UWorld::CleanupWorld for Level, bSessionEnded=true, bCleanupResources=true
+[2026.08.06-05.07.30:870][329]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.08.06-05.07.30:870][329]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/UEDPIE_0_Level.Level
+[2026.08.06-05.07.30:871][329]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.08.06-05.07.30:878][329]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.08.06-05.07.30:907][329]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.08.06-05.07.30:908][329]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 79
+[2026.08.06-05.07.30:908][329]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=79, StreamState=4
+[2026.08.06-05.07.30:911][329]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=79, StreamState=2
+[2026.08.06-05.07.30:917][329]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.08.06-05.07.30:920][329]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2026.08.06-05.07.30:952][330]LogPlayLevel: Display: Destroying online subsystem :Context_105
+[2026.08.06-05.11.15:259][417]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.08.06-05.11.15:265][417]LogContentBundle: [Level(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.08.06-05.11.15:265][417]LogWorldPartition: Display: GenerateStreaming for 'Level' started...
+[2026.08.06-05.11.15:267][417]LogWorldPartition: Display: GenerateStreaming for 'Level' took 1.351 ms (total: 839.612 ms)
+[2026.08.06-05.11.15:267][417]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.08.06-05.11.15:267][417]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level
+[2026.08.06-05.11.15:279][417]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.08.06-05.11.15:283][417]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 3.553 ms (total: 280.577 ms)
+[2026.08.06-05.11.15:283][417]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015963s)
+[2026.08.06-05.11.15:283][417]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level.Level to /Game/UEDPIE_0_Level.Level (0.015989s)
+[2026.08.06-05.11.15:304][417]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2026.08.06-05.11.15:306][417]LogChaosDD: Creating Chaos Debug Draw Scene for world Level
+[2026.08.06-05.11.15:307][417]LogWorldPartition: ULevel::OnLevelLoaded(Level)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.08.06-05.11.15:307][417]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.08.06-05.11.15:307][417]LogWorldPartition: UWorldPartition::Initialize : World = /Game/UEDPIE_0_Level.Level, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.08.06-05.11.15:307][417]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.08.06-05.11.15:313][417]LogWorldPartition: Display: WorldPartition initialize took 4.781 ms (total: 2.70 sec)
+[2026.08.06-05.11.15:313][417]LogPlayLevel: PIE: World Init took: (0.006333s)
+[2026.08.06-05.11.15:313][417]LogAudio: Display: Creating Audio Device:                 Id: 80, Scope: Unique, Realtime: True
+[2026.08.06-05.11.15:313][417]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.08.06-05.11.15:313][417]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.08.06-05.11.15:313][417]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.08.06-05.11.15:313][417]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.08.06-05.11.15:313][417]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.08.06-05.11.15:313][417]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.08.06-05.11.15:313][417]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.08.06-05.11.15:313][417]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.08.06-05.11.15:313][417]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.08.06-05.11.15:313][417]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.08.06-05.11.15:313][417]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.08.06-05.11.15:315][417]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.08.06-05.11.15:338][417]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Razer Kraken Ultimate)
+[2026.08.06-05.11.15:339][417]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.08.06-05.11.15:339][417]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.08.06-05.11.15:339][417]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.08.06-05.11.15:339][417]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=80
+[2026.08.06-05.11.15:339][417]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=80
+[2026.08.06-05.11.15:341][417]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=80
+[2026.08.06-05.11.15:341][417]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=80
+[2026.08.06-05.11.15:341][417]LogInit: FAudioDevice initialized with ID 80.
+[2026.08.06-05.11.15:341][417]LogAudio: Display: Audio Device (ID: 80) registered with world 'Level'.
+[2026.08.06-05.11.15:341][417]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 80
+[2026.08.06-05.11.15:344][417]LogLoad: Game class is 'GameModeBase'
+[2026.08.06-05.11.15:344][417]LogWorld: Bringing World /Game/UEDPIE_0_Level.Level up for play (max tick rate 0) at 2026.08.06-00.11.15
+[2026.08.06-05.11.15:346][417]LogWorld: Bringing up level for play took: 0.001521
+[2026.08.06-05.11.15:347][417]LogOnline: OSS: Created online subsystem instance for: :Context_106
+[2026.08.06-05.11.15:349][417]LogStreaming: Display: FlushAsyncLoading(14345,14333,14334,14335,14336,14337,14338,14339,14340,14341,14342,14343,14344,14325,14326,14327,14328,14329,14330,14331,14332): 21 QueuedPackages, 0 AsyncPackages
+[2026.08.06-05.11.15:358][417]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [dome]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.08.06-05.11.15:358][417]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [dome]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.08.06-05.11.15:358][417]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [dome]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.08.06-05.11.15:358][417]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [dome]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.08.06-05.11.15:358][417]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [dome]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.08.06-05.11.15:358][417]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [dome]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.08.06-05.11.15:358][417]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [dome]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.08.06-05.11.15:358][417]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [dome]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.08.06-05.11.15:358][417]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [dome]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.08.06-05.11.15:358][417]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [dome]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.08.06-05.11.15:358][417]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [dome]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.08.06-05.11.15:358][417]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [dome]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.08.06-05.11.15:361][417]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.08.06-05.11.15:361][417]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2026.08.06-05.11.15:363][417]PIE: Server logged in
+[2026.08.06-05.11.15:365][417]PIE: Play in editor total start time 0.1 seconds.
+[2026.08.06-05.11.15:366][417]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [dome]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.08.06-05.11.15:366][417]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [dome]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.08.06-05.11.15:366][417]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [dome]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.08.06-05.11.15:366][417]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [dome]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.08.06-05.11.15:366][417]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [dome]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.08.06-05.11.15:366][417]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [dome]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.08.06-05.11.15:366][417]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [dome]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.08.06-05.11.15:366][417]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [dome]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.08.06-05.11.15:366][417]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [dome]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.08.06-05.11.15:367][417]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [dome]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.08.06-05.11.15:367][417]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [dome]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.08.06-05.11.15:402][418]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.08.06-05.11.58:422][673]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14916.666016
+[2026.08.06-05.11.59:423][676]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.08.06-05.11.59:423][676]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14917.332031, Update Interval: 334.210632
+[2026.08.06-05.12.30:307][828]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.08.06-05.12.30:307][828]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Level
+[2026.08.06-05.12.30:308][828]LogWorld: UWorld::CleanupWorld for Level, bSessionEnded=true, bCleanupResources=true
+[2026.08.06-05.12.30:308][828]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.08.06-05.12.30:308][828]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/UEDPIE_0_Level.Level
+[2026.08.06-05.12.30:309][828]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.08.06-05.12.30:315][828]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.08.06-05.12.30:339][828]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.08.06-05.12.30:340][828]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 80
+[2026.08.06-05.12.30:340][828]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=80, StreamState=4
+[2026.08.06-05.12.30:342][828]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=80, StreamState=2
+[2026.08.06-05.12.30:349][828]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2026.08.06-05.12.30:379][829]LogPlayLevel: Display: Destroying online subsystem :Context_106
+[2026.08.06-05.13.30:155][859]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.08.06-05.13.30:162][859]LogContentBundle: [Level(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.08.06-05.13.30:162][859]LogWorldPartition: Display: GenerateStreaming for 'Level' started...
+[2026.08.06-05.13.30:163][859]LogWorldPartition: Display: GenerateStreaming for 'Level' took 947 us (total: 840.560 ms)
+[2026.08.06-05.13.30:170][859]LogPlayLevel: [PlayLevel] Compiling Menu before play...
+[2026.08.06-05.13.30:290][859]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2026.08.06-05.13.30:297][859]LogPlayLevel: PlayLevel: Blueprint regeneration took 134 ms (1 blueprints)
+[2026.08.06-05.13.30:297][859]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level
+[2026.08.06-05.13.30:310][859]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.08.06-05.13.30:313][859]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 3.414 ms (total: 283.991 ms)
+[2026.08.06-05.13.30:313][859]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015707s)
+[2026.08.06-05.13.30:313][859]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level.Level to /Game/UEDPIE_0_Level.Level (0.015736s)
+[2026.08.06-05.13.30:334][859]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2026.08.06-05.13.30:336][859]LogChaosDD: Creating Chaos Debug Draw Scene for world Level
+[2026.08.06-05.13.30:338][859]LogWorldPartition: ULevel::OnLevelLoaded(Level)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.08.06-05.13.30:338][859]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.08.06-05.13.30:338][859]LogWorldPartition: UWorldPartition::Initialize : World = /Game/UEDPIE_0_Level.Level, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.08.06-05.13.30:338][859]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.08.06-05.13.30:343][859]LogWorldPartition: Display: WorldPartition initialize took 4.836 ms (total: 2.70 sec)
+[2026.08.06-05.13.30:343][859]LogPlayLevel: PIE: World Init took: (0.006367s)
+[2026.08.06-05.13.30:344][859]LogAudio: Display: Creating Audio Device:                 Id: 81, Scope: Unique, Realtime: True
+[2026.08.06-05.13.30:344][859]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.08.06-05.13.30:344][859]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.08.06-05.13.30:344][859]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.08.06-05.13.30:344][859]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.08.06-05.13.30:344][859]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.08.06-05.13.30:344][859]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.08.06-05.13.30:344][859]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.08.06-05.13.30:344][859]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.08.06-05.13.30:344][859]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.08.06-05.13.30:344][859]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.08.06-05.13.30:344][859]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.08.06-05.13.30:345][859]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.08.06-05.13.30:366][859]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Razer Kraken Ultimate)
+[2026.08.06-05.13.30:367][859]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.08.06-05.13.30:367][859]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.08.06-05.13.30:367][859]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.08.06-05.13.30:367][859]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=81
+[2026.08.06-05.13.30:367][859]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=81
+[2026.08.06-05.13.30:369][859]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=81
+[2026.08.06-05.13.30:369][859]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=81
+[2026.08.06-05.13.30:369][859]LogInit: FAudioDevice initialized with ID 81.
+[2026.08.06-05.13.30:369][859]LogAudio: Display: Audio Device (ID: 81) registered with world 'Level'.
+[2026.08.06-05.13.30:369][859]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 81
+[2026.08.06-05.13.30:390][859]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.08.06-05.13.30:390][859]LogLoad: Game class is 'GameModeBase'
+[2026.08.06-05.13.30:391][859]LogWorld: Bringing World /Game/UEDPIE_0_Level.Level up for play (max tick rate 0) at 2026.08.06-00.13.30
+[2026.08.06-05.13.30:391][859]LogWorld: Bringing up level for play took: 0.001415
+[2026.08.06-05.13.30:393][859]LogOnline: OSS: Created online subsystem instance for: :Context_107
+[2026.08.06-05.13.30:395][859]LogStreaming: Display: FlushAsyncLoading(14366,14354,14355,14356,14357,14358,14359,14360,14361,14362,14363,14364,14365,14346,14347,14348,14349,14350,14351,14352,14353): 21 QueuedPackages, 0 AsyncPackages
+[2026.08.06-05.13.30:404][859]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [dome]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.08.06-05.13.30:404][859]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [dome]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.08.06-05.13.30:405][859]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [dome]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.08.06-05.13.30:405][859]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [dome]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.08.06-05.13.30:405][859]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [dome]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.08.06-05.13.30:405][859]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [dome]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.08.06-05.13.30:405][859]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [dome]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.08.06-05.13.30:405][859]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [dome]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.08.06-05.13.30:405][859]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [dome]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.08.06-05.13.30:405][859]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [dome]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.08.06-05.13.30:405][859]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [dome]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.08.06-05.13.30:405][859]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [dome]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.08.06-05.13.30:407][859]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.08.06-05.13.30:407][859]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2026.08.06-05.13.30:411][859]PIE: Server logged in
+[2026.08.06-05.13.30:412][859]PIE: Play in editor total start time 0.25 seconds.
+[2026.08.06-05.13.30:413][859]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [dome]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.08.06-05.13.30:413][859]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [dome]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.08.06-05.13.30:413][859]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [dome]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.08.06-05.13.30:413][859]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [dome]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.08.06-05.13.30:413][859]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [dome]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.08.06-05.13.30:413][859]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [dome]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.08.06-05.13.30:413][859]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [dome]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.08.06-05.13.30:413][859]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [dome]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.08.06-05.13.30:413][859]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [dome]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.08.06-05.13.30:413][859]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [dome]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.08.06-05.13.30:414][859]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [dome]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.08.06-05.13.30:469][860]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.08.06-05.16.21:276][729]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.08.06-05.16.21:276][729]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Level
+[2026.08.06-05.16.21:276][729]LogSlate: Window 'DartsInOrbit Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2026.08.06-05.16.21:285][729]LogWorld: UWorld::CleanupWorld for Level, bSessionEnded=true, bCleanupResources=true
+[2026.08.06-05.16.21:286][729]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.08.06-05.16.21:286][729]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/UEDPIE_0_Level.Level
+[2026.08.06-05.16.21:287][729]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.08.06-05.16.21:294][729]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.08.06-05.16.21:320][729]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 81
+[2026.08.06-05.16.21:320][729]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=81, StreamState=4
+[2026.08.06-05.16.21:322][729]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=81, StreamState=2
+[2026.08.06-05.16.21:331][729]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2026.08.06-05.16.21:566][730]LogPlayLevel: Display: Destroying online subsystem :Context_107
+[2026.08.06-05.16.48:192][876]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2026.08.06-05.16.48:194][876]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level' took 0.026
+[2026.08.06-05.16.48:195][876]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/HUD/Menu] ([2] browsable assets)...
+[2026.08.06-05.16.48:199][876]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/HUD/Menu.Menu]
+[2026.08.06-05.16.48:199][876]OBJ SavePackage: Finished generating thumbnails for package [/Game/HUD/Menu]
+[2026.08.06-05.16.48:199][876]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/Menu" FILE="../../../../../../Users/Realf/OneDrive/Documents/DartsFolder/DartsInOrbit/Saved/Autosaves/Game/HUD/Menu_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2026.08.06-05.16.48:240][876]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/HUD/Menu_Auto4
+[2026.08.06-05.16.48:240][876]LogSavePackage: Moving '../../../../../../Users/Realf/OneDrive/Documents/DartsFolder/DartsInOrbit/Saved/Menu_Auto42922332F4C17C8058225A89967748CEE.tmp' to '../../../../../../Users/Realf/OneDrive/Documents/DartsFolder/DartsInOrbit/Saved/Autosaves/Game/HUD/Menu_Auto4.uasset'
+[2026.08.06-05.16.48:241][876]LogFileHelpers: Auto-saving content packages took 0.047
+[2026.08.06-05.18.17:151][143]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15295.438477
+[2026.08.06-05.18.18:151][146]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.08.06-05.18.18:151][146]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15296.105469, Update Interval: 312.903839
+[2026.08.06-05.24.14:855][216]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15653.053711
+[2026.08.06-05.24.15:855][219]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.08.06-05.24.15:855][219]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15653.720703, Update Interval: 326.226990
+[2026.08.06-05.30.20:235][312]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16018.344727
+[2026.08.06-05.30.21:236][315]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.08.06-05.30.21:236][315]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16019.010742, Update Interval: 324.395874
+[2026.08.06-05.36.34:610][435]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16392.626953
+[2026.08.06-05.36.35:610][438]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.08.06-05.36.35:610][438]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16393.294922, Update Interval: 308.421265
+[2026.08.06-05.40.27:632][134]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.08.06-05.40.27:665][134]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/HUD/Menu] ([2] browsable assets)...
+[2026.08.06-05.40.27:665][134]OBJ SavePackage: Finished generating thumbnails for package [/Game/HUD/Menu]
+[2026.08.06-05.40.27:665][134]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/Menu" FILE="../../../../../../Users/Realf/OneDrive/Documents/DartsFolder/DartsInOrbit/Content/HUD/Menu.uasset" SILENT=true
+[2026.08.06-05.40.27:707][134]LogSavePackage: Moving output files for package: /Game/HUD/Menu
+[2026.08.06-05.40.27:707][134]LogSavePackage: Moving '../../../../../../Users/Realf/OneDrive/Documents/DartsFolder/DartsInOrbit/Saved/MenuF42CF8854307CB91DFF90ABFB589A13D.tmp' to '../../../../../../Users/Realf/OneDrive/Documents/DartsFolder/DartsInOrbit/Content/HUD/Menu.uasset'
+[2026.08.06-05.40.27:715][134]LogFileHelpers: InternalPromptForCheckoutAndSave took 83.325 ms (total: 5.93 sec)
+[2026.08.06-05.40.27:741][134]LogContentValidation: Display: Starting to validate 1 assets
+[2026.08.06-05.40.27:742][134]LogContentValidation: Enabled validators:
+[2026.08.06-05.40.27:742][134]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.08.06-05.40.27:742][134]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.08.06-05.40.27:742][134]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.08.06-05.40.27:742][134]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.08.06-05.40.27:742][134]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.08.06-05.40.27:742][134]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.08.06-05.40.27:743][134]AssetCheck: /Game/HUD/Menu Validating asset
