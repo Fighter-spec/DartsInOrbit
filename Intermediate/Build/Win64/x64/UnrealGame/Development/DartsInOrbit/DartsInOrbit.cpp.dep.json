@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\realf\\onedrive\\documents\\dartsfolder\\dartsinorbit\\intermediate\\source\\dartsinorbit.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\realf\\onedrive\\documents\\dartsfolder\\dartsinorbit\\intermediate\\build\\win64\\x64\\dartsinorbit\\development\\core\\sharedpch.core.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\realf\\onedrive\\documents\\dartsfolder\\dartsinorbit\\intermediate\\build\\win64\\x64\\unrealgame\\development\\dartsinorbit\\definitions.dartsinorbit.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

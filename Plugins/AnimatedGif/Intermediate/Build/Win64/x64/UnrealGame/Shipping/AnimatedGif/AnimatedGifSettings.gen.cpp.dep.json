@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\realf\\onedrive\\documents\\dartsfolder\\dartsinorbit\\plugins\\animatedgif\\intermediate\\build\\win64\\unrealgame\\inc\\animatedgif\\uht\\animatedgifsettings.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\realf\\onedrive\\documents\\dartsfolder\\dartsinorbit\\intermediate\\build\\win64\\x64\\dartsinorbit\\shipping\\engine\\sharedpch.engine.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\realf\\onedrive\\documents\\dartsfolder\\dartsinorbit\\plugins\\animatedgif\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\animatedgif\\definitions.animatedgif.h",
+            "c:\\users\\realf\\onedrive\\documents\\dartsfolder\\dartsinorbit\\plugins\\animatedgif\\source\\animatedgif\\public\\animatedgifsettings.h",
+            "c:\\users\\realf\\onedrive\\documents\\dartsfolder\\dartsinorbit\\plugins\\animatedgif\\intermediate\\build\\win64\\unrealgame\\inc\\animatedgif\\uht\\animatedgifsettings.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

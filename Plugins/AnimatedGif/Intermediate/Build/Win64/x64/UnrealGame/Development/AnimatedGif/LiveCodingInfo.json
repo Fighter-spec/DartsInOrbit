@@ -1,0 +1,19 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.AnimatedGif.cpp.obj": [
+			"AnimatedGif.init.gen.cpp.obj",
+			"AnimatedGifSettings.gen.cpp.obj",
+			"AnimatedGifFunctionLibrary.cpp.obj",
+			"AnimatedGifImage.cpp.obj",
+			"AnimatedGifModule.cpp.obj",
+			"AsyncAction_LoadAnimatedGif.cpp.obj",
+			"GifAsset.cpp.obj",
+			"GifDecoder.cpp.obj",
+			"GifPlaybackSubsystem.cpp.obj",
+			"GifPlayer.cpp.obj",
+			"SAnimatedGifImage.cpp.obj",
+			"StbImageImpl.cpp.obj"
+		]
+	}
+}

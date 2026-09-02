@@ -1,0 +1,1632 @@
+{
+	"AssetInfoVersion": 2,
+	"ShaderCodeToAssets": [
+		{
+			"ShaderMapHash": "F85B6D008D94DA21FF004E8F76165BD3AF56FDF7",
+			"Assets": [
+				"/Engine/EditorMaterials/Camera/CineMat"
+			]
+		},
+		{
+			"ShaderMapHash": "3178710150B775A4BB6A436FB5C433FFC99159B2",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_SpecularGlossiness_Mask"
+			]
+		},
+		{
+			"ShaderMapHash": "4AA58B01B9FD7E6576BAB78CDEAF9F3F49E672BB",
+			"Assets": [
+				"/Game/Characters/AlienSkins/Defaults/M_Eyes"
+			]
+		},
+		{
+			"ShaderMapHash": "A6D83E02856433D0493F6F618F329914E8894D92",
+			"Assets": [
+				"/Game/Characters/AlienSkins/Custom/M_Black"
+			]
+		},
+		{
+			"ShaderMapHash": "605EED0280778399934BEA18B67DC896A06144A4",
+			"Assets": [
+				"/SpeedTreeImporter/SpeedTree9/SpeedTreeBillboardMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "323E69030073B9FA8AE9B24CB712E5D41ADAD952",
+			"Assets": [
+				"/Game/Characters/AlienSkins/Custom/M_Rose"
+			]
+		},
+		{
+			"ShaderMapHash": "8BD82F047434CDD05AACEF58E1A2A652C4CC5063",
+			"Assets": [
+				"/Game/Materials/M_Bounds6"
+			]
+		},
+		{
+			"ShaderMapHash": "7486CC0426212A76B94E9F6028B545D0FCB481F3",
+			"Assets": [
+				"/Game/Maya/SceleraRival"
+			]
+		},
+		{
+			"ShaderMapHash": "F7B4560573C26573A95663A744060A34E3C14031",
+			"Assets": [
+				"/Game/Maya/CrownGem1"
+			]
+		},
+		{
+			"ShaderMapHash": "DA1BEC05186567DCD4969E5BBCD464A9610B01A3",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Transmission_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "2B74F505AF8F0E8F16A11E9CA449957AC7357EC3",
+			"Assets": [
+				"/Game/Materials/M_Moontexture"
+			]
+		},
+		{
+			"ShaderMapHash": "30DA96078F99ECBA340ECBB1079FDDB92743F9BE",
+			"Assets": [
+				"/Game/Maya/vest8"
+			]
+		},
+		{
+			"ShaderMapHash": "E88797072C54D3AB3BA9BE2652FD3798F2EEB6B7",
+			"Assets": [
+				"/InterchangeAssets/gltf/M_Default"
+			]
+		},
+		{
+			"ShaderMapHash": "983C3B08AED27EC8BCEA85CA3E8AB5BD762F6562",
+			"Assets": [
+				"/Game/Characters/AlienSkins/Defaults/M_Mouth"
+			]
+		},
+		{
+			"ShaderMapHash": "5271C50884A227FE05A352513082F8B6E582DC6B",
+			"Assets": [
+				"/Engine/EditorLandscapeResources/LayerVisMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "DB516B0BC13F741B51F32536954142BCA2B17F52",
+			"Assets": [
+				"/Game/Characters/AlienSkins/Custom/M_Gray"
+			]
+		},
+		{
+			"ShaderMapHash": "C9916B0B670285390F71E5EE63DF080CC2CF5885",
+			"Assets": [
+				"/Game/Materials/transparent"
+			]
+		},
+		{
+			"ShaderMapHash": "BA16850BB63CD65C96ECF31D6C59DF5BDCE2246A",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Unlit_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "C500480C17723E807565057BD0385CE977CF4F1B",
+			"Assets": [
+				"/Composure/Materials/PassSetup/ComposureSimpleSetupMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "3648520DFF54AC66E1EA7D7B7ED176A8648CA712",
+			"Assets": [
+				"/Game/Materials/M_Bounds",
+				"/Game/Materials/M_Bounds7"
+			]
+		},
+		{
+			"ShaderMapHash": "10E0FE0DE77C9C23D088F2EDDF186331113747F8",
+			"Assets": [
+				"/Game/Characters/AlienSkins/Custom/Glow/M_GlowYellow"
+			]
+		},
+		{
+			"ShaderMapHash": "B5648B0E78C4B7E4337F8ECCEA9DB2BDF9C35FA0",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/DebugEditorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "85082910B29B11A9EF88D412D4292429DF23766F",
+			"Assets": [
+				"/Game/Maya/StaffBase"
+			]
+		},
+		{
+			"ShaderMapHash": "34679610CAF58C7D58F2971F2536F45F7BDCF816",
+			"Assets": [
+				"/ControlRig/M_Manip"
+			]
+		},
+		{
+			"ShaderMapHash": "67CF2611BC6C5A214321984EB43E9AD962B4533B",
+			"Assets": [
+				"/Game/Characters/AlienSkins/Custom/Glow/M_GlowTeal"
+			]
+		},
+		{
+			"ShaderMapHash": "E8938C117F4D608A46E431B2713E0B0C69500681",
+			"Assets": [
+				"/Game/Materials/pasted__pasted__whitecube"
+			]
+		},
+		{
+			"ShaderMapHash": "1996C41156A8DCB2B4C9C0B9D813F69F53624BEF",
+			"Assets": [
+				"/Engine/EngineMaterials/NaniteHiddenSectionMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "3585F711F7F63D5F3EE9F597AD33870288BD037D",
+			"Assets": [
+				"/Game/Maya/Ship3"
+			]
+		},
+		{
+			"ShaderMapHash": "E38AC414EC164A0DF04121344215A3D47BF23B54",
+			"Assets": [
+				"/Game/Materials/glass"
+			]
+		},
+		{
+			"ShaderMapHash": "0C81F01432684FB4475A299071900D6008C9AF5C",
+			"Assets": [
+				"/Game/Characters/AlienSkins/Custom/Glow/M_GlowWhite"
+			]
+		},
+		{
+			"ShaderMapHash": "3E58941637683AE794D54054D1F858027603CCDE",
+			"Assets": [
+				"/Game/Materials/M_MenuGraphic"
+			]
+		},
+		{
+			"ShaderMapHash": "6521E7180894F5C0776F8B11FFB2AC5D90587F09",
+			"Assets": [
+				"/SpeedTreeImporter/SpeedTree9/SpeedTreeMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "E6142C19D89720074E21D798402B25AB1928B1A3",
+			"Assets": [
+				"/Game/Characters/AlienSkins/Custom/M_Maroon"
+			]
+		},
+		{
+			"ShaderMapHash": "2BA8C91999B12069C8A1E3B9ADC32C2644870312",
+			"Assets": [
+				"/Game/Materials/M_Brown1"
+			]
+		},
+		{
+			"ShaderMapHash": "EDBED81AF9C9A939F6CA96872A6F1BA28CF0B1D3",
+			"Assets": [
+				"/InterchangeAssets/gltf/M_Sheen"
+			]
+		},
+		{
+			"ShaderMapHash": "FE1E1A1B1B30CB43EE67FBB94E40CD057DF69036",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Default_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "A45F791B1FFF1848262A076CC494EB8D18A9D9E9",
+			"Assets": [
+				"/Game/Maya/Vest7"
+			]
+		},
+		{
+			"ShaderMapHash": "485D8E1B496C34F78173176499B879D030673B4A",
+			"Assets": [
+				"/Game/Materials/M_Gold"
+			]
+		},
+		{
+			"ShaderMapHash": "9499BA1B166902E251C1EDE0D02BA3288EE1E497",
+			"Assets": [
+				"/Engine/EditorLandscapeResources/MirrorPlaneMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "827BCE1BCF576C5AFEB4DB2C67346E6BE0686C5E",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/TangentColorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "6CFFB91DAF88D41FB54677A33537271636EF1C50",
+			"Assets": [
+				"/Game/Maya/Vest5"
+			]
+		},
+		{
+			"ShaderMapHash": "CCF61920FC722AD3F6A0E2BDD6984947018745D7",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Unlit_Mask"
+			]
+		},
+		{
+			"ShaderMapHash": "FF328E208383CF5EC33C277FCD06A70AD4F703B7",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Sheen_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "14F16522D62FD63ED0C593DCF5A604EBFF3AD573",
+			"Assets": [
+				"/Game/Maya/lambert2"
+			]
+		},
+		{
+			"ShaderMapHash": "95E9F723648BDA12BF3F53BE3D5EF3307732802A",
+			"Assets": [
+				"/Game/Characters/AlienSkins/Custom/Glow/M_GlowPurple"
+			]
+		},
+		{
+			"ShaderMapHash": "F6FA16251903EF75CAEB53F6B1B81A460B07C1E9",
+			"Assets": [
+				"/Game/Characters/AlienSkins/RenderCams/M_CameraViewMaterial",
+				"/Game/Characters/AlienSkins/RenderCams/M_DistortedCamera1",
+				"/Game/Characters/AlienSkins/RenderCams/M_ZoomedCameraMat_Mat",
+				"/Game/Characters/AlienSkins/RenderCams/RT_Rival1_Mat",
+				"/Game/Characters/AlienSkins/RenderCams/RT_Rival2_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "FF99F525F2E43B58B05917758DB08C702F60B89A",
+			"Assets": [
+				"/Game/Characters/Input/Maya/openPBR_shader1"
+			]
+		},
+		{
+			"ShaderMapHash": "E06B2726DAC85AEA51C841D23D6CF8D2B6B999F6",
+			"Assets": [
+				"/Game/Materials/alias"
+			]
+		},
+		{
+			"ShaderMapHash": "0AA0582662AE1FF2DBF5A6BB3D802064E5F57073",
+			"Assets": [
+				"/Game/Materials/M_BlueRival"
+			]
+		},
+		{
+			"ShaderMapHash": "CF77AC26A3B88B4081C1F18B0E343EA3D73A8978",
+			"Assets": [
+				"/Engine/EngineMaterials/GizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "28CDD126B32492793C7BC4ECA098843EE5DD8C7A",
+			"Assets": [
+				"/Game/Materials/M_Bounds1"
+			]
+		},
+		{
+			"ShaderMapHash": "8011EE26BB1E2C22D4CF6469748941EC6C02C22A",
+			"Assets": [
+				"/Engine/EngineMeshes/BackgroundMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "1E0A9427FEAEA7C1335CD0595BFF6B9DAFA7ECB0",
+			"Assets": [
+				"/HairStrands/Materials/HairCardsDefaultMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "A7F51928D054E7C2A0F7820B29046B45F1612A7C",
+			"Assets": [
+				"/Game/Maya/MechBodyMetal"
+			]
+		},
+		{
+			"ShaderMapHash": "FC277029DD4E424486658E8C1633D37059BA5C9D",
+			"Assets": [
+				"/Engine/EditorLandscapeResources/SelectBrushMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "5E61282E54C649CF76E3901B960A4425EF3C5DC7",
+			"Assets": [
+				"/Game/Characters/AlienSkins/Custom/Glow/M_GlowBlue"
+			]
+		},
+		{
+			"ShaderMapHash": "2685B33046F20DB7E530DEF2404B5787A6CE333D",
+			"Assets": [
+				"/Game/Materials/lambert1"
+			]
+		},
+		{
+			"ShaderMapHash": "6BA8D431EA2D3B83AA2AA2523A4057A45AB58999",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_ClearCoat_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "8FC62132184B12DFF9853C26CF65D1D9B39C2583",
+			"Assets": [
+				"/Game/Characters/AlienSkins/Custom/Glow/M_GlowPink"
+			]
+		},
+		{
+			"ShaderMapHash": "E5C83833D1CC12546D76D358DD489C0C0B5362B2",
+			"Assets": [
+				"/DatasmithContent/Materials/FBXImporter/VRED/BrushedMetal"
+			]
+		},
+		{
+			"ShaderMapHash": "EEF2FC33B03F6F4A1816F6EA9A30CD81CB73A350",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Masked"
+			]
+		},
+		{
+			"ShaderMapHash": "0DA9F63421D6BB564DEF804812F31301E1F16BAA",
+			"Assets": [
+				"/Game/Characters/AlienSkins/Defaults/M_ShipSecondary"
+			]
+		},
+		{
+			"ShaderMapHash": "0DCA5F36C0A4416157CBD255612A32AE50CE7D08",
+			"Assets": [
+				"/Engine/EditorMaterials/PhAT_NoCollisionMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "23A7F0367B000C2ABC586AB3DA7BE2626854F228",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_SpecularGlossiness_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "DDB7A23B4E9DE2765488354FB3E8E6A6350215A8",
+			"Assets": [
+				"/InterchangeAssets/gltf/M_Transmission"
+			]
+		},
+		{
+			"ShaderMapHash": "8A1E623E35E08CB972756F8AFFF1319675EC6D1F",
+			"Assets": [
+				"/Engine/OpenWorldTemplate/LandscapeMaterial/M_ProcGrid"
+			]
+		},
+		{
+			"ShaderMapHash": "F0F9D33E64EDA10AF653D8550BE6F72F3D9867D5",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Sheen_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "F0459A41A068B4911719A3BF964E0FCD4C556A01",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/M_VolumeRenderSphereTracePP"
+			]
+		},
+		{
+			"ShaderMapHash": "39E6B3414E5B0D957DE81B6B20F41497D26F6281",
+			"Assets": [
+				"/Game/Characters/Input/Maya/lambert2"
+			]
+		},
+		{
+			"ShaderMapHash": "F175D54198634D451689CB8A026FA00877638ED3",
+			"Assets": [
+				"/Game/Materials/M_GlassSpecial"
+			]
+		},
+		{
+			"ShaderMapHash": "EAA8774298644BE4109014BAD0F7BE1F9D654669",
+			"Assets": [
+				"/InterchangeAssets/gltf/M_SpecularGlossiness"
+			]
+		},
+		{
+			"ShaderMapHash": "125D8E4250D8DDFC2F1079429F0C41E669960FD8",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Sheen_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "ACBCEB438E6D62A401BE451EC9F99587B8787C32",
+			"Assets": [
+				"/Game/Maya/HelmetGlass"
+			]
+		},
+		{
+			"ShaderMapHash": "94CBD744929FFDD826389B8CF1A42F0E5F82D3F4",
+			"Assets": [
+				"/MediaFrameworkUtilities/M_BaseMediaBundle"
+			]
+		},
+		{
+			"ShaderMapHash": "30000A455ABFCDC00C20FF127B2136B3CF53A8E3",
+			"Assets": [
+				"/DeformerGraph/Deformers/DG_LinearBlendSkin_Morph_Cloth_RecomputeNormals"
+			]
+		},
+		{
+			"ShaderMapHash": "B6224D46EE438F43D9E46B9496D0C5CB292EA9B2",
+			"Assets": [
+				"/Game/Materials/M_Glow2"
+			]
+		},
+		{
+			"ShaderMapHash": "DDF34648ACE59CDE2037125B5CEB45A3ACBB8DE9",
+			"Assets": [
+				"/Game/Maya/WhiteEyes"
+			]
+		},
+		{
+			"ShaderMapHash": "2D302249194CB2563DC5ABB3D6677FD5080535E6",
+			"Assets": [
+				"/Game/Materials/BodyColors/M_alien"
+			]
+		},
+		{
+			"ShaderMapHash": "AF43474C504D0D681C284286453DACEAF1A3A602",
+			"Assets": [
+				"/Game/Materials/pasted__pasted__glass"
+			]
+		},
+		{
+			"ShaderMapHash": "5030594C46D743D8F843952923330D675888C38F",
+			"Assets": [
+				"/Game/Maya/Staff2"
+			]
+		},
+		{
+			"ShaderMapHash": "CF0A1E4EE7693F7C8EE7C4702E6A82F0151A9DA3",
+			"Assets": [
+				"/Engine/EditorLandscapeResources/SplineEditorMeshMat"
+			]
+		},
+		{
+			"ShaderMapHash": "7B0F6C4E3DFF75D54791FC9119E7C01BC2B3324D",
+			"Assets": [
+				"/ControlRig/Controls/ControlRigGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "4E5BD34F3883AB094B398F77A0368231A5D516C4",
+			"Assets": [
+				"/Engine/EditorMaterials/PhAT_UnselectedMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "E37FE850D71446FBE204F011B63B10F0D04CB6FB",
+			"Assets": [
+				"/Game/Maya/Bowtie2"
+			]
+		},
+		{
+			"ShaderMapHash": "EA873951AD2AC5BED293CC8425D49F4D3B16F87B",
+			"Assets": [
+				"/Composure/Materials/ReplaceTonemapper/ComposureReplaceTonemapperComposeBloom"
+			]
+		},
+		{
+			"ShaderMapHash": "676FE6536F79D16CE4601B1A9806CAD59D29CD58",
+			"Assets": [
+				"/Game/Materials/M_Bounds3"
+			]
+		},
+		{
+			"ShaderMapHash": "CF38C654122F7CE030B6A95300E3FCE64622870B",
+			"Assets": [
+				"/Game/Maya/Ship5"
+			]
+		},
+		{
+			"ShaderMapHash": "8E8BD854FE6BA0D0C708D471DADECA3BB1CC31BA",
+			"Assets": [
+				"/Niagara/DefaultAssets/DefaultRIbbonMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "4FBD7D5559265DFDF5D885185C6DF410C7088DFB",
+			"Assets": [
+				"/Game/Characters/AlienSkins/Custom/Glow/M_DeepBlack"
+			]
+		},
+		{
+			"ShaderMapHash": "7DC281573A7A5D54F7A4989880C832D2B729A9CA",
+			"Assets": [
+				"/Composure/Materials/ChromaKeying/M_SinglePassDespill"
+			]
+		},
+		{
+			"ShaderMapHash": "43E18157495C9E551D65F93A21D17687427846F3",
+			"Assets": [
+				"/Game/Materials/M_Speedup"
+			]
+		},
+		{
+			"ShaderMapHash": "9DADE258E7CD08597074CF7CA24842F4DADE8C95",
+			"Assets": [
+				"/DeformerGraph/Deformers/DG_LinearBlendSkin_Morph_Cloth_RecomputeNormals"
+			]
+		},
+		{
+			"ShaderMapHash": "93BE525AA56E5AF35E49B47B82661EA4245B155B",
+			"Assets": [
+				"/Game/Materials/M_Glow1"
+			]
+		},
+		{
+			"ShaderMapHash": "1074155BE5ED84B902D52750C16856EFA7DEA74E",
+			"Assets": [
+				"/Game/Maya/GlassRival"
+			]
+		},
+		{
+			"ShaderMapHash": "5A733A5BD5C7CA129F60195C2D034CB9AEB1617A",
+			"Assets": [
+				"/Game/Characters/AlienSkins/Custom/Glow/M_GlowBrown"
+			]
+		},
+		{
+			"ShaderMapHash": "5C5D4E5B89D568DA4943A28D791C119A5F1DE5EB",
+			"Assets": [
+				"/InterchangeAssets/CAD/Wire/Materials/M_WireBlinnShader"
+			]
+		},
+		{
+			"ShaderMapHash": "E912C35B846547EB2359E2C57AE2F2C3ECB4C430",
+			"Assets": [
+				"/Engine/TemplateResources/M_Template_Master"
+			]
+		},
+		{
+			"ShaderMapHash": "B7470E5D2409F13755C56EAA430EAFEE2C41C4F2",
+			"Assets": [
+				"/InterchangeAssets/Materials/LambertSurfaceMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "B99E6C5E0030E0F1E9F89D45ABFFC314DE8A828F",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Default_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "31B68C5EC70DE3538A03ED7E7B972ED79CA3C34C",
+			"Assets": [
+				"/Game/Maya/RivalSkin2"
+			]
+		},
+		{
+			"ShaderMapHash": "21269E5E7A95B59BABDAE61F719AAF00D943F3A9",
+			"Assets": [
+				"/Game/Import/openPBR_shader1",
+				"/Game/Materials/openPBR_shader1"
+			]
+		},
+		{
+			"ShaderMapHash": "80FE085F624A990EECE84E7B1BC68AA43D116C21",
+			"Assets": [
+				"/Game/Characters/AlienSkins/Custom/Glow/M_GlowGray"
+			]
+		},
+		{
+			"ShaderMapHash": "37A9C75F0E4486687B770849BBD2AA91D0B0C49F",
+			"Assets": [
+				"/Niagara/DefaultAssets/DefaultSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "36EB09628B94124EB4C26CD59AAB806CCD51E2A7",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/VertexColorViewMode_RedOnly"
+			]
+		},
+		{
+			"ShaderMapHash": "FC503F659EBD2B74A6E51C41BBC7BD8504EB5379",
+			"Assets": [
+				"/Game/Maya/Vest6"
+			]
+		},
+		{
+			"ShaderMapHash": "EE360B66778861677DD6C81850772BD482815A4A",
+			"Assets": [
+				"/Game/Maya/Ship1"
+			]
+		},
+		{
+			"ShaderMapHash": "FFD59F68DE9C533DD5D93265EF6E1B5C385C2BCF",
+			"Assets": [
+				"/Game/Maya/CrownBase"
+			]
+		},
+		{
+			"ShaderMapHash": "A841B6684B8B46B635C2D87F91FC8530C58F8AB7",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_SpecularGlossiness_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "5630CE68CB077D0CD77971B716F0458598DE5822",
+			"Assets": [
+				"/Game/Maya/HelmetMetal"
+			]
+		},
+		{
+			"ShaderMapHash": "DC5A0D690A8EF73EE8649290A4CD82C9F78BB556",
+			"Assets": [
+				"/Engine/EngineMaterials/FlattenMaterial_WS_Normal_VT"
+			]
+		},
+		{
+			"ShaderMapHash": "91D72B69B7A349AF57AD5ABBEC68FCC18E40CABE",
+			"Assets": [
+				"/Game/Characters/Input/Maya/Maya_Blinn1"
+			]
+		},
+		{
+			"ShaderMapHash": "21CC206B8AF702D8C4B6612F1EF5626562C403BC",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/M_SimpleUnlitTranslucent"
+			]
+		},
+		{
+			"ShaderMapHash": "88F8E06B2CBB1A9FFBC08CD929F473267EA01A7D",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultTextMaterialOpaque"
+			]
+		},
+		{
+			"ShaderMapHash": "22FB296CB27172CC9ED672ADABDBE7FD35D8F594",
+			"Assets": [
+				"/Game/Maya/Cow3"
+			]
+		},
+		{
+			"ShaderMapHash": "B88BC16C27618F0D621EBEC8D38047056091AEFA",
+			"Assets": [
+				"/Engine/EditorMaterials/Dataflow/DataflowVertexMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "E27C576D4BFBB16B3D197400CCE6EB8C7E9BC58C",
+			"Assets": [
+				"/Game/Maya/Ship7"
+			]
+		},
+		{
+			"ShaderMapHash": "39BE3D6F69E07C53EE83DA0F54A567312FA9EA44",
+			"Assets": [
+				"/Game/Materials/M_Glow"
+			]
+		},
+		{
+			"ShaderMapHash": "C131D9703EAD25EB5FCC276A6229B4FDF393DC8A",
+			"Assets": [
+				"/Game/Characters/AlienSkins/Custom/M_Yellow"
+			]
+		},
+		{
+			"ShaderMapHash": "7CCCF2706505C8C65011BA5DB7B01CB4E01946DD",
+			"Assets": [
+				"/Composure/Materials/Media/M_StaticVideoPlateDebug",
+				"/Composure/Materials/Media/M_VideoPlateDefault"
+			]
+		},
+		{
+			"ShaderMapHash": "DE6078724F8E19EC865C7D5251542D8942CBC82C",
+			"Assets": [
+				"/Engine/EditorMaterials/Dataflow/DataflowTwoSidedVertexMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "4DF112732DF43210BDA2BA0AEC2162E540759C22",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/Xray"
+			]
+		},
+		{
+			"ShaderMapHash": "6140167359EA9FCE5BBB707A82F360386839BE69",
+			"Assets": [
+				"/Game/Characters/AlienSkins/Custom/M_Blue"
+			]
+		},
+		{
+			"ShaderMapHash": "56CB2273CB1F0F2BBEA54CC218938A7D58B33477",
+			"Assets": [
+				"/Engine/EngineMaterials/FlattenMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "57EC937469F140D0309FED72C4969C1628C6B5A9",
+			"Assets": [
+				"/Composure/Materials/Compositing/M_AlphaScale"
+			]
+		},
+		{
+			"ShaderMapHash": "3F6B5B7568F2CEC43DDBC0DAAD8DC3031FE0DE71",
+			"Assets": [
+				"/Paper2D/DefaultSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "0692E5760D582321D5ACE400F52B80742B109373",
+			"Assets": [
+				"/Game/Maya/Cow1"
+			]
+		},
+		{
+			"ShaderMapHash": "BD0E3F778DE350D68596E20ED820D4F804C24290",
+			"Assets": [
+				"/ControlRig/Controls/ControlRigXRayMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "B2A3B87792BFED3B8F3BC5D4262A008D7227EA96",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent"
+			]
+		},
+		{
+			"ShaderMapHash": "283F997BE144224D5D25855304C84E7B72C8CB27",
+			"Assets": [
+				"/Engine/EngineMaterials/RemoveSurfaceMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "62E8007C40092469906A6825E9102AED11F7237E",
+			"Assets": [
+				"/Game/Characters/AlienSkins/Custom/M_Purple"
+			]
+		},
+		{
+			"ShaderMapHash": "48F6977D7AF57C94D7CB1A24BD6C54B747DBB98D",
+			"Assets": [
+				"/Composure/Materials/PassSetup/ComposureBeforeTranslucencySetBlack"
+			]
+		},
+		{
+			"ShaderMapHash": "C408F67DB0AF4C22B0824F61316ECACBA088DA20",
+			"Assets": [
+				"/Game/Characters/AlienSkins/Custom/Glow/M_GlowDarkGreen"
+			]
+		},
+		{
+			"ShaderMapHash": "41F7857F3A697964FFB6F09099C060CE427A2BBE",
+			"Assets": [
+				"/Game/Maya/F_Wizard",
+				"/Game/Maya/I_Wizard"
+			]
+		},
+		{
+			"ShaderMapHash": "2C9FD7811C42211C1F9C5A1D277E5007E3ECBF09",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/ShadedLevelColorationLitMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "4E2CD78537C56E2706A8C48C7207B063F9177995",
+			"Assets": [
+				"/Game/Characters/Input/Maya/M_Hands"
+			]
+		},
+		{
+			"ShaderMapHash": "3D1F4E86559E756A29AAA4D18CDDA94D0FC38CE7",
+			"Assets": [
+				"/Game/Maya/MetallicBody"
+			]
+		},
+		{
+			"ShaderMapHash": "5CA4CD866286FF0B1D17C20CF0045A5F05791170",
+			"Assets": [
+				"/Engine/EngineMaterials/BlinkingCaret"
+			]
+		},
+		{
+			"ShaderMapHash": "C1D38E88203794E3EF4F959A4D529B711FEEB415",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "5F75A6884D4BCDBF30271DF84631AA55A47DDE5D",
+			"Assets": [
+				"/Engine/EngineMaterials/FlattenMaterial_VT"
+			]
+		},
+		{
+			"ShaderMapHash": "B1396D89FA4DD7D8C8A1F650A42621B2B16C9186",
+			"Assets": [
+				"/DeformerGraph/Deformers/DG_LinearBlendSkin_Morph_Cloth"
+			]
+		},
+		{
+			"ShaderMapHash": "ABA6C689EC09FEFDFF18E9823BAF82466A2F66F9",
+			"Assets": [
+				"/Paper2D/OpaqueUnlitSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "BC4C318B8FBCAF7E23FEDFC9DDFAE202ACBD9A94",
+			"Assets": [
+				"/Game/Characters/AlienSkins/Defaults/M_PrimaryBody"
+			]
+		},
+		{
+			"ShaderMapHash": "9DB68E8C40C4016EB465EF5DB6FC9D9BF7775E4A",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Sheen_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "06DE8F8FEA841B2F965A9B84EAAB3A7EE5949BA3",
+			"Assets": [
+				"/Game/Characters/AlienSkins/Custom/Glow/M_GlowTan"
+			]
+		},
+		{
+			"ShaderMapHash": "854AEC8F61117F27DFD32AD9D3EF999A9ECE2DA0",
+			"Assets": [
+				"/Game/Characters/AlienSkins/Custom/M_Cyan"
+			]
+		},
+		{
+			"ShaderMapHash": "C46D9990A42AEB35811CB8D91C4941304B3D0EC1",
+			"Assets": [
+				"/Engine/EditorLandscapeResources/MaskBrushMaterial",
+				"/Engine/EditorLandscapeResources/MaskBrushMaterial_MaskedRegion"
+			]
+		},
+		{
+			"ShaderMapHash": "D94CDA9121056DE5354C8E9FF57D52F7F703A141",
+			"Assets": [
+				"/Engine/VREditor/SnapGrid/SnapGridMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "0E080D921D3677C130C3DB76B4EF5EAD64047150",
+			"Assets": [
+				"/Game/Characters/AlienSkins/Custom/Glow/M_GlowSlate"
+			]
+		},
+		{
+			"ShaderMapHash": "B66D9A92441E38BAC2DB062F07D2AE30D37BB303",
+			"Assets": [
+				"/Game/Characters/AlienSkins/Custom/M_Tan"
+			]
+		},
+		{
+			"ShaderMapHash": "6173D193219E4DA7179DB5BAC765EBEBBA1D59FF",
+			"Assets": [
+				"/HairStrands/Materials/HairDebugMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "1A48E693AFE0BF880061C2FA0D89355945B52104",
+			"Assets": [
+				"/Game/Maya/CrownSecondary"
+			]
+		},
+		{
+			"ShaderMapHash": "A32FC794C112C477B76B178630864951D872DA54",
+			"Assets": [
+				"/MediaFrameworkUtilities/M_DefaultMedia"
+			]
+		},
+		{
+			"ShaderMapHash": "2783FB96931461140E3032AFA10221801CFB84E7",
+			"Assets": [
+				"/Game/Maya/RivalHandles"
+			]
+		},
+		{
+			"ShaderMapHash": "FF458097EDCBD223AC369AB939B522C54197CCC6",
+			"Assets": [
+				"/Game/Characters/Input/Maya/blinn4",
+				"/Game/Characters/Input/Maya/pasted__blinn4"
+			]
+		},
+		{
+			"ShaderMapHash": "6705BC974429856B921FA6B9D4CE6EC4D298499B",
+			"Assets": [
+				"/Game/Characters/AlienSkins/Defaults/M_ShipPrimary"
+			]
+		},
+		{
+			"ShaderMapHash": "9DDBD6972337B0368C46E79BD23EAC8214CA4099",
+			"Assets": [
+				"/DatasmithContent/Materials/AliasReference"
+			]
+		},
+		{
+			"ShaderMapHash": "BFBC1198D1F5D12873668C07C5A2294AD4C05ABB",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Masked_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "E13FE998DB2EE1D5809054405048ACEE4315A089",
+			"Assets": [
+				"/Game/Materials/m_black"
+			]
+		},
+		{
+			"ShaderMapHash": "0FAED599EF5C0FF91FC54C6D3BD394D316D4E33A",
+			"Assets": [
+				"/Game/Characters/AlienSkins/Custom/Glow/M_GlowOrange"
+			]
+		},
+		{
+			"ShaderMapHash": "E279EA9AE1824B6AA62872B8419362106EC6CC1C",
+			"Assets": [
+				"/Game/Maya/CrownGem2"
+			]
+		},
+		{
+			"ShaderMapHash": "4FC00A9B205CE57E2888DB8FC6876718871E7BF0",
+			"Assets": [
+				"/Engine/EditorLandscapeResources/LandscapeDirtyMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "F59BD19B4814F683A930DFA2E12EDF660CE267C4",
+			"Assets": [
+				"/Game/Characters/AlienSkins/Custom/Glow/M_GlowCyan"
+			]
+		},
+		{
+			"ShaderMapHash": "E77BF29BA5D4F4EB9D8356B179E1B94974DFA011",
+			"Assets": [
+				"/Game/Materials/M_Indicator"
+			]
+		},
+		{
+			"ShaderMapHash": "25AD799C353CC6EE8D76E556ED2861D5636F84A0",
+			"Assets": [
+				"/Game/Maya/Ship6"
+			]
+		},
+		{
+			"ShaderMapHash": "C80A739E380A4822ADADF27617C5E5AB6ED58AD8",
+			"Assets": [
+				"/Game/Characters/AlienSkins/Custom/Glow/M_GlowRose"
+			]
+		},
+		{
+			"ShaderMapHash": "DDFD2F9FE796F32D07822554ED72162A0BA2D3F8",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/BlackUnlitMaterial1"
+			]
+		},
+		{
+			"ShaderMapHash": "F6A0359FE570C89C19FF5EFC87C07BD1232C9F39",
+			"Assets": [
+				"/Game/Materials/M_DomeOn1"
+			]
+		},
+		{
+			"ShaderMapHash": "05A8629F1C2B9C3ADE0C84A61AA527B1C8A88855",
+			"Assets": [
+				"/Game/Maya/RivalSkin"
+			]
+		},
+		{
+			"ShaderMapHash": "44DD26A01CDCA5711B29E57A042990210E88DD36",
+			"Assets": [
+				"/Game/Characters/AlienSkins/Custom/M_Indigo"
+			]
+		},
+		{
+			"ShaderMapHash": "18099DA0A796241145702C54F003A61EFA8A200D",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "FC751DA2827CDCE8E78D5221376641A1A9127D58",
+			"Assets": [
+				"/Game/Maya/rampShader3"
+			]
+		},
+		{
+			"ShaderMapHash": "1E56F9A3A453AC0A89F57780FDF1F5F17A1A1E86",
+			"Assets": [
+				"/GLTFExporter/Materials/Proxy/M_GLTF_Unlit"
+			]
+		},
+		{
+			"ShaderMapHash": "E34CEEA440E391A1AC6419654E5ED769A307DC81",
+			"Assets": [
+				"/Game/Maya/RivalMouth"
+			]
+		},
+		{
+			"ShaderMapHash": "EFFAF9A4AAA53865130DB9539DF3133A728AE79A",
+			"Assets": [
+				"/Game/Characters/AlienSkins/Custom/Glow/M_GlowIndigo"
+			]
+		},
+		{
+			"ShaderMapHash": "172D75A54879D9AA868011373999B39F7F71BD95",
+			"Assets": [
+				"/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale"
+			]
+		},
+		{
+			"ShaderMapHash": "D5EBD3A7A14E94A9D5C1B00C77EF21B890792DD9",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultPostProcessMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "AE3086A8B77FDC087BD32F09C9F67C05C4CB33D4",
+			"Assets": [
+				"/Game/Maya/Outfit"
+			]
+		},
+		{
+			"ShaderMapHash": "F8A6C6AAF043DCEE8191AA0837A9B6A09E54269F",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/TransformGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "8F014DABCA2699F713C4BFF28F7468F9B97D9F19",
+			"Assets": [
+				"/Engine/EngineMaterials/PPM_DefaultCalibrationColor"
+			]
+		},
+		{
+			"ShaderMapHash": "A518FEAB40FD61B25607294851FBCBBFFCF898B5",
+			"Assets": [
+				"/InterchangeAssets/gltf/M_Unlit"
+			]
+		},
+		{
+			"ShaderMapHash": "3FBFBEAF8F158D0C46C493DC5F8F9559FB1D35AF",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Unlit_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "9033A1B158B68DD62E419A4114B9C3F59AD5CDC0",
+			"Assets": [
+				"/Composure/Materials/ChromaKeying/M_SinglePassChromaKeyer"
+			]
+		},
+		{
+			"ShaderMapHash": "B6DBAAB135DD5761F68BF04ECA8211B42296E60B",
+			"Assets": [
+				"/Composure/Materials/ReplaceTonemapper/ComposureReplaceTonemapperByTexture"
+			]
+		},
+		{
+			"ShaderMapHash": "565B6DB3B18F74BC479D60C8A79D832C4D6EFB9F",
+			"Assets": [
+				"/Game/Characters/AlienSkins/Custom/M_Orange"
+			]
+		},
+		{
+			"ShaderMapHash": "8024B0B3A543998111F3BCE07954F940E13DF041",
+			"Assets": [
+				"/Game/Characters/AlienSkins/Custom/Glow/M_GlowMaroon"
+			]
+		},
+		{
+			"ShaderMapHash": "FF8373B4290F19E7E927643C61BF4AD501C63828",
+			"Assets": [
+				"/Engine/MapTemplates/Sky/M_BlackBackground"
+			]
+		},
+		{
+			"ShaderMapHash": "CE97CBB7076B35EF21FD2756F30B86ACD50A06F6",
+			"Assets": [
+				"/InterchangeAssets/gltf/M_ClearCoat"
+			]
+		},
+		{
+			"ShaderMapHash": "3C53EAB734B5A89913BBB24F64AE630E1B9213A6",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Default_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "895A27B8EE4484494C042310BE28C8A8D4A77FFA",
+			"Assets": [
+				"/Game/Materials/M_DomeOn"
+			]
+		},
+		{
+			"ShaderMapHash": "9C332AB86A4AA7732ADD5A246335C8F0F8FA8895",
+			"Assets": [
+				"/Game/Maya/Moustache"
+			]
+		},
+		{
+			"ShaderMapHash": "1D3681B83AC466C387A7486375407EDC797EBFC1",
+			"Assets": [
+				"/Game/Maya/Screen"
+			]
+		},
+		{
+			"ShaderMapHash": "677B85B8D3BF2BD51E8BD6055AABA3AE85F4A998",
+			"Assets": [
+				"/AnimationSharing/AnimSharingBase"
+			]
+		},
+		{
+			"ShaderMapHash": "0DBD26B9E39EEEF3E04A8CD86403829A39DA064E",
+			"Assets": [
+				"/Game/Maya/Teeth2"
+			]
+		},
+		{
+			"ShaderMapHash": "588D5CB9688A1E52F3B09FE1A4B4A09CF9389553",
+			"Assets": [
+				"/Game/Maya/lambert1"
+			]
+		},
+		{
+			"ShaderMapHash": "C79F2EBA25514B6BA6D0806998FC00194C9A043A",
+			"Assets": [
+				"/Game/Characters/AlienSkins/Custom/M_Brown"
+			]
+		},
+		{
+			"ShaderMapHash": "C6338EBA07B65633E34B4124D325DD4619EB17D3",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/Main"
+			]
+		},
+		{
+			"ShaderMapHash": "42AC00BCABA4A56D5EF77C3AE45AF7BF81A17D2D",
+			"Assets": [
+				"/Game/Materials/M_Metal"
+			]
+		},
+		{
+			"ShaderMapHash": "203687BCA0B890C7779D98BA5CE93F31FF74ABCC",
+			"Assets": [
+				"/Engine/BasicShapes/BasicShapeMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "99FA15BDFE240701AC1BB577CEDF06C68FE29C2C",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/DebugMeshMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "FDF893BE611313850023F1403D903FFAB8009CBD",
+			"Assets": [
+				"/CameraCalibrationCore/Materials/M_DefaultOddSquare"
+			]
+		},
+		{
+			"ShaderMapHash": "32C56EC04DB3BCEB3325057ABA1E69974C20DDC0",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_ClearCoat_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "E3EA29C1405BC833AB4AE170A2049916A12B3C66",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Unlit_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "FDCFF0C398B3C5530194D457A47725C916317550",
+			"Assets": [
+				"/Engine/EditorMaterials/Dataflow/DataflowTwoSidedVertexMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "16056EC51B9971BA659704233276AF119E1939E5",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough",
+				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "5F76BDC69D90383D4939F096F2B56505F0D28E01",
+			"Assets": [
+				"/Engine/EditorMaterials/PreviewShadowIndicatorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "FD64CAC675A2BE083055757671D655AA7FB5ADD6",
+			"Assets": [
+				"/Game/Materials/M_Bounds2"
+			]
+		},
+		{
+			"ShaderMapHash": "9D34D8C623F079B1E40CA0BF761685849A336707",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_ClearCoat_Mask"
+			]
+		},
+		{
+			"ShaderMapHash": "2032DDC89D725A7AEB2EAC8C8B696DCA0DB72611",
+			"Assets": [
+				"/Game/Maya/ShipRival2"
+			]
+		},
+		{
+			"ShaderMapHash": "936696C914478AF539F1B9EDE915D1964DCE5876",
+			"Assets": [
+				"/Game/Materials/lambert2"
+			]
+		},
+		{
+			"ShaderMapHash": "87F6F7C973DECDC14FDE24A3413E0B8B02FE9E81",
+			"Assets": [
+				"/Game/Characters/AlienSkins/Defaults/M_SecondaryBody"
+			]
+		},
+		{
+			"ShaderMapHash": "01B13ECA1487E1C62F643352540F8F5A63E9C921",
+			"Assets": [
+				"/Game/Materials/M_Bounds4"
+			]
+		},
+		{
+			"ShaderMapHash": "EA04EFCAF095C8D07B7438E6E8AC2FFEC7B80A0D",
+			"Assets": [
+				"/Game/Maya/vest1"
+			]
+		},
+		{
+			"ShaderMapHash": "7C3419CD7E50A2F7E89623AE870745DCA78344B3",
+			"Assets": [
+				"/Game/Characters/AlienSkins/Defaults/M_ShipTertiary"
+			]
+		},
+		{
+			"ShaderMapHash": "CC0D74CD35F1DDCC7BDC44152BBC78532E4F1949",
+			"Assets": [
+				"/Game/Materials/M_Glow3"
+			]
+		},
+		{
+			"ShaderMapHash": "9080ABCD172D0D256974D77F840BACCC184DC81E",
+			"Assets": [
+				"/Game/Characters/AlienSkins/Defaults/M_Scelera"
+			]
+		},
+		{
+			"ShaderMapHash": "8C3434CEFDA3189286BB6BF6BA3D3CEECC50728D",
+			"Assets": [
+				"/Game/Materials/M_Cloak"
+			]
+		},
+		{
+			"ShaderMapHash": "C55271D15BBBFB227D46116B4F7D629603701B7F",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_ClearCoat_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "39B869D2722644FC90AB59459213E499A4E70B28",
+			"Assets": [
+				"/Game/Materials/M_star"
+			]
+		},
+		{
+			"ShaderMapHash": "9228C7D218FD411B94419A6DC7A04E16420A11FD",
+			"Assets": [
+				"/Game/Maya/RivalEyes"
+			]
+		},
+		{
+			"ShaderMapHash": "78036AD3801534770D072F722AC242924433EA80",
+			"Assets": [
+				"/Engine/EngineMaterials/WorldGridMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "551AFDD49C0051B65E663E2C685644B37126FC7A",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_SpecularGlossiness_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "84FA27D5EFF77ABF2F9A698898D13B23F2A10C4C",
+			"Assets": [
+				"/Game/Maya/Ship4"
+			]
+		},
+		{
+			"ShaderMapHash": "9DDD1DD663970E1BCB839B7DFF1C9E5B5489DB96",
+			"Assets": [
+				"/Game/Maya/Teeth"
+			]
+		},
+		{
+			"ShaderMapHash": "E64E2BD66270AD3191290EFB22B35512BF57E96F",
+			"Assets": [
+				"/Game/Characters/AlienSkins/Custom/M_DarkGreen"
+			]
+		},
+		{
+			"ShaderMapHash": "3769B9D6ED941510AA6361321A80823815BBE95C",
+			"Assets": [
+				"/Engine/EngineMaterials/EmissiveMeshMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "F8D336DA1345255AD6D20D6898686750B42A5C9D",
+			"Assets": [
+				"/Game/Maya/TopHatBase"
+			]
+		},
+		{
+			"ShaderMapHash": "C9EE45DA1FF58ACE12C8ECECDE679BC6AE93EE4D",
+			"Assets": [
+				"/Engine/EditorLandscapeResources/SelectBrushMaterial_SelectedRegion"
+			]
+		},
+		{
+			"ShaderMapHash": "FE9B8EDADE0383B95A7AC97E49C9594BEEEF0636",
+			"Assets": [
+				"/CameraCalibrationCore/Materials/M_DefaultEvenSquare"
+			]
+		},
+		{
+			"ShaderMapHash": "9ED0AEDBAD5B16EFF42932BA10991758D99C3D6C",
+			"Assets": [
+				"/Game/Materials/whitecube"
+			]
+		},
+		{
+			"ShaderMapHash": "131C88DCA525CAB0B4E6D81155FC98A45B121D31",
+			"Assets": [
+				"/Game/Materials/BodyColors/M_Maroon"
+			]
+		},
+		{
+			"ShaderMapHash": "8A218BDCE52A73593FAE1A96DA1F23828AEF57C8",
+			"Assets": [
+				"/Game/Characters/AlienSkins/Defaults/M_Head"
+			]
+		},
+		{
+			"ShaderMapHash": "F34106DE7789B5558A2388DF65314FDF22815A4F",
+			"Assets": [
+				"/Game/Characters/AlienSkins/Custom/M_Red"
+			]
+		},
+		{
+			"ShaderMapHash": "F82A53DEE31FD96D66BD97DFC9B3277170156386",
+			"Assets": [
+				"/Engine/EditorLandscapeResources/ColorMaskBrushMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "DB26DCDE34BA3E6F52399D98974ACEA83114A268",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Unlit_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "552EFCDE66AA2FA918B92E33A039C0831E604294",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_SpecularGlossiness_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "274C3CE1EC7FE7909362A61B32D46678B0636692",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Sheen_Mask"
+			]
+		},
+		{
+			"ShaderMapHash": "8931ACE1D8F6242B93EDF958104B9777DD2E4D55",
+			"Assets": [
+				"/Game/Characters/AlienSkins/Custom/Glow/M_GlowLime"
+			]
+		},
+		{
+			"ShaderMapHash": "548A62E205876494476C7EC398495071D54DC8A9",
+			"Assets": [
+				"/Game/Maya/vest3"
+			]
+		},
+		{
+			"ShaderMapHash": "F69DCCE2933EB9DF586E6AA162A50EA51698FBE1",
+			"Assets": [
+				"/Game/Materials/M_DomeOn2"
+			]
+		},
+		{
+			"ShaderMapHash": "085E81E44C25D3AED1243E354C2C3502C523C835",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Default_Mask"
+			]
+		},
+		{
+			"ShaderMapHash": "F49E6BE69A8826D6142708AB877AECA2E6CDA78C",
+			"Assets": [
+				"/Game/Materials/M_Bounds5"
+			]
+		},
+		{
+			"ShaderMapHash": "E31E86E6D9F5514A244CEF07FC7289852C348317",
+			"Assets": [
+				"/Game/Characters/AlienSkins/Custom/Glow/M_GlowMint"
+			]
+		},
+		{
+			"ShaderMapHash": "E2349CE681FE64F5C726893C4828D50801EEAE58",
+			"Assets": [
+				"/Engine/VREditor/BasicMeshes/M_Floor_01"
+			]
+		},
+		{
+			"ShaderMapHash": "CD1DD3E721D743E8406EAC10A3AC8215C8F49FC8",
+			"Assets": [
+				"/Game/Characters/AlienSkins/Custom/M_Slate"
+			]
+		},
+		{
+			"ShaderMapHash": "17D2FDE7683A22613025097DD369EFB808C4B43A",
+			"Assets": [
+				"/Game/Maya/TopHatBand"
+			]
+		},
+		{
+			"ShaderMapHash": "D11D35E84B313272FC6103710C79019EECAE8A1E",
+			"Assets": [
+				"/Game/Maya/RivalLash"
+			]
+		},
+		{
+			"ShaderMapHash": "8BA9B0EAD59DD23524B3EF22FEFF115BBAC37A2E",
+			"Assets": [
+				"/Engine/EditorLandscapeResources/LandscapeLayerUsageMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "DF4136EBF020DA114DA0143B2076E01133DCE9C9",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultLightFunctionMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "A0752BEC8C63C5DA1AB2923B8FE7D6624794EAB4",
+			"Assets": [
+				"/Game/Materials/CustomizeBackground"
+			]
+		},
+		{
+			"ShaderMapHash": "A7E385EC72B1512D952814EAA52AAB7D01350EA7",
+			"Assets": [
+				"/HairStrands/Materials/HairDefaultMaterial",
+				"/HairStrands/Materials/HairMeshesDefaultMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "20D77EED88DEE080E2FFC3DD000ED8637DFF2B2B",
+			"Assets": [
+				"/Game/Characters/AlienSkins/Custom/Glow/M_GlowRed"
+			]
+		},
+		{
+			"ShaderMapHash": "E59AF7EDDD2067020D5FA478DADAC0C36F15982A",
+			"Assets": [
+				"/Game/Materials/Invis",
+				"/Game/Materials/M_DomeOff"
+			]
+		},
+		{
+			"ShaderMapHash": "C02C52EF3D0BC8CE01AEE29F8364D3FF3F752B73",
+			"Assets": [
+				"/Game/Characters/AlienSkins/Custom/M_White"
+			]
+		},
+		{
+			"ShaderMapHash": "B10CFBEFFE94E287A407829BBB6674C3716BB60F",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultDeferredDecalMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "A94723F152D5D761580C29C7C6A9A034A74C747B",
+			"Assets": [
+				"/Game/Materials/M_Bounds8"
+			]
+		},
+		{
+			"ShaderMapHash": "F47E25F16713CBA52606B3A1BE8AB6BD32FF73A4",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque"
+			]
+		},
+		{
+			"ShaderMapHash": "C426E8F21C2A8F65021E35854BAE65489200E8C6",
+			"Assets": [
+				"/Game/Materials/M_Metal2"
+			]
+		},
+		{
+			"ShaderMapHash": "66F545F309C211925B6500B7FAC3835652AF7C42",
+			"Assets": [
+				"/Game/Maya/ClothesTrim"
+			]
+		},
+		{
+			"ShaderMapHash": "226B89F38E055EEB860D64A057DD68396FD93D61",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "84BF98F4580D069F42258DF8A19DFDA9074FE25C",
+			"Assets": [
+				"/Game/Maya/HelmetTrim"
+			]
+		},
+		{
+			"ShaderMapHash": "AAD05CF5004096C01902B1171EB90ACD3A697D29",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Default_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "AD1083F50C53185C58254B7876755A3A41B52743",
+			"Assets": [
+				"/Game/Characters/AlienSkins/Custom/M_Lime"
+			]
+		},
+		{
+			"ShaderMapHash": "DF6E84F596474C06A02B1949C0F25ABBB4C818FF",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_ClearCoat_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "414F1BF66EB63BC472A53139E6D957D3C20467DE",
+			"Assets": [
+				"/Engine/EngineMaterials/M_InvalidLightmapSettings"
+			]
+		},
+		{
+			"ShaderMapHash": "09060CF797DF3F53CF7DABDFD2E7B24683AC3143",
+			"Assets": [
+				"/Game/Maya/Cow2"
+			]
+		},
+		{
+			"ShaderMapHash": "9EA3A1F84A297F3C589E0614621C1B2FA69C0343",
+			"Assets": [
+				"/Game/Characters/AlienSkins/Custom/M_Pink"
+			]
+		},
+		{
+			"ShaderMapHash": "6D880EFAD5FE0ADFB2AB4E242F8D7298AD9BB464",
+			"Assets": [
+				"/Game/Characters/AlienSkins/Custom/M_Teal"
+			]
+		},
+		{
+			"ShaderMapHash": "0F917EFC44ECA85609E21DE207F434476666759F",
+			"Assets": [
+				"/Game/Characters/AlienSkins/Custom/M_Mint"
+			]
+		},
+		{
+			"ShaderMapHash": "C536CFFD897E82A21F95DE80FFCF99F96BF4A341",
+			"Assets": [
+				"/Engine/EngineMaterials/PhAT_JointLimitMaterial"
+			]
+		}
+	]
+}

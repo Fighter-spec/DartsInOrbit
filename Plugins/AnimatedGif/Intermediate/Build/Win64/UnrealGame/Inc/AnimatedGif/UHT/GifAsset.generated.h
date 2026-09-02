@@ -17,18 +17,18 @@
 PRAGMA_DISABLE_DEPRECATION_WARNINGS
 
 // ********** Begin Class UGifAsset ****************************************************************
-#define FID_Users_yabaz_Documents_Unreal_Projects_1__Plugins_MyPlugins_AnimatedGif_HostProject_Plugins_AnimatedGif_Source_AnimatedGif_Public_GifAsset_h_24_RPC_WRAPPERS_NO_PURE_DECLS \
+#define FID_Users_Realf_OneDrive_Documents_DartsFolder_DartsInOrbit_Plugins_AnimatedGif_Source_AnimatedGif_Public_GifAsset_h_24_RPC_WRAPPERS_NO_PURE_DECLS \
 	DECLARE_FUNCTION(execGetDimensions); \
 	DECLARE_FUNCTION(execGetDurationSeconds);
 
 
-#define FID_Users_yabaz_Documents_Unreal_Projects_1__Plugins_MyPlugins_AnimatedGif_HostProject_Plugins_AnimatedGif_Source_AnimatedGif_Public_GifAsset_h_24_ARCHIVESERIALIZER \
+#define FID_Users_Realf_OneDrive_Documents_DartsFolder_DartsInOrbit_Plugins_AnimatedGif_Source_AnimatedGif_Public_GifAsset_h_24_ARCHIVESERIALIZER \
 	DECLARE_FSTRUCTUREDARCHIVE_SERIALIZER(UGifAsset, NO_API)
 
 
 ANIMATEDGIF_API UClass* Z_Construct_UClass_UGifAsset_NoRegister();
 
-#define FID_Users_yabaz_Documents_Unreal_Projects_1__Plugins_MyPlugins_AnimatedGif_HostProject_Plugins_AnimatedGif_Source_AnimatedGif_Public_GifAsset_h_24_INCLASS_NO_PURE_DECLS \
+#define FID_Users_Realf_OneDrive_Documents_DartsFolder_DartsInOrbit_Plugins_AnimatedGif_Source_AnimatedGif_Public_GifAsset_h_24_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUGifAsset(); \
 	friend struct Z_Construct_UClass_UGifAsset_Statics; \
@@ -37,10 +37,10 @@ private: \
 public: \
 	DECLARE_CLASS2(UGifAsset, UObject, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/AnimatedGif"), Z_Construct_UClass_UGifAsset_NoRegister) \
 	DECLARE_SERIALIZER(UGifAsset) \
-	FID_Users_yabaz_Documents_Unreal_Projects_1__Plugins_MyPlugins_AnimatedGif_HostProject_Plugins_AnimatedGif_Source_AnimatedGif_Public_GifAsset_h_24_ARCHIVESERIALIZER
+	FID_Users_Realf_OneDrive_Documents_DartsFolder_DartsInOrbit_Plugins_AnimatedGif_Source_AnimatedGif_Public_GifAsset_h_24_ARCHIVESERIALIZER
 
 
-#define FID_Users_yabaz_Documents_Unreal_Projects_1__Plugins_MyPlugins_AnimatedGif_HostProject_Plugins_AnimatedGif_Source_AnimatedGif_Public_GifAsset_h_24_ENHANCED_CONSTRUCTORS \
+#define FID_Users_Realf_OneDrive_Documents_DartsFolder_DartsInOrbit_Plugins_AnimatedGif_Source_AnimatedGif_Public_GifAsset_h_24_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGifAsset(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	/** Deleted move- and copy-constructors, should never be used */ \
@@ -52,13 +52,13 @@ public: \
 	NO_API virtual ~UGifAsset();
 
 
-#define FID_Users_yabaz_Documents_Unreal_Projects_1__Plugins_MyPlugins_AnimatedGif_HostProject_Plugins_AnimatedGif_Source_AnimatedGif_Public_GifAsset_h_21_PROLOG
-#define FID_Users_yabaz_Documents_Unreal_Projects_1__Plugins_MyPlugins_AnimatedGif_HostProject_Plugins_AnimatedGif_Source_AnimatedGif_Public_GifAsset_h_24_GENERATED_BODY \
+#define FID_Users_Realf_OneDrive_Documents_DartsFolder_DartsInOrbit_Plugins_AnimatedGif_Source_AnimatedGif_Public_GifAsset_h_21_PROLOG
+#define FID_Users_Realf_OneDrive_Documents_DartsFolder_DartsInOrbit_Plugins_AnimatedGif_Source_AnimatedGif_Public_GifAsset_h_24_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_Users_yabaz_Documents_Unreal_Projects_1__Plugins_MyPlugins_AnimatedGif_HostProject_Plugins_AnimatedGif_Source_AnimatedGif_Public_GifAsset_h_24_RPC_WRAPPERS_NO_PURE_DECLS \
-	FID_Users_yabaz_Documents_Unreal_Projects_1__Plugins_MyPlugins_AnimatedGif_HostProject_Plugins_AnimatedGif_Source_AnimatedGif_Public_GifAsset_h_24_INCLASS_NO_PURE_DECLS \
-	FID_Users_yabaz_Documents_Unreal_Projects_1__Plugins_MyPlugins_AnimatedGif_HostProject_Plugins_AnimatedGif_Source_AnimatedGif_Public_GifAsset_h_24_ENHANCED_CONSTRUCTORS \
+	FID_Users_Realf_OneDrive_Documents_DartsFolder_DartsInOrbit_Plugins_AnimatedGif_Source_AnimatedGif_Public_GifAsset_h_24_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_Users_Realf_OneDrive_Documents_DartsFolder_DartsInOrbit_Plugins_AnimatedGif_Source_AnimatedGif_Public_GifAsset_h_24_INCLASS_NO_PURE_DECLS \
+	FID_Users_Realf_OneDrive_Documents_DartsFolder_DartsInOrbit_Plugins_AnimatedGif_Source_AnimatedGif_Public_GifAsset_h_24_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -68,6 +68,6 @@ class UGifAsset;
 // ********** End Class UGifAsset ******************************************************************
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_Users_yabaz_Documents_Unreal_Projects_1__Plugins_MyPlugins_AnimatedGif_HostProject_Plugins_AnimatedGif_Source_AnimatedGif_Public_GifAsset_h
+#define CURRENT_FILE_ID FID_Users_Realf_OneDrive_Documents_DartsFolder_DartsInOrbit_Plugins_AnimatedGif_Source_AnimatedGif_Public_GifAsset_h
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

@@ -21,14 +21,14 @@ class UTexture;
 class UTextureRenderTarget2D;
 
 // ********** Begin Delegate FOnGifPlaybackEvent ***************************************************
-#define FID_Users_yabaz_Documents_Unreal_Projects_1__Plugins_MyPlugins_AnimatedGif_HostProject_Plugins_AnimatedGif_Source_AnimatedGif_Public_GifPlayer_h_21_DELEGATE \
+#define FID_Users_Realf_OneDrive_Documents_DartsFolder_DartsInOrbit_Plugins_AnimatedGif_Source_AnimatedGif_Public_GifPlayer_h_21_DELEGATE \
 ANIMATEDGIF_API void FOnGifPlaybackEvent_DelegateWrapper(const FMulticastScriptDelegate& OnGifPlaybackEvent);
 
 
 // ********** End Delegate FOnGifPlaybackEvent *****************************************************
 
 // ********** Begin Class UGifPlayer ***************************************************************
-#define FID_Users_yabaz_Documents_Unreal_Projects_1__Plugins_MyPlugins_AnimatedGif_HostProject_Plugins_AnimatedGif_Source_AnimatedGif_Public_GifPlayer_h_31_RPC_WRAPPERS_NO_PURE_DECLS \
+#define FID_Users_Realf_OneDrive_Documents_DartsFolder_DartsInOrbit_Plugins_AnimatedGif_Source_AnimatedGif_Public_GifPlayer_h_31_RPC_WRAPPERS_NO_PURE_DECLS \
 	DECLARE_FUNCTION(execGetDimensions); \
 	DECLARE_FUNCTION(execIsPlaying); \
 	DECLARE_FUNCTION(execGetNumFrames); \
@@ -46,7 +46,7 @@ ANIMATEDGIF_API void FOnGifPlaybackEvent_DelegateWrapper(const FMulticastScriptD
 
 ANIMATEDGIF_API UClass* Z_Construct_UClass_UGifPlayer_NoRegister();
 
-#define FID_Users_yabaz_Documents_Unreal_Projects_1__Plugins_MyPlugins_AnimatedGif_HostProject_Plugins_AnimatedGif_Source_AnimatedGif_Public_GifPlayer_h_31_INCLASS_NO_PURE_DECLS \
+#define FID_Users_Realf_OneDrive_Documents_DartsFolder_DartsInOrbit_Plugins_AnimatedGif_Source_AnimatedGif_Public_GifPlayer_h_31_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUGifPlayer(); \
 	friend struct Z_Construct_UClass_UGifPlayer_Statics; \
@@ -57,7 +57,7 @@ public: \
 	DECLARE_SERIALIZER(UGifPlayer)
 
 
-#define FID_Users_yabaz_Documents_Unreal_Projects_1__Plugins_MyPlugins_AnimatedGif_HostProject_Plugins_AnimatedGif_Source_AnimatedGif_Public_GifPlayer_h_31_ENHANCED_CONSTRUCTORS \
+#define FID_Users_Realf_OneDrive_Documents_DartsFolder_DartsInOrbit_Plugins_AnimatedGif_Source_AnimatedGif_Public_GifPlayer_h_31_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGifPlayer(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	/** Deleted move- and copy-constructors, should never be used */ \
@@ -69,13 +69,13 @@ public: \
 	NO_API virtual ~UGifPlayer();
 
 
-#define FID_Users_yabaz_Documents_Unreal_Projects_1__Plugins_MyPlugins_AnimatedGif_HostProject_Plugins_AnimatedGif_Source_AnimatedGif_Public_GifPlayer_h_28_PROLOG
-#define FID_Users_yabaz_Documents_Unreal_Projects_1__Plugins_MyPlugins_AnimatedGif_HostProject_Plugins_AnimatedGif_Source_AnimatedGif_Public_GifPlayer_h_31_GENERATED_BODY \
+#define FID_Users_Realf_OneDrive_Documents_DartsFolder_DartsInOrbit_Plugins_AnimatedGif_Source_AnimatedGif_Public_GifPlayer_h_28_PROLOG
+#define FID_Users_Realf_OneDrive_Documents_DartsFolder_DartsInOrbit_Plugins_AnimatedGif_Source_AnimatedGif_Public_GifPlayer_h_31_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_Users_yabaz_Documents_Unreal_Projects_1__Plugins_MyPlugins_AnimatedGif_HostProject_Plugins_AnimatedGif_Source_AnimatedGif_Public_GifPlayer_h_31_RPC_WRAPPERS_NO_PURE_DECLS \
-	FID_Users_yabaz_Documents_Unreal_Projects_1__Plugins_MyPlugins_AnimatedGif_HostProject_Plugins_AnimatedGif_Source_AnimatedGif_Public_GifPlayer_h_31_INCLASS_NO_PURE_DECLS \
-	FID_Users_yabaz_Documents_Unreal_Projects_1__Plugins_MyPlugins_AnimatedGif_HostProject_Plugins_AnimatedGif_Source_AnimatedGif_Public_GifPlayer_h_31_ENHANCED_CONSTRUCTORS \
+	FID_Users_Realf_OneDrive_Documents_DartsFolder_DartsInOrbit_Plugins_AnimatedGif_Source_AnimatedGif_Public_GifPlayer_h_31_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_Users_Realf_OneDrive_Documents_DartsFolder_DartsInOrbit_Plugins_AnimatedGif_Source_AnimatedGif_Public_GifPlayer_h_31_INCLASS_NO_PURE_DECLS \
+	FID_Users_Realf_OneDrive_Documents_DartsFolder_DartsInOrbit_Plugins_AnimatedGif_Source_AnimatedGif_Public_GifPlayer_h_31_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -85,6 +85,6 @@ class UGifPlayer;
 // ********** End Class UGifPlayer *****************************************************************
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_Users_yabaz_Documents_Unreal_Projects_1__Plugins_MyPlugins_AnimatedGif_HostProject_Plugins_AnimatedGif_Source_AnimatedGif_Public_GifPlayer_h
+#define CURRENT_FILE_ID FID_Users_Realf_OneDrive_Documents_DartsFolder_DartsInOrbit_Plugins_AnimatedGif_Source_AnimatedGif_Public_GifPlayer_h
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

@@ -55,27 +55,39 @@ struct Z_Construct_UClass_UAnimatedGifSettings_Statics
 {
 #if WITH_METADATA
 	static constexpr UECodeGen_Private::FMetaDataPairParam Class_MetaDataParams[] = {
+#if !UE_BUILD_SHIPPING
 		{ "Comment", "/**\n * Project-wide GIF playback defaults. Frame delays come from the file, but many\n * GIFs ship 0ms delays expecting browser behaviour (~10fps); these settings\n * reproduce that clamp.\n */" },
+#endif
 		{ "DisplayName", "Animated GIF" },
 		{ "IncludePath", "AnimatedGifSettings.h" },
 		{ "ModuleRelativePath", "Public/AnimatedGifSettings.h" },
+#if !UE_BUILD_SHIPPING
 		{ "ToolTip", "Project-wide GIF playback defaults. Frame delays come from the file, but many\nGIFs ship 0ms delays expecting browser behaviour (~10fps); these settings\nreproduce that clamp." },
+#endif
 	};
 	static constexpr UECodeGen_Private::FMetaDataPairParam NewProp_MinFrameDelaySeconds_MetaData[] = {
 		{ "Category", "Playback" },
 		{ "ClampMin", "0.0" },
+#if !UE_BUILD_SHIPPING
 		{ "Comment", "/** Frames whose stored delay is below this are bumped to FallbackFrameDelaySeconds. */" },
+#endif
 		{ "ForceUnits", "s" },
 		{ "ModuleRelativePath", "Public/AnimatedGifSettings.h" },
+#if !UE_BUILD_SHIPPING
 		{ "ToolTip", "Frames whose stored delay is below this are bumped to FallbackFrameDelaySeconds." },
+#endif
 	};
 	static constexpr UECodeGen_Private::FMetaDataPairParam NewProp_FallbackFrameDelaySeconds_MetaData[] = {
 		{ "Category", "Playback" },
 		{ "ClampMin", "0.0" },
+#if !UE_BUILD_SHIPPING
 		{ "Comment", "/** Delay used in place of a too-short frame delay. */" },
+#endif
 		{ "ForceUnits", "s" },
 		{ "ModuleRelativePath", "Public/AnimatedGifSettings.h" },
+#if !UE_BUILD_SHIPPING
 		{ "ToolTip", "Delay used in place of a too-short frame delay." },
+#endif
 	};
 #endif // WITH_METADATA
 	static const UECodeGen_Private::FFloatPropertyParams NewProp_MinFrameDelaySeconds;
@@ -128,14 +140,14 @@ UAnimatedGifSettings::~UAnimatedGifSettings() {}
 // ********** End Class UAnimatedGifSettings *******************************************************
 
 // ********** Begin Registration *******************************************************************
-struct Z_CompiledInDeferFile_FID_Users_yabaz_Documents_Unreal_Projects_1__Plugins_MyPlugins_AnimatedGif_HostProject_Plugins_AnimatedGif_Source_AnimatedGif_Public_AnimatedGifSettings_h__Script_AnimatedGif_Statics
+struct Z_CompiledInDeferFile_FID_Users_Realf_OneDrive_Documents_DartsFolder_DartsInOrbit_Plugins_AnimatedGif_Source_AnimatedGif_Public_AnimatedGifSettings_h__Script_AnimatedGif_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
-		{ Z_Construct_UClass_UAnimatedGifSettings, UAnimatedGifSettings::StaticClass, TEXT("UAnimatedGifSettings"), &Z_Registration_Info_UClass_UAnimatedGifSettings, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UAnimatedGifSettings), 2875002247U) },
+		{ Z_Construct_UClass_UAnimatedGifSettings, UAnimatedGifSettings::StaticClass, TEXT("UAnimatedGifSettings"), &Z_Registration_Info_UClass_UAnimatedGifSettings, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UAnimatedGifSettings), 2950807804U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_yabaz_Documents_Unreal_Projects_1__Plugins_MyPlugins_AnimatedGif_HostProject_Plugins_AnimatedGif_Source_AnimatedGif_Public_AnimatedGifSettings_h__Script_AnimatedGif_2551203478(TEXT("/Script/AnimatedGif"),
-	Z_CompiledInDeferFile_FID_Users_yabaz_Documents_Unreal_Projects_1__Plugins_MyPlugins_AnimatedGif_HostProject_Plugins_AnimatedGif_Source_AnimatedGif_Public_AnimatedGifSettings_h__Script_AnimatedGif_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_yabaz_Documents_Unreal_Projects_1__Plugins_MyPlugins_AnimatedGif_HostProject_Plugins_AnimatedGif_Source_AnimatedGif_Public_AnimatedGifSettings_h__Script_AnimatedGif_Statics::ClassInfo),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_Realf_OneDrive_Documents_DartsFolder_DartsInOrbit_Plugins_AnimatedGif_Source_AnimatedGif_Public_AnimatedGifSettings_h__Script_AnimatedGif_3450137678(TEXT("/Script/AnimatedGif"),
+	Z_CompiledInDeferFile_FID_Users_Realf_OneDrive_Documents_DartsFolder_DartsInOrbit_Plugins_AnimatedGif_Source_AnimatedGif_Public_AnimatedGifSettings_h__Script_AnimatedGif_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_Realf_OneDrive_Documents_DartsFolder_DartsInOrbit_Plugins_AnimatedGif_Source_AnimatedGif_Public_AnimatedGifSettings_h__Script_AnimatedGif_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);
 // ********** End Registration *********************************************************************

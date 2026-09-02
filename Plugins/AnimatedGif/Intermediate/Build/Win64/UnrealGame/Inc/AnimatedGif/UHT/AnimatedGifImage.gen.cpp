@@ -31,9 +31,13 @@ struct Z_Construct_UFunction_UAnimatedGifImage_GetPlayer_Statics
 #if WITH_METADATA
 	static constexpr UECodeGen_Private::FMetaDataPairParam Function_MetaDataParams[] = {
 		{ "Category", "Animated GIF" },
+#if !UE_BUILD_SHIPPING
 		{ "Comment", "/** The underlying player (texture, playback state, events). */" },
+#endif
 		{ "ModuleRelativePath", "Public/AnimatedGifImage.h" },
+#if !UE_BUILD_SHIPPING
 		{ "ToolTip", "The underlying player (texture, playback state, events)." },
+#endif
 	};
 #endif // WITH_METADATA
 	static const UECodeGen_Private::FObjectPropertyParams NewProp_ReturnValue;
@@ -288,10 +292,14 @@ struct Z_Construct_UClass_UAnimatedGifImage_Statics
 {
 #if WITH_METADATA
 	static constexpr UECodeGen_Private::FMetaDataPairParam Class_MetaDataParams[] = {
+#if !UE_BUILD_SHIPPING
 		{ "Comment", "/**\n * UMG widget that plays a UGifAsset. Owns a UGifPlayer (the clock + GPU texture)\n * and repaints the Slate widget only when the player reports a new frame.\n */" },
+#endif
 		{ "IncludePath", "AnimatedGifImage.h" },
 		{ "ModuleRelativePath", "Public/AnimatedGifImage.h" },
+#if !UE_BUILD_SHIPPING
 		{ "ToolTip", "UMG widget that plays a UGifAsset. Owns a UGifPlayer (the clock + GPU texture)\nand repaints the Slate widget only when the player reports a new frame." },
+#endif
 	};
 	static constexpr UECodeGen_Private::FMetaDataPairParam NewProp_GifAsset_MetaData[] = {
 		{ "Category", "Animated GIF" },
@@ -303,9 +311,13 @@ struct Z_Construct_UClass_UAnimatedGifImage_Statics
 	};
 	static constexpr UECodeGen_Private::FMetaDataPairParam NewProp_bAutoPlay_MetaData[] = {
 		{ "Category", "Animated GIF" },
+#if !UE_BUILD_SHIPPING
 		{ "Comment", "/** Start playing as soon as the widget is constructed (runtime only). */" },
+#endif
 		{ "ModuleRelativePath", "Public/AnimatedGifImage.h" },
+#if !UE_BUILD_SHIPPING
 		{ "ToolTip", "Start playing as soon as the widget is constructed (runtime only)." },
+#endif
 	};
 	static constexpr UECodeGen_Private::FMetaDataPairParam NewProp_bLooping_MetaData[] = {
 		{ "Category", "Animated GIF" },
@@ -314,10 +326,14 @@ struct Z_Construct_UClass_UAnimatedGifImage_Statics
 	static constexpr UECodeGen_Private::FMetaDataPairParam NewProp_LoopCountOverride_MetaData[] = {
 		{ "Category", "Animated GIF" },
 		{ "ClampMin", "-1" },
+#if !UE_BUILD_SHIPPING
 		{ "Comment", "/** -1 = use the asset's loop count; >= 0 overrides it (0 = loop forever). */" },
+#endif
 		{ "EditCondition", "bLooping" },
 		{ "ModuleRelativePath", "Public/AnimatedGifImage.h" },
+#if !UE_BUILD_SHIPPING
 		{ "ToolTip", "-1 = use the asset's loop count; >= 0 overrides it (0 = loop forever)." },
+#endif
 	};
 	static constexpr UECodeGen_Private::FMetaDataPairParam NewProp_PlayRate_MetaData[] = {
 		{ "Category", "Animated GIF" },
@@ -327,10 +343,14 @@ struct Z_Construct_UClass_UAnimatedGifImage_Statics
 #if WITH_EDITORONLY_DATA
 	static constexpr UECodeGen_Private::FMetaDataPairParam NewProp_bPreviewInDesigner_MetaData[] = {
 		{ "Category", "Animated GIF" },
+#if !UE_BUILD_SHIPPING
 		{ "Comment", "/** Play the GIF inside the UMG designer preview (off by default to keep the editor light). */" },
+#endif
 		{ "DisplayName", "Preview In Designer" },
 		{ "ModuleRelativePath", "Public/AnimatedGifImage.h" },
+#if !UE_BUILD_SHIPPING
 		{ "ToolTip", "Play the GIF inside the UMG designer preview (off by default to keep the editor light)." },
+#endif
 	};
 #endif // WITH_EDITORONLY_DATA
 	static constexpr UECodeGen_Private::FMetaDataPairParam NewProp_Player_MetaData[] = {
@@ -357,7 +377,7 @@ struct Z_Construct_UClass_UAnimatedGifImage_Statics
 	static const UECodeGen_Private::FPropertyParamsBase* const PropPointers[];
 	static UObject* (*const DependentSingletons[])();
 	static constexpr FClassFunctionLinkInfo FuncInfo[] = {
-		{ &Z_Construct_UFunction_UAnimatedGifImage_GetPlayer, "GetPlayer" }, // 1000938054
+		{ &Z_Construct_UFunction_UAnimatedGifImage_GetPlayer, "GetPlayer" }, // 3361301752
 		{ &Z_Construct_UFunction_UAnimatedGifImage_Pause, "Pause" }, // 1494498577
 		{ &Z_Construct_UFunction_UAnimatedGifImage_Play, "Play" }, // 915465578
 		{ &Z_Construct_UFunction_UAnimatedGifImage_SetColorAndOpacity, "SetColorAndOpacity" }, // 671615681
@@ -441,14 +461,14 @@ UAnimatedGifImage::~UAnimatedGifImage() {}
 // ********** End Class UAnimatedGifImage **********************************************************
 
 // ********** Begin Registration *******************************************************************
-struct Z_CompiledInDeferFile_FID_Users_yabaz_Documents_Unreal_Projects_1__Plugins_MyPlugins_AnimatedGif_HostProject_Plugins_AnimatedGif_Source_AnimatedGif_Public_AnimatedGifImage_h__Script_AnimatedGif_Statics
+struct Z_CompiledInDeferFile_FID_Users_Realf_OneDrive_Documents_DartsFolder_DartsInOrbit_Plugins_AnimatedGif_Source_AnimatedGif_Public_AnimatedGifImage_h__Script_AnimatedGif_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
-		{ Z_Construct_UClass_UAnimatedGifImage, UAnimatedGifImage::StaticClass, TEXT("UAnimatedGifImage"), &Z_Registration_Info_UClass_UAnimatedGifImage, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UAnimatedGifImage), 1020222825U) },
+		{ Z_Construct_UClass_UAnimatedGifImage, UAnimatedGifImage::StaticClass, TEXT("UAnimatedGifImage"), &Z_Registration_Info_UClass_UAnimatedGifImage, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UAnimatedGifImage), 3663885172U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_yabaz_Documents_Unreal_Projects_1__Plugins_MyPlugins_AnimatedGif_HostProject_Plugins_AnimatedGif_Source_AnimatedGif_Public_AnimatedGifImage_h__Script_AnimatedGif_2289870939(TEXT("/Script/AnimatedGif"),
-	Z_CompiledInDeferFile_FID_Users_yabaz_Documents_Unreal_Projects_1__Plugins_MyPlugins_AnimatedGif_HostProject_Plugins_AnimatedGif_Source_AnimatedGif_Public_AnimatedGifImage_h__Script_AnimatedGif_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_yabaz_Documents_Unreal_Projects_1__Plugins_MyPlugins_AnimatedGif_HostProject_Plugins_AnimatedGif_Source_AnimatedGif_Public_AnimatedGifImage_h__Script_AnimatedGif_Statics::ClassInfo),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_Realf_OneDrive_Documents_DartsFolder_DartsInOrbit_Plugins_AnimatedGif_Source_AnimatedGif_Public_AnimatedGifImage_h__Script_AnimatedGif_4192271362(TEXT("/Script/AnimatedGif"),
+	Z_CompiledInDeferFile_FID_Users_Realf_OneDrive_Documents_DartsFolder_DartsInOrbit_Plugins_AnimatedGif_Source_AnimatedGif_Public_AnimatedGifImage_h__Script_AnimatedGif_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_Realf_OneDrive_Documents_DartsFolder_DartsInOrbit_Plugins_AnimatedGif_Source_AnimatedGif_Public_AnimatedGifImage_h__Script_AnimatedGif_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);
 // ********** End Registration *********************************************************************

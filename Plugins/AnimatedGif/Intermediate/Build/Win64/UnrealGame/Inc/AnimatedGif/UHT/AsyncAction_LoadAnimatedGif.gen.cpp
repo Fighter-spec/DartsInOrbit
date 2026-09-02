@@ -317,10 +317,14 @@ struct Z_Construct_UClass_UAsyncAction_LoadAnimatedGif_Statics
 {
 #if WITH_METADATA
 	static constexpr UECodeGen_Private::FMetaDataPairParam Class_MetaDataParams[] = {
+#if !UE_BUILD_SHIPPING
 		{ "Comment", "/**\n * Async latent node: reads/decodes a GIF on a worker thread, then creates the\n * player on the game thread. Use this (not the synchronous library calls) for\n * anything large or loaded at runtime, so the game thread never blocks on decode.\n */" },
+#endif
 		{ "IncludePath", "AsyncAction_LoadAnimatedGif.h" },
 		{ "ModuleRelativePath", "Public/AsyncAction_LoadAnimatedGif.h" },
+#if !UE_BUILD_SHIPPING
 		{ "ToolTip", "Async latent node: reads/decodes a GIF on a worker thread, then creates the\nplayer on the game thread. Use this (not the synchronous library calls) for\nanything large or loaded at runtime, so the game thread never blocks on decode." },
+#endif
 	};
 	static constexpr UECodeGen_Private::FMetaDataPairParam NewProp_OnLoaded_MetaData[] = {
 		{ "ModuleRelativePath", "Public/AsyncAction_LoadAnimatedGif.h" },
@@ -332,9 +336,13 @@ struct Z_Construct_UClass_UAsyncAction_LoadAnimatedGif_Statics
 		{ "ModuleRelativePath", "Public/AsyncAction_LoadAnimatedGif.h" },
 	};
 	static constexpr UECodeGen_Private::FMetaDataPairParam NewProp_PendingPlayer_MetaData[] = {
+#if !UE_BUILD_SHIPPING
 		{ "Comment", "/** Roots the created player across the OnLoaded broadcast so GC can't reclaim it before the BP stores it. */" },
+#endif
 		{ "ModuleRelativePath", "Public/AsyncAction_LoadAnimatedGif.h" },
+#if !UE_BUILD_SHIPPING
 		{ "ToolTip", "Roots the created player across the OnLoaded broadcast so GC can't reclaim it before the BP stores it." },
+#endif
 	};
 #endif // WITH_METADATA
 	static const UECodeGen_Private::FMulticastDelegatePropertyParams NewProp_OnLoaded;
@@ -398,14 +406,14 @@ UAsyncAction_LoadAnimatedGif::~UAsyncAction_LoadAnimatedGif() {}
 // ********** End Class UAsyncAction_LoadAnimatedGif ***********************************************
 
 // ********** Begin Registration *******************************************************************
-struct Z_CompiledInDeferFile_FID_Users_yabaz_Documents_Unreal_Projects_1__Plugins_MyPlugins_AnimatedGif_HostProject_Plugins_AnimatedGif_Source_AnimatedGif_Public_AsyncAction_LoadAnimatedGif_h__Script_AnimatedGif_Statics
+struct Z_CompiledInDeferFile_FID_Users_Realf_OneDrive_Documents_DartsFolder_DartsInOrbit_Plugins_AnimatedGif_Source_AnimatedGif_Public_AsyncAction_LoadAnimatedGif_h__Script_AnimatedGif_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
-		{ Z_Construct_UClass_UAsyncAction_LoadAnimatedGif, UAsyncAction_LoadAnimatedGif::StaticClass, TEXT("UAsyncAction_LoadAnimatedGif"), &Z_Registration_Info_UClass_UAsyncAction_LoadAnimatedGif, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UAsyncAction_LoadAnimatedGif), 4173005632U) },
+		{ Z_Construct_UClass_UAsyncAction_LoadAnimatedGif, UAsyncAction_LoadAnimatedGif::StaticClass, TEXT("UAsyncAction_LoadAnimatedGif"), &Z_Registration_Info_UClass_UAsyncAction_LoadAnimatedGif, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UAsyncAction_LoadAnimatedGif), 3637992914U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_yabaz_Documents_Unreal_Projects_1__Plugins_MyPlugins_AnimatedGif_HostProject_Plugins_AnimatedGif_Source_AnimatedGif_Public_AsyncAction_LoadAnimatedGif_h__Script_AnimatedGif_1428316011(TEXT("/Script/AnimatedGif"),
-	Z_CompiledInDeferFile_FID_Users_yabaz_Documents_Unreal_Projects_1__Plugins_MyPlugins_AnimatedGif_HostProject_Plugins_AnimatedGif_Source_AnimatedGif_Public_AsyncAction_LoadAnimatedGif_h__Script_AnimatedGif_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_yabaz_Documents_Unreal_Projects_1__Plugins_MyPlugins_AnimatedGif_HostProject_Plugins_AnimatedGif_Source_AnimatedGif_Public_AsyncAction_LoadAnimatedGif_h__Script_AnimatedGif_Statics::ClassInfo),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_Realf_OneDrive_Documents_DartsFolder_DartsInOrbit_Plugins_AnimatedGif_Source_AnimatedGif_Public_AsyncAction_LoadAnimatedGif_h__Script_AnimatedGif_484242593(TEXT("/Script/AnimatedGif"),
+	Z_CompiledInDeferFile_FID_Users_Realf_OneDrive_Documents_DartsFolder_DartsInOrbit_Plugins_AnimatedGif_Source_AnimatedGif_Public_AsyncAction_LoadAnimatedGif_h__Script_AnimatedGif_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_Realf_OneDrive_Documents_DartsFolder_DartsInOrbit_Plugins_AnimatedGif_Source_AnimatedGif_Public_AsyncAction_LoadAnimatedGif_h__Script_AnimatedGif_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);
 // ********** End Registration *********************************************************************

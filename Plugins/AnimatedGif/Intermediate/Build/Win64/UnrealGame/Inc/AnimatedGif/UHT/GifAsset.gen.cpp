@@ -151,10 +151,14 @@ struct Z_Construct_UClass_UGifAsset_Statics
 #if WITH_METADATA
 	static constexpr UECodeGen_Private::FMetaDataPairParam Class_MetaDataParams[] = {
 		{ "BlueprintType", "true" },
+#if !UE_BUILD_SHIPPING
 		{ "Comment", "/**\n * Imported, cooked GIF. Stores lightweight metadata as reflected properties (so\n * the asset registry sees it without loading pixels) and the decoded BGRA frames\n * in manually-serialized bulk data. Immutable at runtime; one asset can back many\n * independent UGifPlayer instances.\n */" },
+#endif
 		{ "IncludePath", "GifAsset.h" },
 		{ "ModuleRelativePath", "Public/GifAsset.h" },
+#if !UE_BUILD_SHIPPING
 		{ "ToolTip", "Imported, cooked GIF. Stores lightweight metadata as reflected properties (so\nthe asset registry sees it without loading pixels) and the decoded BGRA frames\nin manually-serialized bulk data. Immutable at runtime; one asset can back many\nindependent UGifPlayer instances." },
+#endif
 	};
 	static constexpr UECodeGen_Private::FMetaDataPairParam NewProp_Width_MetaData[] = {
 		{ "Category", "GIF" },
@@ -166,21 +170,33 @@ struct Z_Construct_UClass_UGifAsset_Statics
 	};
 	static constexpr UECodeGen_Private::FMetaDataPairParam NewProp_LoopCount_MetaData[] = {
 		{ "Category", "GIF" },
+#if !UE_BUILD_SHIPPING
 		{ "Comment", "/**\n\x09 * Number of play-throughs before playback stops; 0 = loop forever. Seeded from\n\x09 * the GIF's NETSCAPE2.0 extension on import, editable here, and used by UGifPlayer\n\x09 * as the default loop count (a player/widget may still override it).\n\x09 */" },
+#endif
 		{ "ModuleRelativePath", "Public/GifAsset.h" },
+#if !UE_BUILD_SHIPPING
 		{ "ToolTip", "Number of play-throughs before playback stops; 0 = loop forever. Seeded from\nthe GIF's NETSCAPE2.0 extension on import, editable here, and used by UGifPlayer\nas the default loop count (a player/widget may still override it)." },
+#endif
 	};
 	static constexpr UECodeGen_Private::FMetaDataPairParam NewProp_FrameDelays_MetaData[] = {
 		{ "Category", "GIF" },
+#if !UE_BUILD_SHIPPING
 		{ "Comment", "/** Per-frame display duration in seconds (raw, before the playback clamp). */" },
+#endif
 		{ "ModuleRelativePath", "Public/GifAsset.h" },
+#if !UE_BUILD_SHIPPING
 		{ "ToolTip", "Per-frame display duration in seconds (raw, before the playback clamp)." },
+#endif
 	};
 	static constexpr UECodeGen_Private::FMetaDataPairParam NewProp_LinkedRenderTarget_MetaData[] = {
 		{ "Category", "GIF|Material" },
+#if !UE_BUILD_SHIPPING
 		{ "Comment", "/**\n\x09 * Optional render target a player drives so the GIF can be sampled in a material\n\x09 * graph. At runtime the player reconfigures it to this GIF's size and BGRA8 format\n\x09 * and uses it as its output texture. Shared: one logical playback per target \xe2\x80\x94 if\n\x09 * several players run this asset they all write here (last write wins).\n\x09 */" },
+#endif
 		{ "ModuleRelativePath", "Public/GifAsset.h" },
+#if !UE_BUILD_SHIPPING
 		{ "ToolTip", "Optional render target a player drives so the GIF can be sampled in a material\ngraph. At runtime the player reconfigures it to this GIF's size and BGRA8 format\nand uses it as its output texture. Shared: one logical playback per target \xe2\x80\x94 if\nseveral players run this asset they all write here (last write wins)." },
+#endif
 	};
 #if WITH_EDITORONLY_DATA
 	static constexpr UECodeGen_Private::FMetaDataPairParam NewProp_AssetImportData_MetaData[] = {
@@ -273,14 +289,14 @@ IMPLEMENT_FSTRUCTUREDARCHIVE_SERIALIZER(UGifAsset)
 // ********** End Class UGifAsset ******************************************************************
 
 // ********** Begin Registration *******************************************************************
-struct Z_CompiledInDeferFile_FID_Users_yabaz_Documents_Unreal_Projects_1__Plugins_MyPlugins_AnimatedGif_HostProject_Plugins_AnimatedGif_Source_AnimatedGif_Public_GifAsset_h__Script_AnimatedGif_Statics
+struct Z_CompiledInDeferFile_FID_Users_Realf_OneDrive_Documents_DartsFolder_DartsInOrbit_Plugins_AnimatedGif_Source_AnimatedGif_Public_GifAsset_h__Script_AnimatedGif_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
-		{ Z_Construct_UClass_UGifAsset, UGifAsset::StaticClass, TEXT("UGifAsset"), &Z_Registration_Info_UClass_UGifAsset, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UGifAsset), 3829382166U) },
+		{ Z_Construct_UClass_UGifAsset, UGifAsset::StaticClass, TEXT("UGifAsset"), &Z_Registration_Info_UClass_UGifAsset, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UGifAsset), 491481610U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_yabaz_Documents_Unreal_Projects_1__Plugins_MyPlugins_AnimatedGif_HostProject_Plugins_AnimatedGif_Source_AnimatedGif_Public_GifAsset_h__Script_AnimatedGif_1214395739(TEXT("/Script/AnimatedGif"),
-	Z_CompiledInDeferFile_FID_Users_yabaz_Documents_Unreal_Projects_1__Plugins_MyPlugins_AnimatedGif_HostProject_Plugins_AnimatedGif_Source_AnimatedGif_Public_GifAsset_h__Script_AnimatedGif_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_yabaz_Documents_Unreal_Projects_1__Plugins_MyPlugins_AnimatedGif_HostProject_Plugins_AnimatedGif_Source_AnimatedGif_Public_GifAsset_h__Script_AnimatedGif_Statics::ClassInfo),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_Realf_OneDrive_Documents_DartsFolder_DartsInOrbit_Plugins_AnimatedGif_Source_AnimatedGif_Public_GifAsset_h__Script_AnimatedGif_819305866(TEXT("/Script/AnimatedGif"),
+	Z_CompiledInDeferFile_FID_Users_Realf_OneDrive_Documents_DartsFolder_DartsInOrbit_Plugins_AnimatedGif_Source_AnimatedGif_Public_GifAsset_h__Script_AnimatedGif_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_Realf_OneDrive_Documents_DartsFolder_DartsInOrbit_Plugins_AnimatedGif_Source_AnimatedGif_Public_GifAsset_h__Script_AnimatedGif_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);
 // ********** End Registration *********************************************************************

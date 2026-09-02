@@ -35,11 +35,15 @@ struct Z_Construct_UFunction_UAnimatedGifFunctionLibrary_CreateGifPlayer_Statics
 #if WITH_METADATA
 	static constexpr UECodeGen_Private::FMetaDataPairParam Function_MetaDataParams[] = {
 		{ "Category", "Animated GIF" },
+#if !UE_BUILD_SHIPPING
 		{ "Comment", "/** Create a player from an imported asset. */" },
+#endif
 		{ "CPP_Default_bAutoPlay", "true" },
 		{ "CPP_Default_bLooping", "true" },
 		{ "ModuleRelativePath", "Public/AnimatedGifFunctionLibrary.h" },
+#if !UE_BUILD_SHIPPING
 		{ "ToolTip", "Create a player from an imported asset." },
+#endif
 		{ "WorldContext", "WorldContextObject" },
 	};
 #endif // WITH_METADATA
@@ -112,11 +116,15 @@ struct Z_Construct_UFunction_UAnimatedGifFunctionLibrary_CreateGifPlayerFromByte
 #if WITH_METADATA
 	static constexpr UECodeGen_Private::FMetaDataPairParam Function_MetaDataParams[] = {
 		{ "Category", "Animated GIF" },
+#if !UE_BUILD_SHIPPING
 		{ "Comment", "/**\n\x09 * Decode raw GIF bytes and create a player. Synchronous \xe2\x80\x94 decode happens on the\n\x09 * calling thread; prefer LoadAnimatedGifFromBytes (async node) for large GIFs.\n\x09 */" },
+#endif
 		{ "CPP_Default_bAutoPlay", "true" },
 		{ "CPP_Default_bLooping", "true" },
 		{ "ModuleRelativePath", "Public/AnimatedGifFunctionLibrary.h" },
+#if !UE_BUILD_SHIPPING
 		{ "ToolTip", "Decode raw GIF bytes and create a player. Synchronous \xe2\x80\x94 decode happens on the\ncalling thread; prefer LoadAnimatedGifFromBytes (async node) for large GIFs." },
+#endif
 		{ "WorldContext", "WorldContextObject" },
 	};
 	static constexpr UECodeGen_Private::FMetaDataPairParam NewProp_GifBytes_MetaData[] = {
@@ -195,11 +203,15 @@ struct Z_Construct_UFunction_UAnimatedGifFunctionLibrary_LoadGifPlayerFromFile_S
 #if WITH_METADATA
 	static constexpr UECodeGen_Private::FMetaDataPairParam Function_MetaDataParams[] = {
 		{ "Category", "Animated GIF" },
+#if !UE_BUILD_SHIPPING
 		{ "Comment", "/** Read a .gif from disk and create a player. Synchronous; prefer the async node. */" },
+#endif
 		{ "CPP_Default_bAutoPlay", "true" },
 		{ "CPP_Default_bLooping", "true" },
 		{ "ModuleRelativePath", "Public/AnimatedGifFunctionLibrary.h" },
+#if !UE_BUILD_SHIPPING
 		{ "ToolTip", "Read a .gif from disk and create a player. Synchronous; prefer the async node." },
+#endif
 		{ "WorldContext", "WorldContextObject" },
 	};
 	static constexpr UECodeGen_Private::FMetaDataPairParam NewProp_FilePath_MetaData[] = {
@@ -305,17 +317,21 @@ struct Z_Construct_UClass_UAnimatedGifFunctionLibrary_Statics
 {
 #if WITH_METADATA
 	static constexpr UECodeGen_Private::FMetaDataPairParam Class_MetaDataParams[] = {
+#if !UE_BUILD_SHIPPING
 		{ "Comment", "/** Helpers to spin up GIF players from assets, bytes or files. */" },
+#endif
 		{ "IncludePath", "AnimatedGifFunctionLibrary.h" },
 		{ "ModuleRelativePath", "Public/AnimatedGifFunctionLibrary.h" },
+#if !UE_BUILD_SHIPPING
 		{ "ToolTip", "Helpers to spin up GIF players from assets, bytes or files." },
+#endif
 	};
 #endif // WITH_METADATA
 	static UObject* (*const DependentSingletons[])();
 	static constexpr FClassFunctionLinkInfo FuncInfo[] = {
-		{ &Z_Construct_UFunction_UAnimatedGifFunctionLibrary_CreateGifPlayer, "CreateGifPlayer" }, // 997597617
-		{ &Z_Construct_UFunction_UAnimatedGifFunctionLibrary_CreateGifPlayerFromBytes, "CreateGifPlayerFromBytes" }, // 2503864739
-		{ &Z_Construct_UFunction_UAnimatedGifFunctionLibrary_LoadGifPlayerFromFile, "LoadGifPlayerFromFile" }, // 519955741
+		{ &Z_Construct_UFunction_UAnimatedGifFunctionLibrary_CreateGifPlayer, "CreateGifPlayer" }, // 4027364960
+		{ &Z_Construct_UFunction_UAnimatedGifFunctionLibrary_CreateGifPlayerFromBytes, "CreateGifPlayerFromBytes" }, // 2808275308
+		{ &Z_Construct_UFunction_UAnimatedGifFunctionLibrary_LoadGifPlayerFromFile, "LoadGifPlayerFromFile" }, // 282230603
 	};
 	static_assert(UE_ARRAY_COUNT(FuncInfo) < 2048);
 	static constexpr FCppClassTypeInfoStatic StaticCppClassTypeInfo = {
@@ -357,14 +373,14 @@ UAnimatedGifFunctionLibrary::~UAnimatedGifFunctionLibrary() {}
 // ********** End Class UAnimatedGifFunctionLibrary ************************************************
 
 // ********** Begin Registration *******************************************************************
-struct Z_CompiledInDeferFile_FID_Users_yabaz_Documents_Unreal_Projects_1__Plugins_MyPlugins_AnimatedGif_HostProject_Plugins_AnimatedGif_Source_AnimatedGif_Public_AnimatedGifFunctionLibrary_h__Script_AnimatedGif_Statics
+struct Z_CompiledInDeferFile_FID_Users_Realf_OneDrive_Documents_DartsFolder_DartsInOrbit_Plugins_AnimatedGif_Source_AnimatedGif_Public_AnimatedGifFunctionLibrary_h__Script_AnimatedGif_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
-		{ Z_Construct_UClass_UAnimatedGifFunctionLibrary, UAnimatedGifFunctionLibrary::StaticClass, TEXT("UAnimatedGifFunctionLibrary"), &Z_Registration_Info_UClass_UAnimatedGifFunctionLibrary, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UAnimatedGifFunctionLibrary), 2950316533U) },
+		{ Z_Construct_UClass_UAnimatedGifFunctionLibrary, UAnimatedGifFunctionLibrary::StaticClass, TEXT("UAnimatedGifFunctionLibrary"), &Z_Registration_Info_UClass_UAnimatedGifFunctionLibrary, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UAnimatedGifFunctionLibrary), 1167877268U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_yabaz_Documents_Unreal_Projects_1__Plugins_MyPlugins_AnimatedGif_HostProject_Plugins_AnimatedGif_Source_AnimatedGif_Public_AnimatedGifFunctionLibrary_h__Script_AnimatedGif_3387809492(TEXT("/Script/AnimatedGif"),
-	Z_CompiledInDeferFile_FID_Users_yabaz_Documents_Unreal_Projects_1__Plugins_MyPlugins_AnimatedGif_HostProject_Plugins_AnimatedGif_Source_AnimatedGif_Public_AnimatedGifFunctionLibrary_h__Script_AnimatedGif_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_yabaz_Documents_Unreal_Projects_1__Plugins_MyPlugins_AnimatedGif_HostProject_Plugins_AnimatedGif_Source_AnimatedGif_Public_AnimatedGifFunctionLibrary_h__Script_AnimatedGif_Statics::ClassInfo),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_Realf_OneDrive_Documents_DartsFolder_DartsInOrbit_Plugins_AnimatedGif_Source_AnimatedGif_Public_AnimatedGifFunctionLibrary_h__Script_AnimatedGif_492759268(TEXT("/Script/AnimatedGif"),
+	Z_CompiledInDeferFile_FID_Users_Realf_OneDrive_Documents_DartsFolder_DartsInOrbit_Plugins_AnimatedGif_Source_AnimatedGif_Public_AnimatedGifFunctionLibrary_h__Script_AnimatedGif_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_Realf_OneDrive_Documents_DartsFolder_DartsInOrbit_Plugins_AnimatedGif_Source_AnimatedGif_Public_AnimatedGifFunctionLibrary_h__Script_AnimatedGif_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);
 // ********** End Registration *********************************************************************

@@ -1,0 +1,13 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\Realf\\OneDrive\\Documents\\DartsFolder\\DartsInOrbit\\Plugins\\AnimatedGif\\Source\\AnimatedGifEditor\\AnimatedGifEditor.Build.cs",
+		"C:\\Users\\Realf\\OneDrive\\Documents\\DartsFolder\\DartsInOrbit\\Plugins\\AnimatedGif\\Source\\AnimatedGif\\AnimatedGif.Build.cs",
+		"C:\\Users\\Realf\\OneDrive\\Documents\\DartsFolder\\DartsInOrbit\\Plugins\\AnimatedGif\\Source\\ThirdParty\\stb_image\\stb_image.Build.cs",
+		"C:\\Users\\Realf\\OneDrive\\Documents\\DartsFolder\\DartsInOrbit\\Intermediate\\Source\\DartsInOrbit.Build.cs",
+		"C:\\Users\\Realf\\OneDrive\\Documents\\DartsFolder\\DartsInOrbit\\Intermediate\\Source\\DartsInOrbit.Target.cs",
+		"C:\\Users\\Realf\\OneDrive\\Documents\\DartsFolder\\DartsInOrbit\\Intermediate\\Source\\DartsInOrbitClient.Target.cs",
+		"C:\\Users\\Realf\\OneDrive\\Documents\\DartsFolder\\DartsInOrbit\\Intermediate\\Source\\DartsInOrbitEditor.Target.cs",
+		"C:\\Users\\Realf\\OneDrive\\Documents\\DartsFolder\\DartsInOrbit\\Intermediate\\Source\\DartsInOrbitServer.Target.cs"
+	],
+	"EngineVersion": "5.6.1"
+}

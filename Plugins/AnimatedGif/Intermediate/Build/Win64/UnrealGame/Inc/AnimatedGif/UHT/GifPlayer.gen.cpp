@@ -143,9 +143,13 @@ struct Z_Construct_UFunction_UGifPlayer_GetDynamicTexture_Statics
 #if WITH_METADATA
 	static constexpr UECodeGen_Private::FMetaDataPairParam Function_MetaDataParams[] = {
 		{ "Category", "GIF" },
+#if !UE_BUILD_SHIPPING
 		{ "Comment", "/** Internal dynamic texture, typed for UImage::SetBrushFromTextureDynamic. Null when a render target is the sink. */" },
+#endif
 		{ "ModuleRelativePath", "Public/GifPlayer.h" },
+#if !UE_BUILD_SHIPPING
 		{ "ToolTip", "Internal dynamic texture, typed for UImage::SetBrushFromTextureDynamic. Null when a render target is the sink." },
+#endif
 	};
 #endif // WITH_METADATA
 	static const UECodeGen_Private::FObjectPropertyParams NewProp_ReturnValue;
@@ -229,9 +233,13 @@ struct Z_Construct_UFunction_UGifPlayer_GetRenderTarget_Statics
 #if WITH_METADATA
 	static constexpr UECodeGen_Private::FMetaDataPairParam Function_MetaDataParams[] = {
 		{ "Category", "GIF" },
+#if !UE_BUILD_SHIPPING
 		{ "Comment", "/** The render target this player drives, if one is set (e.g. the asset's linked target). */" },
+#endif
 		{ "ModuleRelativePath", "Public/GifPlayer.h" },
+#if !UE_BUILD_SHIPPING
 		{ "ToolTip", "The render target this player drives, if one is set (e.g. the asset's linked target)." },
+#endif
 	};
 #endif // WITH_METADATA
 	static const UECodeGen_Private::FObjectPropertyParams NewProp_ReturnValue;
@@ -273,9 +281,13 @@ struct Z_Construct_UFunction_UGifPlayer_GetTexture_Statics
 #if WITH_METADATA
 	static constexpr UECodeGen_Private::FMetaDataPairParam Function_MetaDataParams[] = {
 		{ "Category", "GIF" },
+#if !UE_BUILD_SHIPPING
 		{ "Comment", "/** The live, self-updating texture (UTexture2DDynamic or render target). Bind to a material, or to a UImage via SetBrushResourceObject. */" },
+#endif
 		{ "ModuleRelativePath", "Public/GifPlayer.h" },
+#if !UE_BUILD_SHIPPING
 		{ "ToolTip", "The live, self-updating texture (UTexture2DDynamic or render target). Bind to a material, or to a UImage via SetBrushResourceObject." },
+#endif
 	};
 #endif // WITH_METADATA
 	static const UECodeGen_Private::FObjectPropertyParams NewProp_ReturnValue;
@@ -510,9 +522,13 @@ struct Z_Construct_UFunction_UGifPlayer_SetRenderTarget_Statics
 #if WITH_METADATA
 	static constexpr UECodeGen_Private::FMetaDataPairParam Function_MetaDataParams[] = {
 		{ "Category", "GIF" },
+#if !UE_BUILD_SHIPPING
 		{ "Comment", "/**\n\x09 * Drive a render-target asset instead of an internal texture, so the GIF can be\n\x09 * sampled in a material graph. The target is reconfigured to this GIF's size and\n\x09 * BGRA8 format. Pass null to revert to an internal texture. Best set before Play().\n\x09 */" },
+#endif
 		{ "ModuleRelativePath", "Public/GifPlayer.h" },
+#if !UE_BUILD_SHIPPING
 		{ "ToolTip", "Drive a render-target asset instead of an internal texture, so the GIF can be\nsampled in a material graph. The target is reconfigured to this GIF's size and\nBGRA8 format. Pass null to revert to an internal texture. Best set before Play()." },
+#endif
 	};
 #endif // WITH_METADATA
 	static const UECodeGen_Private::FObjectPropertyParams NewProp_InRenderTarget;
@@ -551,9 +567,13 @@ struct Z_Construct_UFunction_UGifPlayer_Stop_Statics
 #if WITH_METADATA
 	static constexpr UECodeGen_Private::FMetaDataPairParam Function_MetaDataParams[] = {
 		{ "Category", "GIF" },
+#if !UE_BUILD_SHIPPING
 		{ "Comment", "/** Stop and rewind to the first frame. */" },
+#endif
 		{ "ModuleRelativePath", "Public/GifPlayer.h" },
+#if !UE_BUILD_SHIPPING
 		{ "ToolTip", "Stop and rewind to the first frame." },
+#endif
 	};
 #endif // WITH_METADATA
 	static const UECodeGen_Private::FFunctionParams FuncParams;
@@ -632,63 +652,99 @@ struct Z_Construct_UClass_UGifPlayer_Statics
 #if WITH_METADATA
 	static constexpr UECodeGen_Private::FMetaDataPairParam Class_MetaDataParams[] = {
 		{ "BlueprintType", "true" },
+#if !UE_BUILD_SHIPPING
 		{ "Comment", "/**\n * Per-instance playhead + GPU sink. Owns one UTexture2DDynamic and advances a\n * playhead over a shared FAnimatedImageData; on each frame change it uploads the\n * frame to the GPU. Created either from a UGifAsset or from a runtime decode.\n */" },
+#endif
 		{ "IncludePath", "GifPlayer.h" },
 		{ "ModuleRelativePath", "Public/GifPlayer.h" },
+#if !UE_BUILD_SHIPPING
 		{ "ToolTip", "Per-instance playhead + GPU sink. Owns one UTexture2DDynamic and advances a\nplayhead over a shared FAnimatedImageData; on each frame change it uploads the\nframe to the GPU. Created either from a UGifAsset or from a runtime decode." },
+#endif
 	};
 	static constexpr UECodeGen_Private::FMetaDataPairParam NewProp_PlayRate_MetaData[] = {
 		{ "Category", "GIF" },
 		{ "ClampMin", "0.0" },
+#if !UE_BUILD_SHIPPING
 		{ "Comment", "/** Playback rate multiplier (forward only in v1). */" },
+#endif
 		{ "ModuleRelativePath", "Public/GifPlayer.h" },
+#if !UE_BUILD_SHIPPING
 		{ "ToolTip", "Playback rate multiplier (forward only in v1)." },
+#endif
 	};
 	static constexpr UECodeGen_Private::FMetaDataPairParam NewProp_bLooping_MetaData[] = {
 		{ "Category", "GIF" },
+#if !UE_BUILD_SHIPPING
 		{ "Comment", "/**\n\x09 * Master loop switch. When false the GIF plays exactly once and fires OnFinished,\n\x09 * regardless of LoopCount. When true, LoopCount decides how many play-throughs.\n\x09 */" },
+#endif
 		{ "ModuleRelativePath", "Public/GifPlayer.h" },
+#if !UE_BUILD_SHIPPING
 		{ "ToolTip", "Master loop switch. When false the GIF plays exactly once and fires OnFinished,\nregardless of LoopCount. When true, LoopCount decides how many play-throughs." },
+#endif
 	};
 	static constexpr UECodeGen_Private::FMetaDataPairParam NewProp_LoopCount_MetaData[] = {
 		{ "Category", "GIF" },
 		{ "ClampMin", "0" },
+#if !UE_BUILD_SHIPPING
 		{ "Comment", "/**\n\x09 * Play-throughs before stopping when bLooping is true; 0 = forever. Seeded from\n\x09 * the asset in Initialize; set it afterwards to override.\n\x09 */" },
+#endif
 		{ "EditCondition", "bLooping" },
 		{ "ModuleRelativePath", "Public/GifPlayer.h" },
+#if !UE_BUILD_SHIPPING
 		{ "ToolTip", "Play-throughs before stopping when bLooping is true; 0 = forever. Seeded from\nthe asset in Initialize; set it afterwards to override." },
+#endif
 	};
 	static constexpr UECodeGen_Private::FMetaDataPairParam NewProp_bIgnorePause_MetaData[] = {
 		{ "Category", "GIF" },
+#if !UE_BUILD_SHIPPING
 		{ "Comment", "/** Keep animating while the game is paused (HUD/menu/loading GIFs). */" },
+#endif
 		{ "ModuleRelativePath", "Public/GifPlayer.h" },
+#if !UE_BUILD_SHIPPING
 		{ "ToolTip", "Keep animating while the game is paused (HUD/menu/loading GIFs)." },
+#endif
 	};
 	static constexpr UECodeGen_Private::FMetaDataPairParam NewProp_bIgnoreTimeDilation_MetaData[] = {
 		{ "Category", "GIF" },
+#if !UE_BUILD_SHIPPING
 		{ "Comment", "/** Advance by real time, ignoring world time dilation. */" },
+#endif
 		{ "ModuleRelativePath", "Public/GifPlayer.h" },
+#if !UE_BUILD_SHIPPING
 		{ "ToolTip", "Advance by real time, ignoring world time dilation." },
+#endif
 	};
 	static constexpr UECodeGen_Private::FMetaDataPairParam NewProp_OnLooped_MetaData[] = {
 		{ "Category", "GIF" },
+#if !UE_BUILD_SHIPPING
 		{ "Comment", "/** Fired each time playback wraps from the last frame back to the first. */" },
+#endif
 		{ "ModuleRelativePath", "Public/GifPlayer.h" },
+#if !UE_BUILD_SHIPPING
 		{ "ToolTip", "Fired each time playback wraps from the last frame back to the first." },
+#endif
 	};
 	static constexpr UECodeGen_Private::FMetaDataPairParam NewProp_OnFinished_MetaData[] = {
 		{ "Category", "GIF" },
+#if !UE_BUILD_SHIPPING
 		{ "Comment", "/** Fired once when a non-looping player reaches the final frame. */" },
+#endif
 		{ "ModuleRelativePath", "Public/GifPlayer.h" },
+#if !UE_BUILD_SHIPPING
 		{ "ToolTip", "Fired once when a non-looping player reaches the final frame." },
+#endif
 	};
 	static constexpr UECodeGen_Private::FMetaDataPairParam NewProp_OutputTexture_MetaData[] = {
 		{ "ModuleRelativePath", "Public/GifPlayer.h" },
 	};
 	static constexpr UECodeGen_Private::FMetaDataPairParam NewProp_RenderTarget_MetaData[] = {
+#if !UE_BUILD_SHIPPING
 		{ "Comment", "/** When set, this render target is the output instead of OutputTexture. */" },
+#endif
 		{ "ModuleRelativePath", "Public/GifPlayer.h" },
+#if !UE_BUILD_SHIPPING
 		{ "ToolTip", "When set, this render target is the output instead of OutputTexture." },
+#endif
 	};
 #endif // WITH_METADATA
 	static const UECodeGen_Private::FFloatPropertyParams NewProp_PlayRate;
@@ -708,17 +764,17 @@ struct Z_Construct_UClass_UGifPlayer_Statics
 	static constexpr FClassFunctionLinkInfo FuncInfo[] = {
 		{ &Z_Construct_UFunction_UGifPlayer_GetCurrentFrame, "GetCurrentFrame" }, // 621265161
 		{ &Z_Construct_UFunction_UGifPlayer_GetDimensions, "GetDimensions" }, // 2832547121
-		{ &Z_Construct_UFunction_UGifPlayer_GetDynamicTexture, "GetDynamicTexture" }, // 3414296840
+		{ &Z_Construct_UFunction_UGifPlayer_GetDynamicTexture, "GetDynamicTexture" }, // 97724157
 		{ &Z_Construct_UFunction_UGifPlayer_GetNumFrames, "GetNumFrames" }, // 3673450365
-		{ &Z_Construct_UFunction_UGifPlayer_GetRenderTarget, "GetRenderTarget" }, // 4241946477
-		{ &Z_Construct_UFunction_UGifPlayer_GetTexture, "GetTexture" }, // 1943590253
+		{ &Z_Construct_UFunction_UGifPlayer_GetRenderTarget, "GetRenderTarget" }, // 2881270101
+		{ &Z_Construct_UFunction_UGifPlayer_GetTexture, "GetTexture" }, // 2825790591
 		{ &Z_Construct_UFunction_UGifPlayer_IsPlaying, "IsPlaying" }, // 3925299739
 		{ &Z_Construct_UFunction_UGifPlayer_Pause, "Pause" }, // 3924307497
 		{ &Z_Construct_UFunction_UGifPlayer_Play, "Play" }, // 3814441812
 		{ &Z_Construct_UFunction_UGifPlayer_SeekToFrame, "SeekToFrame" }, // 2357442549
 		{ &Z_Construct_UFunction_UGifPlayer_SeekToTime, "SeekToTime" }, // 231477164
-		{ &Z_Construct_UFunction_UGifPlayer_SetRenderTarget, "SetRenderTarget" }, // 1235368950
-		{ &Z_Construct_UFunction_UGifPlayer_Stop, "Stop" }, // 2000976291
+		{ &Z_Construct_UFunction_UGifPlayer_SetRenderTarget, "SetRenderTarget" }, // 878863521
+		{ &Z_Construct_UFunction_UGifPlayer_Stop, "Stop" }, // 3172416301
 	};
 	static_assert(UE_ARRAY_COUNT(FuncInfo) < 2048);
 	static constexpr FCppClassTypeInfoStatic StaticCppClassTypeInfo = {
@@ -793,14 +849,14 @@ UGifPlayer::~UGifPlayer() {}
 // ********** End Class UGifPlayer *****************************************************************
 
 // ********** Begin Registration *******************************************************************
-struct Z_CompiledInDeferFile_FID_Users_yabaz_Documents_Unreal_Projects_1__Plugins_MyPlugins_AnimatedGif_HostProject_Plugins_AnimatedGif_Source_AnimatedGif_Public_GifPlayer_h__Script_AnimatedGif_Statics
+struct Z_CompiledInDeferFile_FID_Users_Realf_OneDrive_Documents_DartsFolder_DartsInOrbit_Plugins_AnimatedGif_Source_AnimatedGif_Public_GifPlayer_h__Script_AnimatedGif_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
-		{ Z_Construct_UClass_UGifPlayer, UGifPlayer::StaticClass, TEXT("UGifPlayer"), &Z_Registration_Info_UClass_UGifPlayer, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UGifPlayer), 2084402055U) },
+		{ Z_Construct_UClass_UGifPlayer, UGifPlayer::StaticClass, TEXT("UGifPlayer"), &Z_Registration_Info_UClass_UGifPlayer, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UGifPlayer), 534385007U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_yabaz_Documents_Unreal_Projects_1__Plugins_MyPlugins_AnimatedGif_HostProject_Plugins_AnimatedGif_Source_AnimatedGif_Public_GifPlayer_h__Script_AnimatedGif_976257470(TEXT("/Script/AnimatedGif"),
-	Z_CompiledInDeferFile_FID_Users_yabaz_Documents_Unreal_Projects_1__Plugins_MyPlugins_AnimatedGif_HostProject_Plugins_AnimatedGif_Source_AnimatedGif_Public_GifPlayer_h__Script_AnimatedGif_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_yabaz_Documents_Unreal_Projects_1__Plugins_MyPlugins_AnimatedGif_HostProject_Plugins_AnimatedGif_Source_AnimatedGif_Public_GifPlayer_h__Script_AnimatedGif_Statics::ClassInfo),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_Realf_OneDrive_Documents_DartsFolder_DartsInOrbit_Plugins_AnimatedGif_Source_AnimatedGif_Public_GifPlayer_h__Script_AnimatedGif_3554622128(TEXT("/Script/AnimatedGif"),
+	Z_CompiledInDeferFile_FID_Users_Realf_OneDrive_Documents_DartsFolder_DartsInOrbit_Plugins_AnimatedGif_Source_AnimatedGif_Public_GifPlayer_h__Script_AnimatedGif_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_Realf_OneDrive_Documents_DartsFolder_DartsInOrbit_Plugins_AnimatedGif_Source_AnimatedGif_Public_GifPlayer_h__Script_AnimatedGif_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);
 // ********** End Registration *********************************************************************

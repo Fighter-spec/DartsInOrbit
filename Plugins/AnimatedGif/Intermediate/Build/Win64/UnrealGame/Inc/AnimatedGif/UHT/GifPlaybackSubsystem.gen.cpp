@@ -56,10 +56,14 @@ struct Z_Construct_UClass_UGifPlaybackSubsystem_Statics
 {
 #if WITH_METADATA
 	static constexpr UECodeGen_Private::FMetaDataPairParam Class_MetaDataParams[] = {
+#if !UE_BUILD_SHIPPING
 		{ "Comment", "/**\n * Drives all GIF players that belong to a world. Ticks with world delta time, so\n * playback is pause- and time-dilation-aware by default; per-player overrides let\n * HUD/menu GIFs keep running while paused.\n */" },
+#endif
 		{ "IncludePath", "GifPlaybackSubsystem.h" },
 		{ "ModuleRelativePath", "Public/GifPlaybackSubsystem.h" },
+#if !UE_BUILD_SHIPPING
 		{ "ToolTip", "Drives all GIF players that belong to a world. Ticks with world delta time, so\nplayback is pause- and time-dilation-aware by default; per-player overrides let\nHUD/menu GIFs keep running while paused." },
+#endif
 	};
 	static constexpr UECodeGen_Private::FMetaDataPairParam NewProp_ActivePlayers_MetaData[] = {
 		{ "ModuleRelativePath", "Public/GifPlaybackSubsystem.h" },
@@ -115,14 +119,14 @@ UGifPlaybackSubsystem::~UGifPlaybackSubsystem() {}
 // ********** End Class UGifPlaybackSubsystem ******************************************************
 
 // ********** Begin Registration *******************************************************************
-struct Z_CompiledInDeferFile_FID_Users_yabaz_Documents_Unreal_Projects_1__Plugins_MyPlugins_AnimatedGif_HostProject_Plugins_AnimatedGif_Source_AnimatedGif_Public_GifPlaybackSubsystem_h__Script_AnimatedGif_Statics
+struct Z_CompiledInDeferFile_FID_Users_Realf_OneDrive_Documents_DartsFolder_DartsInOrbit_Plugins_AnimatedGif_Source_AnimatedGif_Public_GifPlaybackSubsystem_h__Script_AnimatedGif_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
-		{ Z_Construct_UClass_UGifPlaybackSubsystem, UGifPlaybackSubsystem::StaticClass, TEXT("UGifPlaybackSubsystem"), &Z_Registration_Info_UClass_UGifPlaybackSubsystem, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UGifPlaybackSubsystem), 2521936606U) },
+		{ Z_Construct_UClass_UGifPlaybackSubsystem, UGifPlaybackSubsystem::StaticClass, TEXT("UGifPlaybackSubsystem"), &Z_Registration_Info_UClass_UGifPlaybackSubsystem, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UGifPlaybackSubsystem), 1900222100U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_yabaz_Documents_Unreal_Projects_1__Plugins_MyPlugins_AnimatedGif_HostProject_Plugins_AnimatedGif_Source_AnimatedGif_Public_GifPlaybackSubsystem_h__Script_AnimatedGif_2734629744(TEXT("/Script/AnimatedGif"),
-	Z_CompiledInDeferFile_FID_Users_yabaz_Documents_Unreal_Projects_1__Plugins_MyPlugins_AnimatedGif_HostProject_Plugins_AnimatedGif_Source_AnimatedGif_Public_GifPlaybackSubsystem_h__Script_AnimatedGif_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_yabaz_Documents_Unreal_Projects_1__Plugins_MyPlugins_AnimatedGif_HostProject_Plugins_AnimatedGif_Source_AnimatedGif_Public_GifPlaybackSubsystem_h__Script_AnimatedGif_Statics::ClassInfo),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_Realf_OneDrive_Documents_DartsFolder_DartsInOrbit_Plugins_AnimatedGif_Source_AnimatedGif_Public_GifPlaybackSubsystem_h__Script_AnimatedGif_698752672(TEXT("/Script/AnimatedGif"),
+	Z_CompiledInDeferFile_FID_Users_Realf_OneDrive_Documents_DartsFolder_DartsInOrbit_Plugins_AnimatedGif_Source_AnimatedGif_Public_GifPlaybackSubsystem_h__Script_AnimatedGif_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_Realf_OneDrive_Documents_DartsFolder_DartsInOrbit_Plugins_AnimatedGif_Source_AnimatedGif_Public_GifPlaybackSubsystem_h__Script_AnimatedGif_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);
 // ********** End Registration *********************************************************************
